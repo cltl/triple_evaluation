@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="19" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="an expensive city">
+		<elementFirst id="w_23"/>
+		<elementFirst id="w_24"/>
+		<elementFirst id="w_25"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment=".Amsterdam">
+		<elementSecond id="w_21"/>
+	</elementSecondIds>
+</triple>
+<triple id="15" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="high">
+		<elementFirst id="w_13"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The price">
+		<elementSecond id="w_10"/>
+		<elementSecond id="w_11"/>
+	</elementSecondIds>
+</triple>
+<triple id="36" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="made everything much easier">
+		<elementFirst id="w_57"/>
+		<elementFirst id="w_58"/>
+		<elementFirst id="w_59"/>
+		<elementFirst id="w_60"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="us">
+		<elementSecond id="w_62"/>
+	</elementSecondIds>
+</triple>
+<triple id="36" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="made everything much easier">
+		<elementFirst id="w_57"/>
+		<elementFirst id="w_58"/>
+		<elementFirst id="w_59"/>
+		<elementFirst id="w_60"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment=".The bikes we could rent at the hotel">
+		<elementSecond id="w_49"/>
+		<elementSecond id="w_50"/>
+		<elementSecond id="w_51"/>
+		<elementSecond id="w_52"/>
+		<elementSecond id="w_53"/>
+		<elementSecond id="w_54"/>
+		<elementSecond id="w_55"/>
+		<elementSecond id="w_56"/>
+	</elementSecondIds>
+</triple>
+<triple id="27" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="outcome">
+		<elementFirst id="w_33"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="hotel iris">
+		<elementSecond id="w_27"/>
+		<elementSecond id="w_28"/>
+	</elementSecondIds>
+</triple>
+<triple id="27" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="outcome">
+		<elementFirst id="w_33"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="us">
+		<elementSecond id="w_31"/>
+	</elementSecondIds>
+</triple>
+<triple id="45" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="thnx for all your help">
+		<elementFirst id="w_64"/>
+		<elementFirst id="w_65"/>
+		<elementFirst id="w_66"/>
+		<elementFirst id="w_67"/>
+		<elementFirst id="w_68"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment=".staff">
+		<elementSecond id="w_63"/>
+	</elementSecondIds>
+</triple>
+<triple id="5" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="a perfect stay">
+		<elementFirst id="w_6"/>
+		<elementFirst id="w_7"/>
+		<elementFirst id="w_8"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="hotel iris">
+		<elementSecond id="w_1"/>
+		<elementSecond id="w_2"/>
+	</elementSecondIds>
+</triple>
+<triple id="5" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="a perfect stay">
+		<elementFirst id="w_6"/>
+		<elementFirst id="w_7"/>
+		<elementFirst id="w_8"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="us">
+		<elementSecond id="w_5"/>
+	</elementSecondIds>
+</triple>
+<triple id="31" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment=".perfect">
+		<elementFirst id="w_34"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="breakfast">
+		<elementSecond id="w_35"/>
+	</elementSecondIds>
+</triple>
+<triple id="15" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="perfect">
+		<elementFirst id="w_20"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The price">
+		<elementSecond id="w_10"/>
+		<elementSecond id="w_11"/>
+	</elementSecondIds>
+</triple>
+</triples>

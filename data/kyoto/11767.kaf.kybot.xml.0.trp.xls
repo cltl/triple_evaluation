@@ -1,0 +1,64 @@
+tokenRangeFile:	../data/11767.tag.trp.first-element-token-scope
+tokenRange:	407
+
+Results per relation
+Relation	Total gold	Proportion Gold	Total system	Proportion system	PartialIdExactRelation	Recall	Precision
+has-in-scope	0	0%	3	1%	0	0	0
+has-change-situation	0	0%	3	1%	0	0	0
+destination-of	36	7%	0	0%	0	0	0
+use-of	5	1%	9	4%	0	0	0
+has-path	0	0%	2	1%	0	0	0
+generic-location	14	2%	15	7%	1	7	6
+source-of	13	2%	1	0%	0	0	0
+instrument	2	0%	5	2%	0	0	0
+elementSecond	2	0%	0	0%	0	0	0
+product-of	3	0%	2	1%	0	0	0
+part-of	1	0%	3	1%	0	0	0
+purpose-of	9	1%	4	2%	0	0	0
+q-location	0	0%	3	1%	0	0	0
+patient	165	35%	47	24%	5	3	10
+path-of	1	0%	0	0%	0	0	0
+result-of	14	2%	1	0%	0	0	0
+participant	0	0%	5	2%	0	0	0
+has-state	47	10%	8	4%	0	0	0
+state-of	22	4%	0	0%	0	0	0
+done-by	83	17%	30	15%	4	4	13
+simple-cause-of	53	11%	23	11%	0	0	0
+Total	470		164		10	2	6
+
+Precision and recall figures
+Gold standard	11767.tag.trp
+	Nr. of Triples	470
+	Average nr. of first element ids	1
+	Average nr. of second element ids	2
+
+System file	11767.kaf.kybot.xml.0.trp
+	Nr. of Triples in total	195
+	Nr. of Triples in range	195
+	Nr. of Triples out of range	0
+	Average nr. of first element ids	1
+	Average nr. of second element ids	1
+	Number of unique Triples in scope	162
+
+	Number of first elements represented in gold standard Triples	263
+	Number of first elements represented in system Triples	53
+	Number of correct first elements represented in system Triples	53
+	Recall of first elements	0.20152091254752852
+	Precision of first elements	1.0
+
+	Number of second elements represented in gold standard Triples	362
+	Number of second elements represented in system Triples	49
+	Number of correct second elements represented in system Triples	49
+	Recall of second elements	0.13535911602209943
+	Precision of second elements	1.0
+
+Partial identifiers and same relation
+	Nr. correct	10
+	Precision	0.06172839506172839
+	Recall	0.02127659574468085
+
+	Nr of Triples	Triples inscope	Correct	WSD threshold	Precision	Recall
+11767.kaf.kybot.xml.0.trp	195	162	10		0.06172839506172839	0.02127659574468085
+
+	Nr First Elements	Correct	Recall	Precision
+11767.kaf.kybot.xml.0.trp	53	53	0.20152091254752852	1.0

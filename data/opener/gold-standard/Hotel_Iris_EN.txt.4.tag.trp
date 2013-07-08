@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="17" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="No kettle for that early morning coffee">
+		<elementFirst id="w_39"/>
+		<elementFirst id="w_40"/>
+		<elementFirst id="w_41"/>
+		<elementFirst id="w_42"/>
+		<elementFirst id="w_43"/>
+		<elementFirst id="w_44"/>
+		<elementFirst id="w_45"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="12" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="very steep">
+		<elementFirst id="w_35"/>
+		<elementFirst id="w_36"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="stairs">
+		<elementSecond id="w_37"/>
+	</elementSecondIds>
+</triple>
+<triple id="13" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="No lift">
+		<elementFirst id="w_32"/>
+		<elementFirst id="w_33"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="4" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="Nice">
+		<elementFirst id="w_1"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="location">
+		<elementSecond id="w_2"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="Very clean">
+		<elementFirst id="w_47"/>
+		<elementFirst id="w_48"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="27" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="Good for short stay">
+		<elementFirst id="w_52"/>
+		<elementFirst id="w_53"/>
+		<elementFirst id="w_54"/>
+		<elementFirst id="w_55"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+</triples>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="49" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="stay again !">
+		<elementFirst id="w_83"/>
+		<elementFirst id="w_85"/>
+		<elementFirst id="w_86"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="here">
+		<elementSecond id="w_84"/>
+	</elementSecondIds>
+</triple>
+<triple id="49" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="Would recommend">
+		<elementFirst id="w_80"/>
+		<elementFirst id="w_81"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="here">
+		<elementSecond id="w_84"/>
+	</elementSecondIds>
+</triple>
+<triple id="42" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="close to everything">
+		<elementFirst id="w_73"/>
+		<elementFirst id="w_74"/>
+		<elementFirst id="w_75"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="location">
+		<elementSecond id="w_71"/>
+	</elementSecondIds>
+</triple>
+<triple id="42" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="not noisy">
+		<elementFirst id="w_77"/>
+		<elementFirst id="w_78"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="location">
+		<elementSecond id="w_71"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="really helpful">
+		<elementFirst id="w_60"/>
+		<elementFirst id="w_61"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Conceirge">
+		<elementSecond id="w_57"/>
+	</elementSecondIds>
+</triple>
+<triple id="10" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="helpful throughout the stay">
+		<elementFirst id="w_26"/>
+		<elementFirst id="w_27"/>
+		<elementFirst id="w_28"/>
+		<elementFirst id="w_29"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Staff (including the trainee on reception">
+		<elementSecond id="w_15"/>
+		<elementSecond id="w_19"/>
+		<elementSecond id="w_20"/>
+		<elementSecond id="w_21"/>
+		<elementSecond id="w_22"/>
+		<elementSecond id="w_23"/>
+	</elementSecondIds>
+</triple>
+<triple id="30" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="well decorated">
+		<elementFirst id="w_67"/>
+		<elementFirst id="w_68"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Room">
+		<elementSecond id="w_63"/>
+	</elementSecondIds>
+</triple>
+<triple id="30" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="lovely">
+		<elementFirst id="w_65"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Room">
+		<elementSecond id="w_63"/>
+	</elementSecondIds>
+</triple>
+<triple id="15" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="was delivered to our room almost as soon as we got to our room">
+		<elementFirst id="w_42"/>
+		<elementFirst id="w_43"/>
+		<elementFirst id="w_44"/>
+		<elementFirst id="w_45"/>
+		<elementFirst id="w_46"/>
+		<elementFirst id="w_47"/>
+		<elementFirst id="w_48"/>
+		<elementFirst id="w_49"/>
+		<elementFirst id="w_50"/>
+		<elementFirst id="w_51"/>
+		<elementFirst id="w_52"/>
+		<elementFirst id="w_53"/>
+		<elementFirst id="w_54"/>
+		<elementFirst id="w_55"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="a cot bed">
+		<elementSecond id="w_39"/>
+		<elementSecond id="w_40"/>
+		<elementSecond id="w_41"/>
+	</elementSecondIds>
+</triple>
+<triple id="42" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="Great">
+		<elementFirst id="w_70"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="location">
+		<elementSecond id="w_71"/>
+	</elementSecondIds>
+</triple>
+<triple id="10" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="really friendly">
+		<elementFirst id="w_17"/>
+		<elementFirst id="w_18"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Staff (including the trainee on reception">
+		<elementSecond id="w_15"/>
+		<elementSecond id="w_19"/>
+		<elementSecond id="w_20"/>
+		<elementSecond id="w_21"/>
+		<elementSecond id="w_22"/>
+		<elementSecond id="w_23"/>
+	</elementSecondIds>
+</triple>
+</triples>

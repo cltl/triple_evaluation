@@ -1,0 +1,5 @@
+done-by	a1
+cause	a1
+patient	a2
+result-of	a2
+purpose-of	a2

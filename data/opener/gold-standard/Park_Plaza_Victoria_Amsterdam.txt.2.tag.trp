@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="53" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="a bit slow connection">
+		<elementFirst id="w_75"/>
+		<elementFirst id="w_76"/>
+		<elementFirst id="w_77"/>
+		<elementFirst id="w_78"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="internet connection">
+		<elementSecond id="w_72"/>
+		<elementSecond id="w_73"/>
+	</elementSecondIds>
+</triple>
+<triple id="53" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="forget about youtube for ex">
+		<elementFirst id="w_86"/>
+		<elementFirst id="w_87"/>
+		<elementFirst id="w_88"/>
+		<elementFirst id="w_89"/>
+		<elementFirst id="w_90"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="internet connection">
+		<elementSecond id="w_72"/>
+		<elementSecond id="w_73"/>
+	</elementSecondIds>
+</triple>
+<triple id="53" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="ok for browsing">
+		<elementFirst id="w_82"/>
+		<elementFirst id="w_83"/>
+		<elementFirst id="w_84"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="internet connection">
+		<elementSecond id="w_72"/>
+		<elementSecond id="w_73"/>
+	</elementSecondIds>
+</triple>
+<triple id="36" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="friendly">
+		<elementFirst id="w_62"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Employees at the reception">
+		<elementSecond id="w_55"/>
+		<elementSecond id="w_56"/>
+		<elementSecond id="w_57"/>
+		<elementSecond id="w_58"/>
+	</elementSecondIds>
+</triple>
+<triple id="36" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="helpful">
+		<elementFirst id="w_60"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="Employees at the reception">
+		<elementSecond id="w_55"/>
+		<elementSecond id="w_56"/>
+		<elementSecond id="w_57"/>
+		<elementSecond id="w_58"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="facing the train station">
+		<elementFirst id="w_24"/>
+		<elementFirst id="w_25"/>
+		<elementFirst id="w_26"/>
+		<elementFirst id="w_27"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The hotel">
+		<elementSecond id="w_21"/>
+		<elementSecond id="w_22"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="very close to a very long shopping street with every thing you would need">
+		<elementFirst id="w_30"/>
+		<elementFirst id="w_31"/>
+		<elementFirst id="w_32"/>
+		<elementFirst id="w_33"/>
+		<elementFirst id="w_34"/>
+		<elementFirst id="w_35"/>
+		<elementFirst id="w_36"/>
+		<elementFirst id="w_37"/>
+		<elementFirst id="w_38"/>
+		<elementFirst id="w_39"/>
+		<elementFirst id="w_40"/>
+		<elementFirst id="w_41"/>
+		<elementFirst id="w_42"/>
+		<elementFirst id="w_43"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The hotel">
+		<elementSecond id="w_21"/>
+		<elementSecond id="w_22"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="not so far from Red light district">
+		<elementFirst id="w_46"/>
+		<elementFirst id="w_47"/>
+		<elementFirst id="w_48"/>
+		<elementFirst id="w_49"/>
+		<elementFirst id="w_50"/>
+		<elementFirst id="w_51"/>
+		<elementFirst id="w_52"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The hotel">
+		<elementSecond id="w_21"/>
+		<elementSecond id="w_22"/>
+	</elementSecondIds>
+</triple>
+<triple id="9" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="very close to every thing">
+		<elementFirst id="w_7"/>
+		<elementFirst id="w_8"/>
+		<elementFirst id="w_9"/>
+		<elementFirst id="w_10"/>
+		<elementFirst id="w_11"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="that hotel">
+		<elementSecond id="w_2"/>
+		<elementSecond id="w_3"/>
+	</elementSecondIds>
+</triple>
+<triple id="72" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="would choose again">
+		<elementFirst id="w_119"/>
+		<elementFirst id="w_120"/>
+		<elementFirst id="w_122"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="it">
+		<elementSecond id="w_121"/>
+	</elementSecondIds>
+</triple>
+<triple id="44" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="nice looking">
+		<elementFirst id="w_68"/>
+		<elementFirst id="w_69"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="room">
+		<elementSecond id="w_64"/>
+	</elementSecondIds>
+</triple>
+<triple id="44" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="clean">
+		<elementFirst id="w_66"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="room">
+		<elementSecond id="w_64"/>
+	</elementSecondIds>
+</triple>
+<triple id="15" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="close to damrak square , Madame Tassuds museum">
+		<elementFirst id="w_13"/>
+		<elementFirst id="w_14"/>
+		<elementFirst id="w_15"/>
+		<elementFirst id="w_16"/>
+		<elementFirst id="w_17"/>
+		<elementFirst id="w_18"/>
+		<elementFirst id="w_19"/>
+		<elementFirst id="w_20"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment=".its">
+		<elementSecond id="w_12"/>
+	</elementSecondIds>
+</triple>
+<triple id="65" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="really enjoyed our stay">
+		<elementFirst id="w_112"/>
+		<elementFirst id="w_113"/>
+		<elementFirst id="w_114"/>
+		<elementFirst id="w_115"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="there">
+		<elementSecond id="w_116"/>
+	</elementSecondIds>
+</triple>
+<triple id="65" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="really enjoyed our stay">
+		<elementFirst id="w_112"/>
+		<elementFirst id="w_113"/>
+		<elementFirst id="w_114"/>
+		<elementFirst id="w_115"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="Me and my wife">
+		<elementSecond id="w_108"/>
+		<elementSecond id="w_109"/>
+		<elementSecond id="w_110"/>
+		<elementSecond id="w_111"/>
+	</elementSecondIds>
+</triple>
+<triple id="9" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="really good">
+		<elementFirst id="w_5"/>
+		<elementFirst id="w_6"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="that hotel">
+		<elementSecond id="w_2"/>
+		<elementSecond id="w_3"/>
+	</elementSecondIds>
+</triple>
+</triples>

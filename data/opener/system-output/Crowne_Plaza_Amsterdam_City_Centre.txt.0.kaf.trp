@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="t_10" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="Great">
+		<elementFirst id="w_10"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_13" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="easy">
+		<elementFirst id="w_13"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_18" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="central">
+		<elementFirst id="w_18"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_19" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="train">
+		<elementFirst id="w_19"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_25" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="Clean">
+		<elementFirst id="w_25"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_27" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="modern">
+		<elementFirst id="w_27"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_29" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="comfortable">
+		<elementFirst id="w_29"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_32" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="comfy">
+		<elementFirst id="w_32"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_45" relation="#####shifter#" kaflayer="term">
+	<elementFirstIds comment="No">
+		<elementFirst id="w_45"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_46" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="free">
+		<elementFirst id="w_46"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_51" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="will">
+		<elementFirst id="w_51"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_74" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_74"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_77" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="little">
+		<elementFirst id="w_77"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_81" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="amazing">
+		<elementFirst id="w_81"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_87" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="all">
+		<elementFirst id="w_87"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_97" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="really">
+		<elementFirst id="w_97"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_98" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="quite">
+		<elementFirst id="w_98"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_99" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="good">
+		<elementFirst id="w_99"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_103" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="easily">
+		<elementFirst id="w_103"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_106" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="many">
+		<elementFirst id="w_106"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_109" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="popular">
+		<elementFirst id="w_109"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_122" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_122"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_157" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="recommend">
+		<elementFirst id="w_157"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_159" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="one">
+		<elementFirst id="w_159"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_163" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="bit">
+		<elementFirst id="w_163"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_170" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="close">
+		<elementFirst id="w_170"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_173" relation="negative######" kaflayer="term">
+	<elementFirstIds comment="too">
+		<elementFirst id="w_173"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_177" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="highly">
+		<elementFirst id="w_177"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_178" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="recommend">
+		<elementFirst id="w_178"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_182" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="careful">
+		<elementFirst id="w_182"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_199" relation="#####intensifier#" kaflayer="term">
+	<elementFirstIds comment="all">
+		<elementFirst id="w_199"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_202" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="nice">
+		<elementFirst id="w_202"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_206" relation="#####shifter#" kaflayer="term">
+	<elementFirstIds comment="nothing">
+		<elementFirst id="w_206"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="t_207" relation="positive######" kaflayer="term">
+	<elementFirstIds comment="exceptional">
+		<elementFirst id="w_207"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="o_1" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="Great">
+		<elementFirst id="w_10"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="location">
+		<elementSecond id="w_11"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_2" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="easy">
+		<elementFirst id="w_13"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="walking">
+		<elementSecond id="w_14"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_3" relation="positive#2#####" kaflayer="opinion">
+	<elementFirstIds comment="central train">
+		<elementFirst id="w_18"/>
+		<elementFirst id="w_19"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="station">
+		<elementSecond id="w_20"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_4" relation="positive#3#####" kaflayer="opinion">
+	<elementFirstIds comment="Clean modern comfortable">
+		<elementFirst id="w_25"/>
+		<elementFirst id="w_27"/>
+		<elementFirst id="w_29"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="room">
+		<elementSecond id="w_30"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_5" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="comfy">
+		<elementFirst id="w_32"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="bed">
+		<elementSecond id="w_33"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_6" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="free No">
+		<elementFirst id="w_46"/>
+		<elementFirst id="w_45"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="wifi">
+		<elementSecond id="w_47"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_7" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="will">
+		<elementFirst id="w_51"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="cost">
+		<elementSecond id="w_52"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_8" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_74"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="We">
+		<elementSecond id="w_59"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_8" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_74"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="walked">
+		<elementSecond id="w_72"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_9" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="little">
+		<elementFirst id="w_77"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="We">
+		<elementSecond id="w_59"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_9" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="little">
+		<elementFirst id="w_77"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="restaurant">
+		<elementSecond id="w_78"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_10" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="amazing">
+		<elementFirst id="w_81"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="We">
+		<elementSecond id="w_59"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_10" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="amazing">
+		<elementFirst id="w_81"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="breakfast">
+		<elementSecond id="w_82"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_11" relation="positive#4#####" kaflayer="opinion">
+	<elementFirstIds comment="good quite really">
+		<elementFirst id="w_99"/>
+		<elementFirst id="w_98"/>
+		<elementFirst id="w_97"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="street">
+		<elementSecond id="w_95"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_12" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="easily">
+		<elementFirst id="w_103"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="walk">
+		<elementSecond id="w_104"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_13" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="popular">
+		<elementFirst id="w_109"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="sites">
+		<elementSecond id="w_110"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_14" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_122"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="away">
+		<elementSecond id="w_123"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_15" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="recommend">
+		<elementFirst id="w_157"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_156"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_15" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="recommend">
+		<elementFirst id="w_157"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="that">
+		<elementSecond id="w_158"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_16" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="one">
+		<elementFirst id="w_159"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_156"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_16" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="one">
+		<elementFirst id="w_159"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="for">
+		<elementSecond id="w_160"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_17" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="bit">
+		<elementFirst id="w_163"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_156"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_17" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="bit">
+		<elementFirst id="w_163"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="more">
+		<elementSecond id="w_164"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_18" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="close">
+		<elementFirst id="w_170"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_176"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_18" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="close">
+		<elementFirst id="w_170"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="are">
+		<elementSecond id="w_169"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_19" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="too">
+		<elementFirst id="w_173"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_176"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_19" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="too">
+		<elementFirst id="w_173"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="which">
+		<elementSecond id="w_175"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_20" relation="positive#2#####" kaflayer="opinion">
+	<elementFirstIds comment="recommend highly">
+		<elementFirst id="w_178"/>
+		<elementFirst id="w_177"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_176"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_20" relation="positive#2#####" kaflayer="opinion">
+	<elementFirstIds comment="recommend highly">
+		<elementFirst id="w_178"/>
+		<elementFirst id="w_177"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="but">
+		<elementSecond id="w_180"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_21" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="careful">
+		<elementFirst id="w_182"/>
+	</elementFirstIds>
+	<elementSecondIds label="holder:" comment="I">
+		<elementSecond id="w_176"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_21" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="careful">
+		<elementFirst id="w_182"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="the">
+		<elementSecond id="w_184"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_22" relation="positive#1#####" kaflayer="opinion">
+	<elementFirstIds comment="nice">
+		<elementFirst id="w_202"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="stay">
+		<elementSecond id="w_203"/>
+	</elementSecondIds>
+</triple>
+<triple id="o_23" relation="negative#-1#####" kaflayer="opinion">
+	<elementFirstIds comment="exceptional nothing">
+		<elementFirst id="w_207"/>
+		<elementFirst id="w_206"/>
+	</elementFirstIds>
+	<elementSecondIds label="target" comment="but">
+		<elementSecond id="w_205"/>
+	</elementSecondIds>
+</triple>
+<triple id="e_1" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="may">
+		<elementFirst id="w_102"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_2" relation="ORG" kaflayer="entity">
+	<elementFirstIds comment="who">
+		<elementFirst id="w_191"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_3" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_74"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_3" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_122"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_4" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="I">
+		<elementFirst id="w_133"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_4" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="I">
+		<elementFirst id="w_156"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_4" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="I">
+		<elementFirst id="w_176"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_5" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="be">
+		<elementFirst id="w_181"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_6" relation="LOC" kaflayer="entity">
+	<elementFirstIds comment="all">
+		<elementFirst id="w_87"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_6" relation="LOC" kaflayer="entity">
+	<elementFirstIds comment="all">
+		<elementFirst id="w_199"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_6"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_35"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_73"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_76"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_116"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_121"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_129"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_162"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_7" relation="MISC" kaflayer="entity">
+	<elementFirstIds comment="a">
+		<elementFirst id="w_201"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_8" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="1">
+		<elementFirst id="w_2"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_8" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="1">
+		<elementFirst id="w_151"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_9" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="We">
+		<elementFirst id="w_59"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_9" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="we">
+		<elementFirst id="w_71"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_9" relation="PER" kaflayer="entity">
+	<elementFirstIds comment="we">
+		<elementFirst id="w_135"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="e_10" relation="LOC" kaflayer="entity">
+	<elementFirstIds comment="nice">
+		<elementFirst id="w_202"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_1" relation="value_for_money" kaflayer="property">
+	<elementFirstIds comment="free">
+		<elementFirst id="w_46"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_1" relation="value_for_money" kaflayer="property">
+	<elementFirstIds comment="cost">
+		<elementFirst id="w_52"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_1" relation="value_for_money" kaflayer="property">
+	<elementFirstIds comment="euro">
+		<elementFirst id="w_55"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_1" relation="value_for_money" kaflayer="property">
+	<elementFirstIds comment="euro">
+		<elementFirst id="w_85"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_1" relation="value_for_money" kaflayer="property">
+	<elementFirstIds comment="euro">
+		<elementFirst id="w_165"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_2" relation="bathroom" kaflayer="property">
+	<elementFirstIds comment="bath">
+		<elementFirst id="w_36"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_2" relation="bathroom" kaflayer="property">
+	<elementFirstIds comment="tub">
+		<elementFirst id="w_37"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_3" relation="noise" kaflayer="property">
+	<elementFirstIds comment="traffic">
+		<elementFirst id="w_187"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_4" relation="room" kaflayer="property">
+	<elementFirstIds comment="room">
+		<elementFirst id="w_30"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_5" relation="restaurant" kaflayer="property">
+	<elementFirstIds comment="restaurant">
+		<elementFirst id="w_78"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_5" relation="restaurant" kaflayer="property">
+	<elementFirstIds comment="restaurant">
+		<elementFirst id="w_92"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_6" relation="cleanliness" kaflayer="property">
+	<elementFirstIds comment="Clean">
+		<elementFirst id="w_25"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_7" relation="sleeping_comfort" kaflayer="property">
+	<elementFirstIds comment="comfortable">
+		<elementFirst id="w_29"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_7" relation="sleeping_comfort" kaflayer="property">
+	<elementFirstIds comment="comfy">
+		<elementFirst id="w_32"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_7" relation="sleeping_comfort" kaflayer="property">
+	<elementFirstIds comment="bed">
+		<elementFirst id="w_33"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_8" relation="facilities" kaflayer="property">
+	<elementFirstIds comment="Bike">
+		<elementFirst id="w_167"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_8" relation="facilities" kaflayer="property">
+	<elementFirstIds comment="bike">
+		<elementFirst id="w_186"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="location">
+		<elementFirst id="w_11"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="central">
+		<elementFirst id="w_18"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="station">
+		<elementFirst id="w_20"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="walked">
+		<elementFirst id="w_72"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_74"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="canal">
+		<elementFirst id="w_117"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="block">
+		<elementFirst id="w_122"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="canal">
+		<elementFirst id="w_130"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="canal">
+		<elementFirst id="w_145"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_9" relation="location" kaflayer="property">
+	<elementFirstIds comment="close">
+		<elementFirst id="w_170"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_10" relation="internet" kaflayer="property">
+	<elementFirstIds comment="wifi">
+		<elementFirst id="w_47"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_11" relation="breakfast" kaflayer="property">
+	<elementFirstIds comment="breakfast">
+		<elementFirst id="w_50"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+<triple id="p_11" relation="breakfast" kaflayer="property">
+	<elementFirstIds comment="breakfast">
+		<elementFirst id="w_82"/>
+	</elementFirstIds>
+	<elementSecondIds/>
+</triple>
+</triples>

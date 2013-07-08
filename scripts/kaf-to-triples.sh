@@ -1,0 +1,1 @@
+java -Xmx812m -cp ../lib/TripleEvaluation-1.0-jar-with-dependencies.jar vu.tripleevaluation.conversion.ConvertKafToTriples --kaf-folder "../data/opener/system-output" --extension ".kaf" --intersect --opinion

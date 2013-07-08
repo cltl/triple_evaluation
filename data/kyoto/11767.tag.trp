@@ -1,0 +1,5169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="550" profile_id="" relation="patient">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w5335"/>
+	</elementFirstIds>
+	<elementSecondIds comment="erosion">
+		<elementSecond id="w5336"/>
+	</elementSecondIds>
+</triple>
+<triple id="550" profile_id="" relation="done-by">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w5335"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forested areas">
+		<elementSecond id="w5333"/>
+		<elementSecond id="w5334"/>
+	</elementSecondIds>
+</triple>
+<triple id="1102" profile_id="" relation="patient">
+	<elementFirstIds comment="consume">
+		<elementFirst id="w6335"/>
+	</elementFirstIds>
+	<elementSecondIds comment="them">
+		<elementSecond id="w6336"/>
+	</elementSecondIds>
+</triple>
+<triple id="1102" profile_id="" relation="done-by">
+	<elementFirstIds comment="consume">
+		<elementFirst id="w6335"/>
+	</elementFirstIds>
+	<elementSecondIds comment="humans">
+		<elementSecond id="w6333"/>
+	</elementSecondIds>
+</triple>
+<triple id="5" profile_id="" relation="has-state">
+	<elementFirstIds comment="largest">
+		<elementFirst id="w50"/>
+	</elementFirstIds>
+	<elementSecondIds comment="estuary">
+		<elementSecond id="w51"/>
+	</elementSecondIds>
+</triple>
+<triple id="5" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="largest">
+		<elementFirst id="w50"/>
+	</elementFirstIds>
+	<elementSecondIds comment="United States">
+		<elementSecond id="w54"/>
+		<elementSecond id="w55"/>
+	</elementSecondIds>
+</triple>
+<triple id="12" profile_id="" relation="generic-location">
+	<elementFirstIds comment="home">
+		<elementFirst id="w403"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Bay watershed">
+		<elementSecond id="w400"/>
+		<elementSecond id="w401"/>
+	</elementSecondIds>
+</triple>
+<triple id="12" profile_id="" relation="done-by">
+	<elementFirstIds comment="home">
+		<elementFirst id="w403"/>
+	</elementFirstIds>
+	<elementSecondIds comment="17 million people">
+		<elementSecond id="w406"/>
+		<elementSecond id="w407"/>
+		<elementSecond id="w408"/>
+	</elementSecondIds>
+</triple>
+<triple id="1089" profile_id="" relation="patient">
+	<elementFirstIds comment="dissolved">
+		<elementFirst id="w5860"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oxygen">
+		<elementSecond id="w5861"/>
+	</elementSecondIds>
+</triple>
+<triple id="1117" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="reopened">
+		<elementFirst id="w10429"/>
+	</elementFirstIds>
+	<elementSecondIds comment="allow">
+		<elementSecond id="w10431"/>
+	</elementSecondIds>
+</triple>
+<triple id="1117" profile_id="" relation="patient">
+	<elementFirstIds comment="reopened">
+		<elementFirst id="w10429"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Streams and rivers">
+		<elementSecond id="w10424"/>
+		<elementSecond id="w10425"/>
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="18" profile_id="" relation="has-state">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w426"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to nearly 20 million">
+		<elementSecond id="w427"/>
+		<elementSecond id="w428"/>
+		<elementSecond id="w429"/>
+		<elementSecond id="w430"/>
+	</elementSecondIds>
+</triple>
+<triple id="18" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w426"/>
+	</elementFirstIds>
+	<elementSecondIds comment="by 2030">
+		<elementSecond id="w431"/>
+		<elementSecond id="w432"/>
+	</elementSecondIds>
+</triple>
+<triple id="18" profile_id="" relation="done-by">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w426"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w424"/>
+	</elementSecondIds>
+</triple>
+<triple id="564" profile_id="" relation="patient">
+	<elementFirstIds comment="covered">
+		<elementFirst id="w5351"/>
+	</elementFirstIds>
+	<elementSecondIds comment="95 percent of the watershed">
+		<elementSecond id="w5352"/>
+		<elementSecond id="w5353"/>
+		<elementSecond id="w5354"/>
+		<elementSecond id="w5355"/>
+		<elementSecond id="w5356"/>
+	</elementSecondIds>
+</triple>
+<triple id="564" profile_id="" relation="done-by">
+	<elementFirstIds comment="covered">
+		<elementFirst id="w5351"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests">
+		<elementSecond id="w5350"/>
+	</elementSecondIds>
+</triple>
+<triple id="564" profile_id="" relation="TIME">
+	<elementFirstIds comment="covered">
+		<elementFirst id="w5351"/>
+	</elementFirstIds>
+	<elementSecondIds comment="In the 1600s">
+		<elementSecond id="w5346"/>
+		<elementSecond id="w5347"/>
+		<elementSecond id="w5348"/>
+	</elementSecondIds>
+</triple>
+<triple id="1112" profile_id="" relation="patient">
+	<elementFirstIds comment="abundance">
+		<elementFirst id="w8629"/>
+	</elementFirstIds>
+	<elementSecondIds comment="shad">
+		<elementSecond id="w8628"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" profile_id="" relation="patient">
+	<elementFirstIds comment="developed">
+		<elementFirst id="w541"/>
+	</elementFirstIds>
+	<elementSecondIds comment="land">
+		<elementSecond id="w538"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="developed">
+		<elementFirst id="w541"/>
+	</elementFirstIds>
+	<elementSecondIds comment="agriculture">
+		<elementSecond id="w548"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="developed">
+		<elementFirst id="w541"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban and suburban lands">
+		<elementSecond id="w550"/>
+		<elementSecond id="w551"/>
+		<elementSecond id="w552"/>
+		<elementSecond id="w553"/>
+	</elementSecondIds>
+</triple>
+<triple id="27" profile_id="" relation="has-state">
+	<elementFirstIds comment="unhealthy">
+		<elementFirst id="w1622"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Chesapeake Bay and its tributaries">
+		<elementSecond id="w1615"/>
+		<elementSecond id="w1616"/>
+		<elementSecond id="w1617"/>
+		<elementSecond id="w1618"/>
+		<elementSecond id="w1619"/>
+		<elementSecond id="w1620"/>
+	</elementSecondIds>
+</triple>
+<triple id="573" profile_id="" relation="result-of">
+	<elementFirstIds comment="reducing">
+		<elementFirst id="w5371"/>
+	</elementFirstIds>
+	<elementSecondIds comment="at the rate of 100 acres per day">
+		<elementSecond id="w5373"/>
+		<elementSecond id="w5374"/>
+		<elementSecond id="w5375"/>
+		<elementSecond id="w5376"/>
+		<elementSecond id="w5377"/>
+		<elementSecond id="w5378"/>
+		<elementSecond id="w5379"/>
+		<elementSecond id="w5380"/>
+	</elementSecondIds>
+</triple>
+<triple id="573" profile_id="" relation="patient">
+	<elementFirstIds comment="reducing">
+		<elementFirst id="w5371"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests">
+		<elementSecond id="w5372"/>
+	</elementSecondIds>
+</triple>
+<triple id="573" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="reducing">
+		<elementFirst id="w5371"/>
+	</elementFirstIds>
+	<elementSecondIds comment="development">
+		<elementSecond id="w5369"/>
+	</elementSecondIds>
+</triple>
+<triple id="568" profile_id="" relation="patient">
+	<elementFirstIds comment="forested">
+		<elementFirst id="w5366"/>
+	</elementFirstIds>
+	<elementSecondIds comment="only 58 percent of the watershed">
+		<elementSecond id="w5359"/>
+		<elementSecond id="w5360"/>
+		<elementSecond id="w5361"/>
+		<elementSecond id="w5362"/>
+		<elementSecond id="w5363"/>
+		<elementSecond id="w5364"/>
+	</elementSecondIds>
+</triple>
+<triple id="568" profile_id="" relation="TIME">
+	<elementFirstIds comment="forested">
+		<elementFirst id="w5366"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Now">
+		<elementSecond id="w5358"/>
+	</elementSecondIds>
+</triple>
+<triple id="1133" profile_id="" relation="use-of">
+	<elementFirstIds comment="passage">
+		<elementFirst id="w10949"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10948"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="has-state">
+	<elementFirstIds comment="excess">
+		<elementFirst id="w1628"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Chesapeake Bay and its tributaries">
+		<elementSecond id="w1615"/>
+		<elementSecond id="w1616"/>
+		<elementSecond id="w1617"/>
+		<elementSecond id="w1618"/>
+		<elementSecond id="w1619"/>
+		<elementSecond id="w1620"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="has-state">
+	<elementFirstIds comment="excess">
+		<elementFirst id="w1628"/>
+	</elementFirstIds>
+	<elementSecondIds comment="excess nitrogen">
+		<elementSecond id="w1628"/>
+		<elementSecond id="w1629"/>
+	</elementSecondIds>
+</triple>
+<triple id="1130" profile_id="" relation="elementSecond">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="local fish species">
+		<elementSecond id="w10905"/>
+		<elementSecond id="w10906"/>
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="1130" profile_id="" relation="generic-location">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in streams , creeks and rivers">
+		<elementSecond id="w10908"/>
+		<elementSecond id="w10909"/>
+		<elementSecond id="w10910"/>
+		<elementSecond id="w10911"/>
+		<elementSecond id="w10912"/>
+		<elementSecond id="w10913"/>
+	</elementSecondIds>
+</triple>
+<triple id="1130" profile_id="" relation="patient">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10903"/>
+	</elementSecondIds>
+</triple>
+<triple id="36" profile_id="" relation="product-of">
+	<elementFirstIds comment="agriculture urban and suburban runoff wastewater airborne contaminants">
+		<elementFirst id="w1645"/>
+		<elementFirst id="w1647"/>
+		<elementFirst id="w1648"/>
+		<elementFirst id="w1649"/>
+		<elementFirst id="w1650"/>
+		<elementFirst id="w1652"/>
+		<elementFirst id="w1655"/>
+		<elementFirst id="w1656"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollutants">
+		<elementSecond id="w1643"/>
+	</elementSecondIds>
+</triple>
+<triple id="1125" profile_id="" relation="destination-of">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10895"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to spawning grounds">
+		<elementSecond id="w10897"/>
+		<elementSecond id="w10898"/>
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="1125" profile_id="" relation="done-by">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10895"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10896"/>
+	</elementSecondIds>
+</triple>
+<triple id="46" profile_id="" relation="has-state">
+	<elementFirstIds comment="poor water quality">
+		<elementFirst id="w1690"/>
+		<elementFirst id="w1691"/>
+		<elementFirst id="w1692"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Bay">
+		<elementSecond id="w1685"/>
+		<elementSecond id="w1686"/>
+	</elementSecondIds>
+</triple>
+<triple id="45" profile_id="" relation="has-state">
+	<elementFirstIds comment="degraded">
+		<elementFirst id="w1694"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Bay">
+		<elementSecond id="w1685"/>
+		<elementSecond id="w1686"/>
+	</elementSecondIds>
+</triple>
+<triple id="45" profile_id="" relation="patient">
+	<elementFirstIds comment="degraded">
+		<elementFirst id="w1694"/>
+	</elementFirstIds>
+	<elementSecondIds comment="degraded habitats">
+		<elementSecond id="w1694"/>
+		<elementSecond id="w1695"/>
+	</elementSecondIds>
+</triple>
+<triple id="523" profile_id="" relation="TIME">
+	<elementFirstIds comment="increased">
+		<elementFirst id="w5205"/>
+	</elementFirstIds>
+	<elementSecondIds comment="From 1990 to">
+		<elementSecond id="w5200"/>
+		<elementSecond id="w5201"/>
+		<elementSecond id="w5202"/>
+	</elementSecondIds>
+</triple>
+<triple id="523" profile_id="" relation="state-of">
+	<elementFirstIds comment="increased">
+		<elementFirst id="w5205"/>
+	</elementFirstIds>
+	<elementSecondIds comment="by 41 percent">
+		<elementSecond id="w5206"/>
+		<elementSecond id="w5207"/>
+		<elementSecond id="w5208"/>
+	</elementSecondIds>
+</triple>
+<triple id="523" profile_id="" relation="patient">
+	<elementFirstIds comment="increased">
+		<elementFirst id="w5205"/>
+	</elementFirstIds>
+	<elementSecondIds comment="impervious surfaces">
+		<elementSecond id="w5203"/>
+		<elementSecond id="w5204"/>
+	</elementSecondIds>
+</triple>
+<triple id="532" profile_id="" relation="done-by">
+	<elementFirstIds comment="capture">
+		<elementFirst id="w5243"/>
+	</elementFirstIds>
+	<elementSecondIds comment="They">
+		<elementSecond id="w5242"/>
+	</elementSecondIds>
+</triple>
+<triple id="532" profile_id="" relation="patient">
+	<elementFirstIds comment="capture">
+		<elementFirst id="w5243"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5248"/>
+	</elementSecondIds>
+</triple>
+<triple id="55" profile_id="" relation="patient">
+	<elementFirstIds comment="destroys">
+		<elementFirst id="w1789"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests , wetlands and other natural areas">
+		<elementSecond id="w1790"/>
+		<elementSecond id="w1791"/>
+		<elementSecond id="w1792"/>
+		<elementSecond id="w1793"/>
+		<elementSecond id="w1794"/>
+		<elementSecond id="w1795"/>
+		<elementSecond id="w1796"/>
+	</elementSecondIds>
+</triple>
+<triple id="55" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="destroys">
+		<elementFirst id="w1789"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population growth and development">
+		<elementSecond id="w1783"/>
+		<elementSecond id="w1784"/>
+		<elementSecond id="w1785"/>
+		<elementSecond id="w1786"/>
+	</elementSecondIds>
+</triple>
+<triple id="528" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="most beneficial use">
+		<elementFirst id="w5232"/>
+		<elementFirst id="w5233"/>
+		<elementFirst id="w5234"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Bay water quality">
+		<elementSecond id="w5238"/>
+		<elementSecond id="w5239"/>
+		<elementSecond id="w5240"/>
+	</elementSecondIds>
+</triple>
+<triple id="528" profile_id="" relation="use-of">
+	<elementFirstIds comment="most beneficial use">
+		<elementFirst id="w5232"/>
+		<elementFirst id="w5233"/>
+		<elementFirst id="w5234"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forests">
+		<elementSecond id="w5229"/>
+	</elementSecondIds>
+</triple>
+<triple id="59" profile_id="" relation="patient">
+	<elementFirstIds comment="overwhelming">
+		<elementFirst id="w1804"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nature">
+		<elementSecond id="w1805"/>
+	</elementSecondIds>
+</triple>
+<triple id="59" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="overwhelming">
+		<elementFirst id="w1804"/>
+	</elementFirstIds>
+	<elementSecondIds comment="human activity">
+		<elementSecond id="w1801"/>
+		<elementSecond id="w1802"/>
+	</elementSecondIds>
+</triple>
+<triple id="540" profile_id="" relation="done-by">
+	<elementFirstIds comment="absorb">
+		<elementFirst id="w5312"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forests">
+		<elementSecond id="w5310"/>
+	</elementSecondIds>
+</triple>
+<triple id="540" profile_id="" relation="patient">
+	<elementFirstIds comment="absorb">
+		<elementFirst id="w5312"/>
+	</elementFirstIds>
+	<elementSecondIds comment="air pollution">
+		<elementSecond id="w5313"/>
+		<elementSecond id="w5314"/>
+	</elementSecondIds>
+</triple>
+<triple id="1140" profile_id="" relation="patient">
+	<elementFirstIds comment="drainage">
+		<elementFirst id="w10980"/>
+	</elementFirstIds>
+	<elementSecondIds comment="acid mine">
+		<elementSecond id="w10978"/>
+		<elementSecond id="w10979"/>
+	</elementSecondIds>
+</triple>
+<triple id="1137" profile_id="" relation="generic-location">
+	<elementFirstIds comment="drainage">
+		<elementFirst id="w10980"/>
+	</elementFirstIds>
+	<elementSecondIds comment="streams">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="68" profile_id="" relation="done-by">
+	<elementFirstIds comment="impact">
+		<elementFirst id="w1821"/>
+	</elementFirstIds>
+	<elementSecondIds comment="17 million residents">
+		<elementSecond id="w1815"/>
+		<elementSecond id="w1816"/>
+		<elementSecond id="w1817"/>
+	</elementSecondIds>
+</triple>
+<triple id="68" profile_id="" relation="has-state">
+	<elementFirstIds comment="impact">
+		<elementFirst id="w1821"/>
+	</elementFirstIds>
+	<elementSecondIds comment="health">
+		<elementSecond id="w1824"/>
+	</elementSecondIds>
+</triple>
+<triple id="608" profile_id="" relation="has-state">
+	<elementFirstIds comment="good">
+		<elementFirst id="w5436"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Water clarity and oxygen levels">
+		<elementSecond id="w5430"/>
+		<elementSecond id="w5431"/>
+		<elementSecond id="w5432"/>
+		<elementSecond id="w5433"/>
+		<elementSecond id="w5434"/>
+	</elementSecondIds>
+</triple>
+<triple id="613" profile_id="" relation="patient">
+	<elementFirstIds comment="provides">
+		<elementFirst id="w5438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="energy">
+		<elementSecond id="w5439"/>
+	</elementSecondIds>
+</triple>
+<triple id="613" profile_id="" relation="done-by">
+	<elementFirstIds comment="provides">
+		<elementFirst id="w5438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Sunlight">
+		<elementSecond id="w5437"/>
+	</elementSecondIds>
+</triple>
+<triple id="613" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="provides">
+		<elementFirst id="w5438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="grow">
+		<elementSecond id="w5443"/>
+	</elementSecondIds>
+</triple>
+<triple id="619" profile_id="" relation="has-state">
+	<elementFirstIds comment="adequate habitat and food">
+		<elementFirst id="w5448"/>
+		<elementFirst id="w5449"/>
+		<elementFirst id="w5450"/>
+		<elementFirst id="w5451"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Fish and shellfish">
+		<elementSecond id="w5444"/>
+		<elementSecond id="w5445"/>
+		<elementSecond id="w5446"/>
+	</elementSecondIds>
+</triple>
+<triple id="622" profile_id="" relation="has-state">
+	<elementFirstIds comment="plentiful">
+		<elementFirst id="w5454"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Oysters">
+		<elementSecond id="w5452"/>
+	</elementSecondIds>
+</triple>
+<triple id="72" profile_id="" relation="done-by">
+	<elementFirstIds comment="protect">
+		<elementFirst id="w1851"/>
+	</elementFirstIds>
+	<elementSecondIds comment="people">
+		<elementSecond id="w1846"/>
+	</elementSecondIds>
+</triple>
+<triple id="72" profile_id="" relation="patient">
+	<elementFirstIds comment="protect">
+		<elementFirst id="w1851"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nature">
+		<elementSecond id="w1852"/>
+	</elementSecondIds>
+</triple>
+<triple id="85" profile_id="" relation="destination-of">
+	<elementFirstIds comment="Reaching">
+		<elementFirst id="w2027"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chesapeake Bay*">
+		<elementSecond id="w2028"/>
+		<elementSecond id="w2029"/>
+	</elementSecondIds>
+</triple>
+<triple id="85" profile_id="" relation="done-by">
+	<elementFirstIds comment="Reaching">
+		<elementFirst id="w2027"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Millions of Pounds of Nitrogen Nitrogen Loads">
+		<elementSecond id="w2020"/>
+		<elementSecond id="w2021"/>
+		<elementSecond id="w2022"/>
+		<elementSecond id="w2023"/>
+		<elementSecond id="w2024"/>
+		<elementSecond id="w2025"/>
+		<elementSecond id="w2026"/>
+	</elementSecondIds>
+</triple>
+<triple id="81" profile_id="" relation="generic-location">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w1994"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in rivers">
+		<elementSecond id="w1995"/>
+		<elementSecond id="w1996"/>
+	</elementSecondIds>
+</triple>
+<triple id="81" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w1994"/>
+	</elementFirstIds>
+	<elementSecondIds comment="rain snowfall">
+		<elementSecond id="w1987"/>
+		<elementSecond id="w1989"/>
+	</elementSecondIds>
+</triple>
+<triple id="81" profile_id="" relation="done-by">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w1994"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w1993"/>
+	</elementSecondIds>
+</triple>
+<triple id="1040" profile_id="" relation="TIME">
+	<elementFirstIds comment="precipitation">
+		<elementFirst id="w4107"/>
+	</elementFirstIds>
+	<elementSecondIds comment="annual">
+		<elementSecond id="w4106"/>
+	</elementSecondIds>
+</triple>
+<triple id="95" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay">
+		<elementSecond id="w2180"/>
+		<elementSecond id="w2181"/>
+	</elementSecondIds>
+</triple>
+<triple id="95" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w2182"/>
+		<elementSecond id="w2183"/>
+	</elementSecondIds>
+</triple>
+<triple id="95" profile_id="" relation="done-by">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="13.8 million pounds of phosphorus">
+		<elementSecond id="w2174"/>
+		<elementSecond id="w2175"/>
+		<elementSecond id="w2176"/>
+		<elementSecond id="w2177"/>
+		<elementSecond id="w2178"/>
+	</elementSecondIds>
+</triple>
+<triple id="632" profile_id="" relation="destination-of">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w5468"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to the Bay">
+		<elementSecond id="w5469"/>
+		<elementSecond id="w5470"/>
+		<elementSecond id="w5471"/>
+	</elementSecondIds>
+</triple>
+<triple id="632" profile_id="" relation="patient">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w5468"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Pollution">
+		<elementSecond id="w5467"/>
+	</elementSecondIds>
+</triple>
+<triple id="1044" profile_id="" relation="result-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w4111"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fewer change">
+		<elementSecond id="w4118"/>
+		<elementSecond id="w4124"/>
+	</elementSecondIds>
+</triple>
+<triple id="1044" profile_id="" relation="result-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w4111"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flow">
+		<elementSecond id="w4114"/>
+	</elementSecondIds>
+</triple>
+<triple id="636" profile_id="" relation="patient">
+	<elementFirstIds comment="removes">
+		<elementFirst id="w5473"/>
+	</elementFirstIds>
+	<elementSecondIds comment="natural areas">
+		<elementSecond id="w5474"/>
+		<elementSecond id="w5475"/>
+	</elementSecondIds>
+</triple>
+<triple id="636" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="removes">
+		<elementFirst id="w5473"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Development">
+		<elementSecond id="w5472"/>
+	</elementSecondIds>
+</triple>
+<triple id="90" profile_id="" relation="done-by">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2139"/>
+	</elementFirstIds>
+	<elementSecondIds comment="291 million pounds of nitrogen">
+		<elementSecond id="w2134"/>
+		<elementSecond id="w2135"/>
+		<elementSecond id="w2136"/>
+		<elementSecond id="w2137"/>
+		<elementSecond id="w2138"/>
+	</elementSecondIds>
+</triple>
+<triple id="90" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2139"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w2142"/>
+		<elementSecond id="w2143"/>
+	</elementSecondIds>
+</triple>
+<triple id="90" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2139"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay">
+		<elementSecond id="w2140"/>
+		<elementSecond id="w2141"/>
+	</elementSecondIds>
+</triple>
+<triple id="100" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay">
+		<elementSecond id="w2217"/>
+		<elementSecond id="w2218"/>
+	</elementSecondIds>
+</triple>
+<triple id="100" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w2219"/>
+		<elementSecond id="w2220"/>
+	</elementSecondIds>
+</triple>
+<triple id="100" profile_id="" relation="done-by">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w2216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="3.3 million tons of sediment">
+		<elementSecond id="w2211"/>
+		<elementSecond id="w2212"/>
+		<elementSecond id="w2213"/>
+		<elementSecond id="w2214"/>
+		<elementSecond id="w2215"/>
+	</elementSecondIds>
+</triple>
+<triple id="578" profile_id="" relation="patient">
+	<elementFirstIds comment="split">
+		<elementFirst id="w5391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forested areas">
+		<elementSecond id="w5387"/>
+		<elementSecond id="w5388"/>
+	</elementSecondIds>
+</triple>
+<triple id="578" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="split">
+		<elementFirst id="w5391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="development">
+		<elementSecond id="w5385"/>
+	</elementSecondIds>
+</triple>
+<triple id="578" profile_id="" relation="result-of">
+	<elementFirstIds comment="split">
+		<elementFirst id="w5391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into smaller parcels">
+		<elementSecond id="w5392"/>
+		<elementSecond id="w5393"/>
+		<elementSecond id="w5394"/>
+	</elementSecondIds>
+</triple>
+<triple id="1071" profile_id="" relation="patient">
+	<elementFirstIds comment="development">
+		<elementFirst id="w5090"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban">
+		<elementSecond id="w5089"/>
+	</elementSecondIds>
+</triple>
+<triple id="111" profile_id="" relation="use-of">
+	<elementFirstIds comment="Use">
+		<elementFirst id="w2398"/>
+	</elementFirstIds>
+	<elementSecondIds comment="phosphorus-free dish detergent">
+		<elementSecond id="w2399"/>
+		<elementSecond id="w2400"/>
+		<elementSecond id="w2401"/>
+	</elementSecondIds>
+</triple>
+<triple id="104" profile_id="" relation="patient">
+	<elementFirstIds comment="affect">
+		<elementFirst id="w2277"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nature">
+		<elementSecond id="w2278"/>
+	</elementSecondIds>
+</triple>
+<triple id="104" profile_id="" relation="done-by">
+	<elementFirstIds comment="affect">
+		<elementFirst id="w2277"/>
+	</elementFirstIds>
+	<elementSecondIds comment="residents">
+		<elementSecond id="w2274"/>
+	</elementSecondIds>
+</triple>
+<triple id="593" profile_id="" relation="result-of">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w5421"/>
+	</elementFirstIds>
+	<elementSecondIds comment="natural buffer">
+		<elementSecond id="w5428"/>
+		<elementSecond id="w5429"/>
+	</elementSecondIds>
+</triple>
+<triple id="593" profile_id="" relation="patient">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w5421"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Clean water">
+		<elementSecond id="w5419"/>
+		<elementSecond id="w5420"/>
+	</elementSecondIds>
+</triple>
+<triple id="593" profile_id="" relation="destination-of">
+	<elementFirstIds comment="flows">
+		<elementFirst id="w5421"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the Bay Wetlands">
+		<elementSecond id="w5422"/>
+		<elementSecond id="w5423"/>
+		<elementSecond id="w5424"/>
+		<elementSecond id="w5425"/>
+	</elementSecondIds>
+</triple>
+<triple id="117" profile_id="" relation="patient">
+	<elementFirstIds comment="Do n' t √¢ ? fertilize">
+		<elementFirst id="w2416"/>
+		<elementFirst id="w2417"/>
+		<elementFirst id="w2418"/>
+		<elementFirst id="w2419"/>
+		<elementFirst id="w2420"/>
+		<elementFirst id="w2421"/>
+	</elementFirstIds>
+	<elementSecondIds comment="your lawn">
+		<elementSecond id="w2422"/>
+		<elementSecond id="w2423"/>
+	</elementSecondIds>
+</triple>
+<triple id="1081" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w5227"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w5226"/>
+	</elementSecondIds>
+</triple>
+<triple id="597" profile_id="" relation="patient">
+	<elementFirstIds comment="Reaching">
+		<elementFirst id="w4858"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Millions of Pounds of Phosphorus Millions of Pounds of Nitrogen Nitrogen Loads">
+		<elementSecond id="w4846"/>
+		<elementSecond id="w4847"/>
+		<elementSecond id="w4848"/>
+		<elementSecond id="w4849"/>
+		<elementSecond id="w4850"/>
+		<elementSecond id="w4851"/>
+		<elementSecond id="w4852"/>
+		<elementSecond id="w4853"/>
+		<elementSecond id="w4854"/>
+		<elementSecond id="w4855"/>
+		<elementSecond id="w4856"/>
+		<elementSecond id="w4857"/>
+	</elementSecondIds>
+</triple>
+<triple id="597" profile_id="" relation="destination-of">
+	<elementFirstIds comment="Reaching">
+		<elementFirst id="w4858"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chesapeake Bay*">
+		<elementSecond id="w4859"/>
+		<elementSecond id="w4860"/>
+	</elementSecondIds>
+</triple>
+<triple id="114" profile_id="" relation="use-of">
+	<elementFirstIds comment="Drive less">
+		<elementFirst id="w2403"/>
+		<elementFirst id="w2406"/>
+	</elementFirstIds>
+	<elementSecondIds comment="your car">
+		<elementSecond id="w2404"/>
+		<elementSecond id="w2405"/>
+	</elementSecondIds>
+</triple>
+<triple id="127" profile_id="" relation="TIME">
+	<elementFirstIds comment="at 38 percent of the desired health">
+		<elementFirst id="w2523"/>
+		<elementFirst id="w2524"/>
+		<elementFirst id="w2525"/>
+		<elementFirst id="w2526"/>
+		<elementFirst id="w2527"/>
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="2007">
+		<elementSecond id="w2536"/>
+	</elementSecondIds>
+</triple>
+<triple id="127" profile_id="" relation="has-state">
+	<elementFirstIds comment="at 38 percent of the desired health">
+		<elementFirst id="w2523"/>
+		<elementFirst id="w2524"/>
+		<elementFirst id="w2525"/>
+		<elementFirst id="w2526"/>
+		<elementFirst id="w2527"/>
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay">
+		<elementSecond id="w2518"/>
+		<elementSecond id="w2519"/>
+		<elementSecond id="w2520"/>
+	</elementSecondIds>
+</triple>
+<triple id="601" profile_id="" relation="done-by">
+	<elementFirstIds comment="use">
+		<elementFirst id="w5005"/>
+	</elementFirstIds>
+	<elementSecondIds comment="humans">
+		<elementSecond id="w5004"/>
+	</elementSecondIds>
+</triple>
+<triple id="601" profile_id="" relation="patient">
+	<elementFirstIds comment="use">
+		<elementFirst id="w5005"/>
+	</elementFirstIds>
+	<elementSecondIds comment="land">
+		<elementSecond id="w5007"/>
+	</elementSecondIds>
+</triple>
+<triple id="123" profile_id="" relation="has-state">
+	<elementFirstIds comment="remains severely degraded">
+		<elementFirst id="w2472"/>
+		<elementFirst id="w2473"/>
+		<elementFirst id="w2474"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chesapeake Bay ecosystem">
+		<elementSecond id="w2469"/>
+		<elementSecond id="w2470"/>
+		<elementSecond id="w2471"/>
+	</elementSecondIds>
+</triple>
+<triple id="120" profile_id="" relation="patient">
+	<elementFirstIds comment="Install">
+		<elementFirst id="w2428"/>
+	</elementFirstIds>
+	<elementSecondIds comment="a rain barrel and rain garden">
+		<elementSecond id="w2429"/>
+		<elementSecond id="w2430"/>
+		<elementSecond id="w2431"/>
+		<elementSecond id="w2432"/>
+		<elementSecond id="w2433"/>
+		<elementSecond id="w2434"/>
+	</elementSecondIds>
+</triple>
+<triple id="136" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="impaired">
+		<elementFirst id="w2544"/>
+	</elementFirstIds>
+	<elementSecondIds comment="chemical contaminants">
+		<elementSecond id="w2547"/>
+		<elementSecond id="w2548"/>
+	</elementSecondIds>
+</triple>
+<triple id="140" profile_id="" relation="TIME">
+	<elementFirstIds comment="very poor">
+		<elementFirst id="w2591"/>
+		<elementFirst id="w2592"/>
+	</elementFirstIds>
+	<elementSecondIds comment="In 2008">
+		<elementSecond id="w2584"/>
+		<elementSecond id="w2585"/>
+	</elementSecondIds>
+</triple>
+<triple id="140" profile_id="" relation="has-state">
+	<elementFirstIds comment="very poor">
+		<elementFirst id="w2591"/>
+		<elementFirst id="w2592"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water quality">
+		<elementSecond id="w2587"/>
+		<elementSecond id="w2588"/>
+	</elementSecondIds>
+</triple>
+<triple id="680" profile_id="" relation="has-state">
+	<elementFirstIds comment="should be fairly clear">
+		<elementFirst id="w5546"/>
+		<elementFirst id="w5547"/>
+		<elementFirst id="w5548"/>
+		<elementFirst id="w5549"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The water">
+		<elementSecond id="w5544"/>
+		<elementSecond id="w5545"/>
+	</elementSecondIds>
+</triple>
+<triple id="130" profile_id="" relation="patient">
+	<elementFirstIds comment="drop">
+		<elementFirst id="w2551"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the blue crab population">
+		<elementSecond id="w2553"/>
+		<elementSecond id="w2554"/>
+		<elementSecond id="w2555"/>
+		<elementSecond id="w2556"/>
+	</elementSecondIds>
+</triple>
+<triple id="133" profile_id="" relation="patient">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w2539"/>
+	</elementFirstIds>
+	<elementSecondIds comment="tidal tributary segments">
+		<elementSecond id="w2541"/>
+		<elementSecond id="w2542"/>
+		<elementSecond id="w2543"/>
+	</elementSecondIds>
+</triple>
+<triple id="672" profile_id="" relation="has-state">
+	<elementFirstIds comment="must be safe">
+		<elementFirst id="w5525"/>
+		<elementFirst id="w5526"/>
+		<elementFirst id="w5527"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5524"/>
+	</elementSecondIds>
+</triple>
+<triple id="672" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="must be safe">
+		<elementFirst id="w5525"/>
+		<elementFirst id="w5526"/>
+		<elementFirst id="w5527"/>
+	</elementFirstIds>
+	<elementSecondIds comment="for people">
+		<elementSecond id="w5528"/>
+		<elementSecond id="w5529"/>
+	</elementSecondIds>
+</triple>
+<triple id="152" profile_id="" relation="has-state">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w2610"/>
+	</elementFirstIds>
+	<elementSecondIds comment="murky water and algae blooms">
+		<elementSecond id="w2610"/>
+		<elementSecond id="w2611"/>
+		<elementSecond id="w2612"/>
+		<elementSecond id="w2613"/>
+		<elementSecond id="w2614"/>
+	</elementSecondIds>
+</triple>
+<triple id="152" profile_id="" relation="patient">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w2610"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sunlight">
+		<elementSecond id="w2618"/>
+	</elementSecondIds>
+</triple>
+<triple id="700" profile_id="" relation="destination-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w5602"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into local streams , creeks and rivers and the Bay itself">
+		<elementSecond id="w5603"/>
+		<elementSecond id="w5604"/>
+		<elementSecond id="w5605"/>
+		<elementSecond id="w5606"/>
+		<elementSecond id="w5607"/>
+		<elementSecond id="w5608"/>
+		<elementSecond id="w5609"/>
+		<elementSecond id="w5610"/>
+		<elementSecond id="w5611"/>
+		<elementSecond id="w5612"/>
+		<elementSecond id="w5613"/>
+	</elementSecondIds>
+</triple>
+<triple id="700" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w5602"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Rain">
+		<elementSecond id="w5597"/>
+	</elementSecondIds>
+</triple>
+<triple id="700" profile_id="" relation="patient">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w5602"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollutants">
+		<elementSecond id="w5600"/>
+	</elementSecondIds>
+</triple>
+<triple id="156" profile_id="" relation="patient">
+	<elementFirstIds comment="reaching">
+		<elementFirst id="w2620"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sunlight">
+		<elementSecond id="w2618"/>
+	</elementSecondIds>
+</triple>
+<triple id="156" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reaching">
+		<elementFirst id="w2620"/>
+	</elementFirstIds>
+	<elementSecondIds comment="bay grasses">
+		<elementSecond id="w2621"/>
+		<elementSecond id="w2622"/>
+	</elementSecondIds>
+</triple>
+<triple id="144" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w2610"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Pollution">
+		<elementSecond id="w2607"/>
+	</elementSecondIds>
+</triple>
+<triple id="144" profile_id="" relation="has-state">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w2610"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w2611"/>
+	</elementSecondIds>
+</triple>
+<triple id="691" profile_id="" relation="generic-location">
+	<elementFirstIds comment="quality remains extremely poor">
+		<elementFirst id="w5578"/>
+		<elementFirst id="w5582"/>
+		<elementFirst id="w5583"/>
+		<elementFirst id="w5584"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay">
+		<elementSecond id="w5579"/>
+		<elementSecond id="w5580"/>
+		<elementSecond id="w5581"/>
+	</elementSecondIds>
+</triple>
+<triple id="691" profile_id="" relation="has-state">
+	<elementFirstIds comment="quality remains extremely poor">
+		<elementFirst id="w5578"/>
+		<elementFirst id="w5582"/>
+		<elementFirst id="w5583"/>
+		<elementFirst id="w5584"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5577"/>
+	</elementSecondIds>
+</triple>
+<triple id="169" profile_id="" relation="has-state">
+	<elementFirstIds comment="bad shape">
+		<elementFirst id="w2677"/>
+		<elementFirst id="w2678"/>
+	</elementFirstIds>
+	<elementSecondIds comment="vital habitats and lower food web">
+		<elementSecond id="w2660"/>
+		<elementSecond id="w2661"/>
+		<elementSecond id="w2662"/>
+		<elementSecond id="w2663"/>
+		<elementSecond id="w2664"/>
+		<elementSecond id="w2665"/>
+	</elementSecondIds>
+</triple>
+<triple id="169" profile_id="" relation="TIME">
+	<elementFirstIds comment="bad shape">
+		<elementFirst id="w2677"/>
+		<elementFirst id="w2678"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in 2008">
+		<elementSecond id="w2679"/>
+		<elementSecond id="w2680"/>
+	</elementSecondIds>
+</triple>
+<triple id="648" profile_id="" relation="patient">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w5484"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Algae">
+		<elementSecond id="w5483"/>
+	</elementSecondIds>
+</triple>
+<triple id="160" profile_id="" relation="has-state">
+	<elementFirstIds comment="low levels of oxygen">
+		<elementFirst id="w2625"/>
+		<elementFirst id="w2626"/>
+		<elementFirst id="w2627"/>
+		<elementFirst id="w2628"/>
+	</elementFirstIds>
+	<elementSecondIds comment="aquatic life">
+		<elementSecond id="w2630"/>
+		<elementSecond id="w2631"/>
+	</elementSecondIds>
+</triple>
+<triple id="641" profile_id="" relation="patient">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w5479"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w5478"/>
+	</elementSecondIds>
+</triple>
+<triple id="641" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w5479"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Pollution">
+		<elementSecond id="w5476"/>
+	</elementSecondIds>
+</triple>
+<triple id="165" profile_id="" relation="patient">
+	<elementFirstIds comment="impaired">
+		<elementFirst id="w2635"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w2637"/>
+	</elementSecondIds>
+</triple>
+<triple id="165" profile_id="" relation="done-by">
+	<elementFirstIds comment="impaired">
+		<elementFirst id="w2635"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chemical contaminants">
+		<elementSecond id="w2633"/>
+		<elementSecond id="w2634"/>
+	</elementSecondIds>
+</triple>
+<triple id="165" profile_id="" relation="TIME">
+	<elementFirstIds comment="impaired">
+		<elementFirst id="w2635"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in 2008">
+		<elementSecond id="w2638"/>
+		<elementSecond id="w2639"/>
+	</elementSecondIds>
+</triple>
+<triple id="668" profile_id="" relation="has-state">
+	<elementFirstIds comment="healthy and productive">
+		<elementFirst id="w5519"/>
+		<elementFirst id="w5520"/>
+		<elementFirst id="w5521"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake">
+		<elementSecond id="w5514"/>
+		<elementSecond id="w5515"/>
+	</elementSecondIds>
+</triple>
+<triple id="186" profile_id="" relation="has-state">
+	<elementFirstIds comment="low levels">
+		<elementFirst id="w2787"/>
+		<elementFirst id="w2788"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Oyster and shad populations">
+		<elementSecond id="w2781"/>
+		<elementSecond id="w2782"/>
+		<elementSecond id="w2783"/>
+		<elementSecond id="w2784"/>
+	</elementSecondIds>
+</triple>
+<triple id="190" profile_id="" relation="patient">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w2943"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w2944"/>
+	</elementSecondIds>
+</triple>
+<triple id="665" profile_id="" relation="has-state">
+	<elementFirstIds comment="health suffer">
+		<elementFirst id="w5504"/>
+		<elementFirst id="w5510"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish and other life">
+		<elementSecond id="w5506"/>
+		<elementSecond id="w5507"/>
+		<elementSecond id="w5508"/>
+		<elementSecond id="w5509"/>
+	</elementSecondIds>
+</triple>
+<triple id="179" profile_id="" relation="has-state">
+	<elementFirstIds comment="far below desired levels">
+		<elementFirst id="w2738"/>
+		<elementFirst id="w2739"/>
+		<elementFirst id="w2740"/>
+		<elementFirst id="w2741"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Most fish and shellfish populations">
+		<elementSecond id="w2729"/>
+		<elementSecond id="w2730"/>
+		<elementSecond id="w2731"/>
+		<elementSecond id="w2732"/>
+		<elementSecond id="w2733"/>
+	</elementSecondIds>
+</triple>
+<triple id="179" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="far below desired levels">
+		<elementFirst id="w2738"/>
+		<elementFirst id="w2739"/>
+		<elementFirst id="w2740"/>
+		<elementFirst id="w2741"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay">
+		<elementSecond id="w2734"/>
+		<elementSecond id="w2735"/>
+		<elementSecond id="w2736"/>
+	</elementSecondIds>
+</triple>
+<triple id="662" profile_id="" relation="patient">
+	<elementFirstIds comment="struggle to grow">
+		<elementFirst id="w5500"/>
+		<elementFirst id="w5501"/>
+		<elementFirst id="w5502"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Underwater grasses">
+		<elementSecond id="w5498"/>
+		<elementSecond id="w5499"/>
+	</elementSecondIds>
+</triple>
+<triple id="182" profile_id="" relation="has-state">
+	<elementFirstIds comment="drop of">
+		<elementFirst id="w2758"/>
+		<elementFirst id="w2759"/>
+	</elementFirstIds>
+	<elementSecondIds comment="23 million">
+		<elementSecond id="w2760"/>
+		<elementSecond id="w2761"/>
+	</elementSecondIds>
+</triple>
+<triple id="182" profile_id="" relation="patient">
+	<elementFirstIds comment="drop of">
+		<elementFirst id="w2758"/>
+		<elementFirst id="w2759"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population of spawning-age blue crabs">
+		<elementSecond id="w2764"/>
+		<elementSecond id="w2765"/>
+		<elementSecond id="w2766"/>
+		<elementSecond id="w2767"/>
+		<elementSecond id="w2768"/>
+	</elementSecondIds>
+</triple>
+<triple id="659" profile_id="" relation="done-by">
+	<elementFirstIds comment="n' t properly penetrate">
+		<elementFirst id="w5492"/>
+		<elementFirst id="w5493"/>
+		<elementFirst id="w5494"/>
+		<elementFirst id="w5495"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Sunlight">
+		<elementSecond id="w5490"/>
+	</elementSecondIds>
+</triple>
+<triple id="659" profile_id="" relation="patient">
+	<elementFirstIds comment="n' t properly penetrate">
+		<elementFirst id="w5492"/>
+		<elementFirst id="w5493"/>
+		<elementFirst id="w5494"/>
+		<elementFirst id="w5495"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the water">
+		<elementSecond id="w5496"/>
+		<elementSecond id="w5497"/>
+	</elementSecondIds>
+</triple>
+<triple id="205" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="hamper pollution-reduction">
+		<elementFirst id="w2988"/>
+		<elementFirst id="w2989"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Population growth and development">
+		<elementSecond id="w2982"/>
+		<elementSecond id="w2983"/>
+		<elementSecond id="w2984"/>
+		<elementSecond id="w2985"/>
+	</elementSecondIds>
+</triple>
+<triple id="750" profile_id="" relation="patient">
+	<elementFirstIds comment="reaching">
+		<elementFirst id="w6146"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sunlight">
+		<elementSecond id="w6144"/>
+	</elementSecondIds>
+</triple>
+<triple id="750" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reaching">
+		<elementFirst id="w6146"/>
+	</elementFirstIds>
+	<elementSecondIds comment="underwater grasses">
+		<elementSecond id="w6147"/>
+		<elementSecond id="w6148"/>
+	</elementSecondIds>
+</triple>
+<triple id="202" profile_id="" relation="patient">
+	<elementFirstIds comment="foster">
+		<elementFirst id="w2955"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stewardship">
+		<elementSecond id="w2956"/>
+	</elementSecondIds>
+</triple>
+<triple id="738" profile_id="" relation="done-by">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w6137"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nitrogen and phosphorus">
+		<elementSecond id="w6134"/>
+		<elementSecond id="w6135"/>
+		<elementSecond id="w6136"/>
+	</elementSecondIds>
+</triple>
+<triple id="196" profile_id="" relation="patient">
+	<elementFirstIds comment="manage">
+		<elementFirst id="w2949"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fisheries">
+		<elementSecond id="w2950"/>
+	</elementSecondIds>
+</triple>
+<triple id="199" profile_id="" relation="patient">
+	<elementFirstIds comment="protect">
+		<elementFirst id="w2952"/>
+	</elementFirstIds>
+	<elementSecondIds comment="watersheds">
+		<elementSecond id="w2953"/>
+	</elementSecondIds>
+</triple>
+<triple id="193" profile_id="" relation="patient">
+	<elementFirstIds comment="restore">
+		<elementFirst id="w2946"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitats">
+		<elementSecond id="w2947"/>
+	</elementSecondIds>
+</triple>
+<triple id="760" profile_id="" relation="generic-location">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w6161"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay and its tributaries">
+		<elementSecond id="w6166"/>
+		<elementSecond id="w6167"/>
+		<elementSecond id="w6168"/>
+		<elementSecond id="w6169"/>
+		<elementSecond id="w6170"/>
+		<elementSecond id="w6171"/>
+	</elementSecondIds>
+</triple>
+<triple id="760" profile_id="" relation="patient">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w6161"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w6160"/>
+	</elementSecondIds>
+</triple>
+<triple id="760" profile_id="" relation="result-of">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w6161"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Harmful">
+		<elementSecond id="w6159"/>
+	</elementSecondIds>
+</triple>
+<triple id="222" profile_id="" relation="patient">
+	<elementFirstIds comment="restored">
+		<elementFirst id="w3230"/>
+	</elementFirstIds>
+	<elementSecondIds comment="wetlands">
+		<elementSecond id="w3229"/>
+	</elementSecondIds>
+</triple>
+<triple id="216" profile_id="" relation="patient">
+	<elementFirstIds comment="implemented">
+		<elementFirst id="w3118"/>
+	</elementFirstIds>
+	<elementSecondIds comment="58 percent of the pollution reduction efforts">
+		<elementSecond id="w3104"/>
+		<elementSecond id="w3105"/>
+		<elementSecond id="w3106"/>
+		<elementSecond id="w3107"/>
+		<elementSecond id="w3108"/>
+		<elementSecond id="w3109"/>
+		<elementSecond id="w3110"/>
+	</elementSecondIds>
+</triple>
+<triple id="216" profile_id="" relation="TIME">
+	<elementFirstIds comment="implemented">
+		<elementFirst id="w3118"/>
+	</elementFirstIds>
+	<elementSecondIds comment="since 1985">
+		<elementSecond id="w3119"/>
+		<elementSecond id="w3120"/>
+	</elementSecondIds>
+</triple>
+<triple id="764" profile_id="" relation="patient">
+	<elementFirstIds comment="affect">
+		<elementFirst id="w6211"/>
+	</elementFirstIds>
+	<elementSecondIds comment="chlorophyll">
+		<elementSecond id="w6212"/>
+	</elementSecondIds>
+</triple>
+<triple id="764" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="affect">
+		<elementFirst id="w6211"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution , weather and water temperature">
+		<elementSecond id="w6204"/>
+		<elementSecond id="w6205"/>
+		<elementSecond id="w6206"/>
+		<elementSecond id="w6207"/>
+		<elementSecond id="w6208"/>
+		<elementSecond id="w6209"/>
+	</elementSecondIds>
+</triple>
+<triple id="219" profile_id="" relation="patient">
+	<elementFirstIds comment="planted">
+		<elementFirst id="w3227"/>
+	</elementFirstIds>
+	<elementSecondIds comment="bay grasses">
+		<elementSecond id="w3225"/>
+		<elementSecond id="w3226"/>
+	</elementSecondIds>
+</triple>
+<triple id="754" profile_id="" relation="patient">
+	<elementFirstIds comment="reducing">
+		<elementFirst id="w6150"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat and the oxygen">
+		<elementSecond id="w6151"/>
+		<elementSecond id="w6152"/>
+		<elementSecond id="w6153"/>
+		<elementSecond id="w6154"/>
+	</elementSecondIds>
+</triple>
+<triple id="754" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="reducing">
+		<elementFirst id="w6150"/>
+	</elementFirstIds>
+	<elementSecondIds comment="necessary for life">
+		<elementSecond id="w6155"/>
+		<elementSecond id="w6156"/>
+		<elementSecond id="w6157"/>
+	</elementSecondIds>
+</triple>
+<triple id="212" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3076"/>
+	</elementFirstIds>
+	<elementSecondIds comment="agriculture wastewater urban and suburban runoff and air pollution">
+		<elementSecond id="w3083"/>
+		<elementSecond id="w3085"/>
+		<elementSecond id="w3087"/>
+		<elementSecond id="w3088"/>
+		<elementSecond id="w3089"/>
+		<elementSecond id="w3090"/>
+		<elementSecond id="w3092"/>
+		<elementSecond id="w3093"/>
+		<elementSecond id="w3094"/>
+	</elementSecondIds>
+</triple>
+<triple id="209" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="increasing">
+		<elementFirst id="w3004"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban and suburban runoff">
+		<elementSecond id="w2992"/>
+		<elementSecond id="w2993"/>
+		<elementSecond id="w2994"/>
+		<elementSecond id="w2995"/>
+	</elementSecondIds>
+</triple>
+<triple id="209" profile_id="" relation="patient">
+	<elementFirstIds comment="increasing">
+		<elementFirst id="w3004"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w3001"/>
+	</elementSecondIds>
+</triple>
+<triple id="715" profile_id="" relation="patient">
+	<elementFirstIds comment="flow">
+		<elementFirst id="w5979"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flow of pollution">
+		<elementSecond id="w5979"/>
+		<elementSecond id="w5980"/>
+		<elementSecond id="w5981"/>
+	</elementSecondIds>
+</triple>
+<triple id="237" profile_id="" relation="TIME">
+	<elementFirstIds comment="protecting">
+		<elementFirst id="w3391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w3401"/>
+		<elementSecond id="w3402"/>
+	</elementSecondIds>
+</triple>
+<triple id="237" profile_id="" relation="patient">
+	<elementFirstIds comment="protecting">
+		<elementFirst id="w3391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the thousands of smaller watersheds">
+		<elementSecond id="w3393"/>
+		<elementSecond id="w3394"/>
+		<elementSecond id="w3395"/>
+		<elementSecond id="w3396"/>
+		<elementSecond id="w3397"/>
+	</elementSecondIds>
+</triple>
+<triple id="232" profile_id="" relation="patient">
+	<elementFirstIds comment="research">
+		<elementFirst id="w3323"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oyster">
+		<elementSecond id="w3322"/>
+	</elementSecondIds>
+</triple>
+<triple id="229" profile_id="" relation="patient">
+	<elementFirstIds comment="harvesting">
+		<elementFirst id="w3316"/>
+	</elementFirstIds>
+	<elementSecondIds comment="blue crabs">
+		<elementSecond id="w3317"/>
+		<elementSecond id="w3318"/>
+	</elementSecondIds>
+</triple>
+<triple id="709" profile_id="" relation="patient">
+	<elementFirstIds comment="flow">
+		<elementFirst id="w5979"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flow of pollution">
+		<elementSecond id="w5979"/>
+		<elementSecond id="w5980"/>
+		<elementSecond id="w5981"/>
+	</elementSecondIds>
+</triple>
+<triple id="225" profile_id="" relation="patient">
+	<elementFirstIds comment="restored">
+		<elementFirst id="w3234"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish passage">
+		<elementSecond id="w3232"/>
+		<elementSecond id="w3233"/>
+	</elementSecondIds>
+</triple>
+<triple id="252" profile_id="" relation="patient">
+	<elementFirstIds comment="were built">
+		<elementFirst id="w3635"/>
+		<elementFirst id="w3636"/>
+	</elementFirstIds>
+	<elementSecondIds comment="towns and cities">
+		<elementSecond id="w3632"/>
+		<elementSecond id="w3633"/>
+		<elementSecond id="w3634"/>
+	</elementSecondIds>
+</triple>
+<triple id="731" profile_id="" relation="patient">
+	<elementFirstIds comment="met or exceeded thresholds for water clarity">
+		<elementFirst id="w6057"/>
+		<elementFirst id="w6058"/>
+		<elementFirst id="w6059"/>
+		<elementFirst id="w6060"/>
+		<elementFirst id="w6061"/>
+		<elementFirst id="w6062"/>
+		<elementFirst id="w6063"/>
+	</elementFirstIds>
+	<elementSecondIds comment="tidal waters">
+		<elementSecond id="w6055"/>
+		<elementSecond id="w6056"/>
+	</elementSecondIds>
+</triple>
+<triple id="735" profile_id="" relation="done-by">
+	<elementFirstIds comment="supporting">
+		<elementFirst id="w6110"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Algae">
+		<elementSecond id="w6100"/>
+	</elementSecondIds>
+</triple>
+<triple id="735" profile_id="" relation="patient">
+	<elementFirstIds comment="supporting">
+		<elementFirst id="w6110"/>
+	</elementFirstIds>
+	<elementSecondIds comment="most aquatic animals including oysters and fish">
+		<elementSecond id="w6111"/>
+		<elementSecond id="w6112"/>
+		<elementSecond id="w6113"/>
+		<elementSecond id="w6114"/>
+		<elementSecond id="w6115"/>
+		<elementSecond id="w6116"/>
+		<elementSecond id="w6117"/>
+	</elementSecondIds>
+</triple>
+<triple id="249" profile_id="" relation="patient">
+	<elementFirstIds comment="harvested">
+		<elementFirst id="w3630"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish and shellfish">
+		<elementSecond id="w3626"/>
+		<elementSecond id="w3627"/>
+		<elementSecond id="w3628"/>
+	</elementSecondIds>
+</triple>
+<triple id="246" profile_id="" relation="patient">
+	<elementFirstIds comment="ensued">
+		<elementFirst id="w3624"/>
+	</elementFirstIds>
+	<elementSecondIds comment="industrial activity">
+		<elementSecond id="w3622"/>
+		<elementSecond id="w3623"/>
+	</elementSecondIds>
+</triple>
+<triple id="725" profile_id="" relation="instrument">
+	<elementFirstIds comment="measure penetrates">
+		<elementFirst id="w6027"/>
+		<elementFirst id="w6036"/>
+	</elementFirstIds>
+	<elementSecondIds comment="device called a Secchi disk">
+		<elementSecond id="w6019"/>
+		<elementSecond id="w6020"/>
+		<elementSecond id="w6021"/>
+		<elementSecond id="w6022"/>
+		<elementSecond id="w6023"/>
+	</elementSecondIds>
+</triple>
+<triple id="725" profile_id="" relation="patient">
+	<elementFirstIds comment="measure penetrates">
+		<elementFirst id="w6027"/>
+		<elementFirst id="w6036"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water clarity and the depth">
+		<elementSecond id="w6028"/>
+		<elementSecond id="w6029"/>
+		<elementSecond id="w6030"/>
+		<elementSecond id="w6031"/>
+		<elementSecond id="w6032"/>
+	</elementSecondIds>
+</triple>
+<triple id="725" profile_id="" relation="done-by">
+	<elementFirstIds comment="measure penetrates">
+		<elementFirst id="w6027"/>
+		<elementFirst id="w6036"/>
+	</elementFirstIds>
+	<elementSecondIds comment="light">
+		<elementSecond id="w6035"/>
+	</elementSecondIds>
+</triple>
+<triple id="725" profile_id="" relation="patient">
+	<elementFirstIds comment="measure penetrates">
+		<elementFirst id="w6027"/>
+		<elementFirst id="w6036"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water column">
+		<elementSecond id="w6038"/>
+		<elementSecond id="w6039"/>
+	</elementSecondIds>
+</triple>
+<triple id="725" profile_id="" relation="TIME">
+	<elementFirstIds comment="measure penetrates">
+		<elementFirst id="w6027"/>
+		<elementFirst id="w6036"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during the growing season">
+		<elementSecond id="w6040"/>
+		<elementSecond id="w6041"/>
+		<elementSecond id="w6042"/>
+		<elementSecond id="w6043"/>
+	</elementSecondIds>
+</triple>
+<triple id="243" profile_id="" relation="patient">
+	<elementFirstIds comment="chopped down">
+		<elementFirst id="w3619"/>
+		<elementFirst id="w3620"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests">
+		<elementSecond id="w3617"/>
+	</elementSecondIds>
+</triple>
+<triple id="240" profile_id="" relation="patient">
+	<elementFirstIds comment="swelled">
+		<elementFirst id="w3615"/>
+	</elementFirstIds>
+	<elementSecondIds comment="human population">
+		<elementSecond id="w3613"/>
+		<elementSecond id="w3614"/>
+	</elementSecondIds>
+</triple>
+<triple id="274" profile_id="" relation="generic-location">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3736"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to the Bay">
+		<elementSecond id="w3737"/>
+		<elementSecond id="w3738"/>
+		<elementSecond id="w3739"/>
+	</elementSecondIds>
+</triple>
+<triple id="274" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3736"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Agriculture">
+		<elementSecond id="w3729"/>
+	</elementSecondIds>
+</triple>
+<triple id="820" profile_id="" relation="patient">
+	<elementFirstIds comment="recovery work">
+		<elementFirst id="w3245"/>
+		<elementFirst id="w3246"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oyster">
+		<elementSecond id="w3244"/>
+	</elementSecondIds>
+</triple>
+<triple id="820" profile_id="" relation="state-of">
+	<elementFirstIds comment="recovery work">
+		<elementFirst id="w3245"/>
+		<elementFirst id="w3246"/>
+	</elementFirstIds>
+	<elementSecondIds comment="at 70 percent">
+		<elementSecond id="w3251"/>
+		<elementSecond id="w3252"/>
+		<elementSecond id="w3253"/>
+	</elementSecondIds>
+</triple>
+<triple id="816" profile_id="" relation="state-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w3216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="11 percent">
+		<elementSecond id="w3214"/>
+		<elementSecond id="w3215"/>
+	</elementSecondIds>
+</triple>
+<triple id="816" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w3216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 2007">
+		<elementSecond id="w3217"/>
+		<elementSecond id="w3218"/>
+	</elementSecondIds>
+</triple>
+<triple id="282" profile_id="" relation="destination-of">
+	<elementFirstIds comment="excess">
+		<elementFirst id="w3755"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creeks , streams and rivers">
+		<elementSecond id="w3748"/>
+		<elementSecond id="w3749"/>
+		<elementSecond id="w3750"/>
+		<elementSecond id="w3751"/>
+		<elementSecond id="w3752"/>
+	</elementSecondIds>
+</triple>
+<triple id="282" profile_id="" relation="has-state">
+	<elementFirstIds comment="excess">
+		<elementFirst id="w3755"/>
+	</elementFirstIds>
+	<elementSecondIds comment="excess nitrogen , phosphorus and chemicals">
+		<elementSecond id="w3755"/>
+		<elementSecond id="w3756"/>
+		<elementSecond id="w3757"/>
+		<elementSecond id="w3758"/>
+		<elementSecond id="w3759"/>
+		<elementSecond id="w3760"/>
+	</elementSecondIds>
+</triple>
+<triple id="830" profile_id="" relation="state-of">
+	<elementFirstIds comment="education">
+		<elementFirst id="w3506"/>
+	</elementFirstIds>
+	<elementSecondIds comment="13 percent">
+		<elementSecond id="w3499"/>
+		<elementSecond id="w3500"/>
+	</elementSecondIds>
+</triple>
+<triple id="824" profile_id="" relation="patient">
+	<elementFirstIds comment="stands">
+		<elementFirst id="w3296"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Atlantic menhaden and American shad">
+		<elementSecond id="w3291"/>
+		<elementSecond id="w3292"/>
+		<elementSecond id="w3293"/>
+		<elementSecond id="w3294"/>
+		<elementSecond id="w3295"/>
+	</elementSecondIds>
+</triple>
+<triple id="824" profile_id="" relation="state-of">
+	<elementFirstIds comment="stands">
+		<elementFirst id="w3296"/>
+	</elementFirstIds>
+	<elementSecondIds comment="at 51 percent">
+		<elementSecond id="w3297"/>
+		<elementSecond id="w3298"/>
+		<elementSecond id="w3299"/>
+	</elementSecondIds>
+</triple>
+<triple id="285" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="erosion">
+		<elementFirst id="w3774"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Tilling cropland and irrigating fields">
+		<elementSecond id="w3766"/>
+		<elementSecond id="w3767"/>
+		<elementSecond id="w3768"/>
+		<elementSecond id="w3769"/>
+		<elementSecond id="w3770"/>
+	</elementSecondIds>
+</triple>
+<triple id="805" profile_id="" relation="state-of">
+	<elementFirstIds comment="fell">
+		<elementFirst id="w2719"/>
+	</elementFirstIds>
+	<elementSecondIds comment="3 percent">
+		<elementSecond id="w2720"/>
+		<elementSecond id="w2721"/>
+	</elementSecondIds>
+</triple>
+<triple id="805" profile_id="" relation="patient">
+	<elementFirstIds comment="fell">
+		<elementFirst id="w2719"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w2718"/>
+	</elementSecondIds>
+</triple>
+<triple id="256" profile_id="" relation="destination-of">
+	<elementFirstIds comment="released">
+		<elementFirst id="w3642"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the environment">
+		<elementSecond id="w3643"/>
+		<elementSecond id="w3644"/>
+		<elementSecond id="w3645"/>
+	</elementSecondIds>
+</triple>
+<triple id="256" profile_id="" relation="patient">
+	<elementFirstIds comment="released">
+		<elementFirst id="w3642"/>
+	</elementFirstIds>
+	<elementSecondIds comment="toxic chemicals">
+		<elementSecond id="w3639"/>
+		<elementSecond id="w3640"/>
+	</elementSecondIds>
+</triple>
+<triple id="801" profile_id="" relation="has-state">
+	<elementFirstIds comment="38 percent desired health">
+		<elementFirst id="w2524"/>
+		<elementFirst id="w2525"/>
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay">
+		<elementSecond id="w2518"/>
+		<elementSecond id="w2519"/>
+		<elementSecond id="w2520"/>
+	</elementSecondIds>
+</triple>
+<triple id="260" profile_id="" relation="patient">
+	<elementFirstIds comment="disrupted">
+		<elementFirst id="w3649"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the natural functioning of the entire ecosystem">
+		<elementSecond id="w3650"/>
+		<elementSecond id="w3651"/>
+		<elementSecond id="w3652"/>
+		<elementSecond id="w3653"/>
+		<elementSecond id="w3654"/>
+		<elementSecond id="w3655"/>
+		<elementSecond id="w3656"/>
+	</elementSecondIds>
+</triple>
+<triple id="260" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="disrupted">
+		<elementFirst id="w3649"/>
+	</elementFirstIds>
+	<elementSecondIds comment="These factors">
+		<elementSecond id="w3647"/>
+		<elementSecond id="w3648"/>
+	</elementSecondIds>
+</triple>
+<triple id="812" profile_id="" relation="state-of">
+	<elementFirstIds comment="progress">
+		<elementFirst id="w3204"/>
+	</elementFirstIds>
+	<elementSecondIds comment="at 55 percent">
+		<elementSecond id="w3209"/>
+		<elementSecond id="w3210"/>
+		<elementSecond id="w3211"/>
+	</elementSecondIds>
+</triple>
+<triple id="267" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3680"/>
+	</elementFirstIds>
+	<elementSecondIds comment="human activity">
+		<elementSecond id="w3671"/>
+		<elementSecond id="w3672"/>
+	</elementSecondIds>
+</triple>
+<triple id="790" profile_id="" relation="destination-of">
+	<elementFirstIds comment="build up">
+		<elementFirst id="w6318"/>
+		<elementFirst id="w6319"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in certain species of fish">
+		<elementSecond id="w6320"/>
+		<elementSecond id="w6321"/>
+		<elementSecond id="w6322"/>
+		<elementSecond id="w6323"/>
+		<elementSecond id="w6324"/>
+	</elementSecondIds>
+</triple>
+<triple id="790" profile_id="" relation="patient">
+	<elementFirstIds comment="build up">
+		<elementFirst id="w6318"/>
+		<elementFirst id="w6319"/>
+	</elementFirstIds>
+	<elementSecondIds comment="These chemicals">
+		<elementSecond id="w6315"/>
+		<elementSecond id="w6316"/>
+	</elementSecondIds>
+</triple>
+<triple id="307" profile_id="" relation="patient">
+	<elementFirstIds comment="runs off">
+		<elementFirst id="w3885"/>
+		<elementFirst id="w3886"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w3884"/>
+	</elementSecondIds>
+</triple>
+<triple id="307" profile_id="" relation="destination-of">
+	<elementFirstIds comment="runs off">
+		<elementFirst id="w3885"/>
+		<elementFirst id="w3886"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into waterways">
+		<elementSecond id="w3887"/>
+		<elementSecond id="w3888"/>
+	</elementSecondIds>
+</triple>
+<triple id="785" profile_id="" relation="destination-of">
+	<elementFirstIds comment="accumulate">
+		<elementFirst id="w6292"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the tissues of fish">
+		<elementSecond id="w6294"/>
+		<elementSecond id="w6295"/>
+		<elementSecond id="w6296"/>
+		<elementSecond id="w6297"/>
+	</elementSecondIds>
+</triple>
+<triple id="785" profile_id="" relation="patient">
+	<elementFirstIds comment="accumulate">
+		<elementFirst id="w6292"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chemical contaminants such as polychlorinated biphenyls PCBs">
+		<elementSecond id="w6282"/>
+		<elementSecond id="w6283"/>
+		<elementSecond id="w6284"/>
+		<elementSecond id="w6285"/>
+		<elementSecond id="w6286"/>
+		<elementSecond id="w6287"/>
+		<elementSecond id="w6289"/>
+	</elementSecondIds>
+</triple>
+<triple id="311" profile_id="" relation="done-by">
+	<elementFirstIds comment="carries">
+		<elementFirst id="w3898"/>
+	</elementFirstIds>
+	<elementSecondIds comment="This runoff">
+		<elementSecond id="w3896"/>
+		<elementSecond id="w3897"/>
+	</elementSecondIds>
+</triple>
+<triple id="311" profile_id="" relation="patient">
+	<elementFirstIds comment="carries">
+		<elementFirst id="w3898"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollutants including lawn fertilizer , pet waste , chemicals and trash">
+		<elementSecond id="w3899"/>
+		<elementSecond id="w3900"/>
+		<elementSecond id="w3901"/>
+		<elementSecond id="w3902"/>
+		<elementSecond id="w3903"/>
+		<elementSecond id="w3904"/>
+		<elementSecond id="w3905"/>
+		<elementSecond id="w3906"/>
+		<elementSecond id="w3907"/>
+		<elementSecond id="w3908"/>
+		<elementSecond id="w3909"/>
+	</elementSecondIds>
+</triple>
+<triple id="797" profile_id="" relation="state-of">
+	<elementFirstIds comment="restoration">
+		<elementFirst id="w1753"/>
+	</elementFirstIds>
+	<elementSecondIds comment="61 percent">
+		<elementSecond id="w1755"/>
+		<elementSecond id="w1756"/>
+	</elementSecondIds>
+</triple>
+<triple id="315" profile_id="" relation="done-by">
+	<elementFirstIds comment="release">
+		<elementFirst id="w3913"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Septic systems">
+		<elementSecond id="w3911"/>
+		<elementSecond id="w3912"/>
+	</elementSecondIds>
+</triple>
+<triple id="315" profile_id="" relation="patient">
+	<elementFirstIds comment="release">
+		<elementFirst id="w3913"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w3914"/>
+	</elementSecondIds>
+</triple>
+<triple id="794" profile_id="" relation="state-of">
+	<elementFirstIds comment="overall health">
+		<elementFirst id="w1714"/>
+		<elementFirst id="w1715"/>
+	</elementFirstIds>
+	<elementSecondIds comment="38 percent">
+		<elementSecond id="w1717"/>
+		<elementSecond id="w1718"/>
+	</elementSecondIds>
+</triple>
+<triple id="288" profile_id="" relation="product-of">
+	<elementFirstIds comment="animal manure">
+		<elementFirst id="w3784"/>
+		<elementFirst id="w3785"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nutrients and bacteria">
+		<elementSecond id="w3779"/>
+		<elementSecond id="w3780"/>
+		<elementSecond id="w3781"/>
+	</elementSecondIds>
+</triple>
+<triple id="768" profile_id="" relation="has-state">
+	<elementFirstIds comment="chlorophyll a concentrations">
+		<elementFirst id="w6234"/>
+		<elementFirst id="w6235"/>
+		<elementFirst id="w6236"/>
+	</elementFirstIds>
+	<elementSecondIds comment="27 percent of tidal waters">
+		<elementSecond id="w6228"/>
+		<elementSecond id="w6229"/>
+		<elementSecond id="w6230"/>
+		<elementSecond id="w6231"/>
+		<elementSecond id="w6232"/>
+	</elementSecondIds>
+</triple>
+<triple id="768" profile_id="" relation="state-of">
+	<elementFirstIds comment="chlorophyll a concentrations">
+		<elementFirst id="w6234"/>
+		<elementFirst id="w6235"/>
+		<elementFirst id="w6236"/>
+	</elementFirstIds>
+	<elementSecondIds comment="below the threshold">
+		<elementSecond id="w6237"/>
+		<elementSecond id="w6238"/>
+		<elementSecond id="w6239"/>
+	</elementSecondIds>
+</triple>
+<triple id="299" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3815"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Human development">
+		<elementSecond id="w3799"/>
+		<elementSecond id="w3800"/>
+	</elementSecondIds>
+</triple>
+<triple id="299" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3815"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake">
+		<elementSecond id="w3817"/>
+		<elementSecond id="w3818"/>
+	</elementSecondIds>
+</triple>
+<triple id="777" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="the water , sediment and fish">
+		<elementFirst id="w6258"/>
+		<elementFirst id="w6259"/>
+		<elementFirst id="w6260"/>
+		<elementFirst id="w6261"/>
+		<elementFirst id="w6262"/>
+		<elementFirst id="w6263"/>
+	</elementFirstIds>
+	<elementSecondIds comment="of the Chesapeake Bay">
+		<elementSecond id="w6264"/>
+		<elementSecond id="w6265"/>
+		<elementSecond id="w6266"/>
+		<elementSecond id="w6267"/>
+	</elementSecondIds>
+</triple>
+<triple id="777" profile_id="" relation="part-of">
+	<elementFirstIds comment="the water , sediment and fish">
+		<elementFirst id="w6258"/>
+		<elementFirst id="w6259"/>
+		<elementFirst id="w6260"/>
+		<elementFirst id="w6261"/>
+		<elementFirst id="w6262"/>
+		<elementFirst id="w6263"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Toxic chemicals">
+		<elementSecond id="w6254"/>
+		<elementSecond id="w6255"/>
+	</elementSecondIds>
+</triple>
+<triple id="777" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="the water , sediment and fish">
+		<elementFirst id="w6258"/>
+		<elementFirst id="w6259"/>
+		<elementFirst id="w6260"/>
+		<elementFirst id="w6261"/>
+		<elementFirst id="w6262"/>
+		<elementFirst id="w6263"/>
+	</elementFirstIds>
+	<elementSecondIds comment="tidal tributaries">
+		<elementSecond id="w6269"/>
+		<elementSecond id="w6270"/>
+	</elementSecondIds>
+</triple>
+<triple id="303" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3846"/>
+	</elementFirstIds>
+	<elementSecondIds comment="continued population growth and related construction , runoff from urban and suburban lands">
+		<elementSecond id="w3828"/>
+		<elementSecond id="w3829"/>
+		<elementSecond id="w3830"/>
+		<elementSecond id="w3831"/>
+		<elementSecond id="w3832"/>
+		<elementSecond id="w3833"/>
+		<elementSecond id="w3834"/>
+		<elementSecond id="w3835"/>
+		<elementSecond id="w3836"/>
+		<elementSecond id="w3837"/>
+		<elementSecond id="w3838"/>
+		<elementSecond id="w3839"/>
+		<elementSecond id="w3840"/>
+	</elementSecondIds>
+</triple>
+<triple id="881" profile_id="" relation="done-by">
+	<elementFirstIds comment="migration">
+		<elementFirst id="w8538"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fishes">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="881" profile_id="" relation="destination-of">
+	<elementFirstIds comment="migration">
+		<elementFirst id="w8538"/>
+	</elementFirstIds>
+	<elementSecondIds comment="upriver">
+		<elementSecond id="w8537"/>
+	</elementSecondIds>
+</triple>
+<triple id="342" profile_id="" relation="patient">
+	<elementFirstIds comment="increasing">
+		<elementFirst id="w4021"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the need for wastewater treatment">
+		<elementSecond id="w4022"/>
+		<elementSecond id="w4023"/>
+		<elementSecond id="w4024"/>
+		<elementSecond id="w4025"/>
+		<elementSecond id="w4026"/>
+	</elementSecondIds>
+</triple>
+<triple id="342" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="increasing">
+		<elementFirst id="w4021"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population growth">
+		<elementSecond id="w4018"/>
+		<elementSecond id="w4019"/>
+	</elementSecondIds>
+</triple>
+<triple id="887" profile_id="" relation="patient">
+	<elementFirstIds comment="decimated">
+		<elementFirst id="w8545"/>
+	</elementFirstIds>
+	<elementSecondIds comment="shad populations">
+		<elementSecond id="w8542"/>
+		<elementSecond id="w8543"/>
+	</elementSecondIds>
+</triple>
+<triple id="887" profile_id="" relation="TIME">
+	<elementFirstIds comment="decimated">
+		<elementFirst id="w8545"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the 1970s">
+		<elementSecond id="w8546"/>
+		<elementSecond id="w8547"/>
+		<elementSecond id="w8548"/>
+	</elementSecondIds>
+</triple>
+<triple id="887" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="decimated">
+		<elementFirst id="w8545"/>
+	</elementFirstIds>
+	<elementSecondIds comment="by overfishing pollution and dams and other blockages">
+		<elementSecond id="w8549"/>
+		<elementSecond id="w8550"/>
+		<elementSecond id="w8552"/>
+		<elementSecond id="w8553"/>
+		<elementSecond id="w8554"/>
+		<elementSecond id="w8555"/>
+		<elementSecond id="w8556"/>
+		<elementSecond id="w8557"/>
+	</elementSecondIds>
+</triple>
+<triple id="336" profile_id="" relation="patient">
+	<elementFirstIds comment="not removed">
+		<elementFirst id="w3967"/>
+		<elementFirst id="w3968"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nitrogen and phosphorus">
+		<elementSecond id="w3973"/>
+		<elementSecond id="w3974"/>
+		<elementSecond id="w3975"/>
+	</elementSecondIds>
+</triple>
+<triple id="336" profile_id="" relation="done-by">
+	<elementFirstIds comment="not removed">
+		<elementFirst id="w3967"/>
+		<elementFirst id="w3968"/>
+	</elementFirstIds>
+	<elementSecondIds comment="483 major municipal and industrial wastewater treatment plants">
+		<elementSecond id="w3958"/>
+		<elementSecond id="w3959"/>
+		<elementSecond id="w3960"/>
+		<elementSecond id="w3961"/>
+		<elementSecond id="w3962"/>
+		<elementSecond id="w3963"/>
+		<elementSecond id="w3964"/>
+		<elementSecond id="w3965"/>
+	</elementSecondIds>
+</triple>
+<triple id="336" profile_id="" relation="patient">
+	<elementFirstIds comment="not removed">
+		<elementFirst id="w3967"/>
+		<elementFirst id="w3968"/>
+	</elementFirstIds>
+	<elementSecondIds comment="enough pollution">
+		<elementSecond id="w3969"/>
+		<elementSecond id="w3970"/>
+	</elementSecondIds>
+</triple>
+<triple id="349" profile_id="" relation="patient">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w4091"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in underwater grasses , more dead zones of low oxygen">
+		<elementSecond id="w4092"/>
+		<elementSecond id="w4093"/>
+		<elementSecond id="w4094"/>
+		<elementSecond id="w4095"/>
+		<elementSecond id="w4096"/>
+		<elementSecond id="w4097"/>
+		<elementSecond id="w4098"/>
+		<elementSecond id="w4099"/>
+		<elementSecond id="w4100"/>
+		<elementSecond id="w4101"/>
+		<elementSecond id="w4102"/>
+		<elementSecond id="w4103"/>
+	</elementSecondIds>
+</triple>
+<triple id="349" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w4091"/>
+	</elementFirstIds>
+	<elementSecondIds comment="climate change">
+		<elementSecond id="w4085"/>
+		<elementSecond id="w4086"/>
+	</elementSecondIds>
+</triple>
+<triple id="893" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="spawning">
+		<elementFirst id="w8563"/>
+	</elementFirstIds>
+	<elementSecondIds comment="overfishing , pollution and dams and other blockages">
+		<elementSecond id="w8550"/>
+		<elementSecond id="w8551"/>
+		<elementSecond id="w8552"/>
+		<elementSecond id="w8553"/>
+		<elementSecond id="w8554"/>
+		<elementSecond id="w8555"/>
+		<elementSecond id="w8556"/>
+		<elementSecond id="w8557"/>
+	</elementSecondIds>
+</triple>
+<triple id="345" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="sea level rise and higher water temperatures">
+		<elementFirst id="w4074"/>
+		<elementFirst id="w4075"/>
+		<elementFirst id="w4076"/>
+		<elementFirst id="w4077"/>
+		<elementFirst id="w4078"/>
+		<elementFirst id="w4079"/>
+		<elementFirst id="w4080"/>
+	</elementFirstIds>
+	<elementSecondIds comment="global climate change">
+		<elementSecond id="w4067"/>
+		<elementSecond id="w4068"/>
+		<elementSecond id="w4069"/>
+	</elementSecondIds>
+</triple>
+<triple id="894" profile_id="" relation="done-by">
+	<elementFirstIds comment="spawning">
+		<elementFirst id="w8563"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8561"/>
+	</elementSecondIds>
+</triple>
+<triple id="894" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="spawning">
+		<elementFirst id="w8563"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in upstream habitats">
+		<elementSecond id="w8564"/>
+		<elementSecond id="w8565"/>
+		<elementSecond id="w8566"/>
+	</elementSecondIds>
+</triple>
+<triple id="866" profile_id="" relation="state-of">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w8039"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 143 million">
+		<elementSecond id="w8040"/>
+		<elementSecond id="w8041"/>
+		<elementSecond id="w8042"/>
+	</elementSecondIds>
+</triple>
+<triple id="866" profile_id="" relation="TIME">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w8039"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in 2007">
+		<elementSecond id="w8043"/>
+		<elementSecond id="w8044"/>
+	</elementSecondIds>
+</triple>
+<triple id="323" profile_id="" relation="patient">
+	<elementFirstIds comment="split up">
+		<elementFirst id="w3926"/>
+		<elementFirst id="w3927"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests">
+		<elementSecond id="w3928"/>
+	</elementSecondIds>
+</triple>
+<triple id="323" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="split up">
+		<elementFirst id="w3926"/>
+		<elementFirst id="w3927"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Developed areas">
+		<elementSecond id="w3923"/>
+		<elementSecond id="w3924"/>
+	</elementSecondIds>
+</triple>
+<triple id="870" profile_id="" relation="state-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w8640"/>
+	</elementFirstIds>
+	<elementSecondIds comment="almost 2 percent">
+		<elementSecond id="w8642"/>
+		<elementSecond id="w8643"/>
+		<elementSecond id="w8644"/>
+	</elementSecondIds>
+</triple>
+<triple id="870" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w8640"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 2007">
+		<elementSecond id="w8645"/>
+		<elementSecond id="w8646"/>
+	</elementSecondIds>
+</triple>
+<triple id="877" profile_id="" relation="done-by">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="shad">
+		<elementSecond id="w8527"/>
+	</elementSecondIds>
+</triple>
+<triple id="877" profile_id="" relation="TIME">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="annual">
+		<elementSecond id="w8526"/>
+	</elementSecondIds>
+</triple>
+<triple id="877" profile_id="" relation="TIME">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the spring">
+		<elementSecond id="w8529"/>
+		<elementSecond id="w8530"/>
+		<elementSecond id="w8531"/>
+	</elementSecondIds>
+</triple>
+<triple id="331" profile_id="" relation="generic-location">
+	<elementFirstIds comment="processed">
+		<elementFirst id="w3948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the watershed">
+		<elementSecond id="w3949"/>
+		<elementSecond id="w3950"/>
+		<elementSecond id="w3951"/>
+	</elementSecondIds>
+</triple>
+<triple id="331" profile_id="" relation="patient">
+	<elementFirstIds comment="processed">
+		<elementFirst id="w3948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="tremendous volume of sewage">
+		<elementSecond id="w3941"/>
+		<elementSecond id="w3942"/>
+		<elementSecond id="w3943"/>
+		<elementSecond id="w3944"/>
+	</elementSecondIds>
+</triple>
+<triple id="374" profile_id="" relation="source-of">
+	<elementFirstIds comment="come">
+		<elementFirst id="w4308"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from outside the watershed">
+		<elementSecond id="w4309"/>
+		<elementSecond id="w4310"/>
+		<elementSecond id="w4311"/>
+		<elementSecond id="w4312"/>
+	</elementSecondIds>
+</triple>
+<triple id="374" profile_id="" relation="patient">
+	<elementFirstIds comment="come">
+		<elementFirst id="w4308"/>
+	</elementFirstIds>
+	<elementSecondIds comment="half of these pollutants">
+		<elementSecond id="w4304"/>
+		<elementSecond id="w4305"/>
+		<elementSecond id="w4306"/>
+		<elementSecond id="w4307"/>
+	</elementSecondIds>
+</triple>
+<triple id="853" profile_id="" relation="has-state">
+	<elementFirstIds comment="health">
+		<elementFirst id="w6700"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w6702"/>
+	</elementSecondIds>
+</triple>
+<triple id="853" profile_id="" relation="state-of">
+	<elementFirstIds comment="health">
+		<elementFirst id="w6700"/>
+	</elementFirstIds>
+	<elementSecondIds comment="overall , 45 percent">
+		<elementSecond id="w6706"/>
+		<elementSecond id="w6707"/>
+		<elementSecond id="w6708"/>
+		<elementSecond id="w6709"/>
+	</elementSecondIds>
+</triple>
+<triple id="380" profile_id="" relation="use-of">
+	<elementFirstIds comment="commercial and recreational fisheries">
+		<elementFirst id="w4354"/>
+		<elementFirst id="w4355"/>
+		<elementFirst id="w4356"/>
+		<elementFirst id="w4357"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Chesapeake Bay and its tributaries">
+		<elementSecond id="w4342"/>
+		<elementSecond id="w4343"/>
+		<elementSecond id="w4344"/>
+		<elementSecond id="w4345"/>
+		<elementSecond id="w4346"/>
+		<elementSecond id="w4347"/>
+	</elementSecondIds>
+</triple>
+<triple id="857" profile_id="" relation="state-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w7094"/>
+	</elementFirstIds>
+	<elementSecondIds comment="11,984 acres">
+		<elementSecond id="w7096"/>
+		<elementSecond id="w7097"/>
+	</elementSecondIds>
+</triple>
+<triple id="857" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w7094"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 2007">
+		<elementSecond id="w7098"/>
+		<elementSecond id="w7099"/>
+	</elementSecondIds>
+</triple>
+<triple id="377" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="Air pollution">
+		<elementFirst id="w4314"/>
+		<elementFirst id="w4315"/>
+	</elementFirstIds>
+	<elementSecondIds comment="power plants , industrial facilities , farming operations and automobiles and other gas-powered vehicles">
+		<elementSecond id="w4325"/>
+		<elementSecond id="w4326"/>
+		<elementSecond id="w4327"/>
+		<elementSecond id="w4328"/>
+		<elementSecond id="w4329"/>
+		<elementSecond id="w4330"/>
+		<elementSecond id="w4331"/>
+		<elementSecond id="w4332"/>
+		<elementSecond id="w4333"/>
+		<elementSecond id="w4334"/>
+		<elementSecond id="w4335"/>
+		<elementSecond id="w4336"/>
+		<elementSecond id="w4337"/>
+		<elementSecond id="w4338"/>
+	</elementSecondIds>
+</triple>
+<triple id="861" profile_id="" relation="state-of">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w7339"/>
+	</elementFirstIds>
+	<elementSecondIds comment="about 3 percent">
+		<elementSecond id="w7341"/>
+		<elementSecond id="w7342"/>
+		<elementSecond id="w7343"/>
+	</elementSecondIds>
+</triple>
+<triple id="861" profile_id="" relation="TIME">
+	<elementFirstIds comment="decrease">
+		<elementFirst id="w7339"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 2007">
+		<elementSecond id="w7344"/>
+		<elementSecond id="w7345"/>
+	</elementSecondIds>
+</triple>
+<triple id="834" profile_id="" relation="state-of">
+	<elementFirstIds comment="population growth">
+		<elementFirst id="w5221"/>
+		<elementFirst id="w5222"/>
+	</elementFirstIds>
+	<elementSecondIds comment="8 percent">
+		<elementSecond id="w5217"/>
+		<elementSecond id="w5218"/>
+	</elementSecondIds>
+</triple>
+<triple id="357" profile_id="" relation="done-by">
+	<elementFirstIds comment="threats">
+		<elementFirst id="w4216"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the mute swan , nutria , phragmites , purple loosestrife , water chestnut and zebra mussels">
+		<elementSecond id="w4193"/>
+		<elementSecond id="w4194"/>
+		<elementSecond id="w4195"/>
+		<elementSecond id="w4196"/>
+		<elementSecond id="w4197"/>
+		<elementSecond id="w4198"/>
+		<elementSecond id="w4199"/>
+		<elementSecond id="w4200"/>
+		<elementSecond id="w4201"/>
+		<elementSecond id="w4202"/>
+		<elementSecond id="w4203"/>
+		<elementSecond id="w4204"/>
+		<elementSecond id="w4205"/>
+		<elementSecond id="w4206"/>
+		<elementSecond id="w4207"/>
+		<elementSecond id="w4208"/>
+	</elementSecondIds>
+</triple>
+<triple id="838" profile_id="" relation="state-of">
+	<elementFirstIds comment="water quality">
+		<elementFirst id="w5655"/>
+		<elementFirst id="w5656"/>
+	</elementFirstIds>
+	<elementSecondIds comment="21 percent">
+		<elementSecond id="w5659"/>
+		<elementSecond id="w5660"/>
+	</elementSecondIds>
+</triple>
+<triple id="838" profile_id="" relation="patient">
+	<elementFirstIds comment="water quality">
+		<elementFirst id="w5655"/>
+		<elementFirst id="w5656"/>
+	</elementFirstIds>
+	<elementSecondIds comment="bay">
+		<elementSecond id="w5654"/>
+	</elementSecondIds>
+</triple>
+<triple id="354" profile_id="" relation="done-by">
+	<elementFirstIds comment="cause serious problems">
+		<elementFirst id="w4189"/>
+		<elementFirst id="w4190"/>
+		<elementFirst id="w4191"/>
+	</elementFirstIds>
+	<elementSecondIds comment="more than 200 invasive species">
+		<elementSecond id="w4182"/>
+		<elementSecond id="w4183"/>
+		<elementSecond id="w4184"/>
+		<elementSecond id="w4185"/>
+		<elementSecond id="w4186"/>
+	</elementSecondIds>
+</triple>
+<triple id="354" profile_id="" relation="generic-location">
+	<elementFirstIds comment="cause serious problems">
+		<elementFirst id="w4189"/>
+		<elementFirst id="w4190"/>
+		<elementFirst id="w4191"/>
+	</elementFirstIds>
+	<elementSecondIds comment="In the Bay region">
+		<elementSecond id="w4176"/>
+		<elementSecond id="w4177"/>
+		<elementSecond id="w4178"/>
+		<elementSecond id="w4179"/>
+	</elementSecondIds>
+</triple>
+<triple id="842" profile_id="" relation="state-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w5848"/>
+	</elementFirstIds>
+	<elementSecondIds comment="4 percent">
+		<elementSecond id="w5850"/>
+		<elementSecond id="w5851"/>
+	</elementSecondIds>
+</triple>
+<triple id="842" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w5848"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from last year">
+		<elementSecond id="w5852"/>
+		<elementSecond id="w5853"/>
+		<elementSecond id="w5854"/>
+	</elementSecondIds>
+</triple>
+<triple id="365" profile_id="" relation="destination-of">
+	<elementFirstIds comment="falls">
+		<elementFirst id="w4231"/>
+	</elementFirstIds>
+	<elementSecondIds comment="onto land and water">
+		<elementSecond id="w4232"/>
+		<elementSecond id="w4233"/>
+		<elementSecond id="w4234"/>
+		<elementSecond id="w4235"/>
+	</elementSecondIds>
+</triple>
+<triple id="365" profile_id="" relation="patient">
+	<elementFirstIds comment="falls">
+		<elementFirst id="w4231"/>
+	</elementFirstIds>
+	<elementSecondIds comment="it">
+		<elementSecond id="w4229"/>
+	</elementSecondIds>
+</triple>
+<triple id="847" profile_id="" relation="TIME">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w6244"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from 2007">
+		<elementSecond id="w6248"/>
+		<elementSecond id="w6249"/>
+	</elementSecondIds>
+</triple>
+<triple id="847" profile_id="" relation="state-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w6244"/>
+	</elementFirstIds>
+	<elementSecondIds comment="1 percent">
+		<elementSecond id="w6246"/>
+		<elementSecond id="w6247"/>
+	</elementSecondIds>
+</triple>
+<triple id="361" profile_id="" relation="patient">
+	<elementFirstIds comment="released">
+		<elementFirst id="w4224"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w4222"/>
+	</elementSecondIds>
+</triple>
+<triple id="361" profile_id="" relation="destination-of">
+	<elementFirstIds comment="released">
+		<elementFirst id="w4224"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the air">
+		<elementSecond id="w4225"/>
+		<elementSecond id="w4226"/>
+		<elementSecond id="w4227"/>
+	</elementSecondIds>
+</triple>
+<triple id="410" profile_id="" relation="destination-of">
+	<elementFirstIds comment="brings">
+		<elementFirst id="w4474"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to the Bay">
+		<elementSecond id="w4479"/>
+		<elementSecond id="w4480"/>
+		<elementSecond id="w4481"/>
+	</elementSecondIds>
+</triple>
+<triple id="410" profile_id="" relation="done-by">
+	<elementFirstIds comment="brings">
+		<elementFirst id="w4474"/>
+	</elementFirstIds>
+	<elementSecondIds comment="it">
+		<elementSecond id="w4473"/>
+	</elementSecondIds>
+</triple>
+<triple id="410" profile_id="" relation="patient">
+	<elementFirstIds comment="brings">
+		<elementFirst id="w4474"/>
+	</elementFirstIds>
+	<elementSecondIds comment="more nitrogen and phosphorus">
+		<elementSecond id="w4475"/>
+		<elementSecond id="w4476"/>
+		<elementSecond id="w4477"/>
+		<elementSecond id="w4478"/>
+	</elementSecondIds>
+</triple>
+<triple id="410" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="brings">
+		<elementFirst id="w4474"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river flow">
+		<elementSecond id="w4469"/>
+		<elementSecond id="w4470"/>
+	</elementSecondIds>
+</triple>
+<triple id="957" profile_id="" relation="patient">
+	<elementFirstIds comment="restored">
+		<elementFirst id="w1768"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Bay">
+		<elementSecond id="w1769"/>
+	</elementSecondIds>
+</triple>
+<triple id="414" profile_id="" relation="patient">
+	<elementFirstIds comment="flowing">
+		<elementFirst id="w4488"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The volume of river water">
+		<elementSecond id="w4483"/>
+		<elementSecond id="w4484"/>
+		<elementSecond id="w4485"/>
+		<elementSecond id="w4486"/>
+		<elementSecond id="w4487"/>
+	</elementSecondIds>
+</triple>
+<triple id="414" profile_id="" relation="destination-of">
+	<elementFirstIds comment="flowing">
+		<elementFirst id="w4488"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the Bay">
+		<elementSecond id="w4489"/>
+		<elementSecond id="w4490"/>
+		<elementSecond id="w4491"/>
+	</elementSecondIds>
+</triple>
+<triple id="954" profile_id="" relation="patient">
+	<elementFirstIds comment="degraded">
+		<elementFirst id="w1694"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitats">
+		<elementSecond id="w1695"/>
+	</elementSecondIds>
+</triple>
+<triple id="946" profile_id="" relation="has-state">
+	<elementFirstIds comment="excess">
+		<elementFirst id="w1628"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nitrogen">
+		<elementSecond id="w1629"/>
+	</elementSecondIds>
+</triple>
+<triple id="941" profile_id="" relation="destination-of">
+	<elementFirstIds comment="migrate">
+		<elementFirst id="w11698"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into Chesapeake Bay">
+		<elementSecond id="w11699"/>
+		<elementSecond id="w11700"/>
+		<elementSecond id="w11701"/>
+	</elementSecondIds>
+</triple>
+<triple id="941" profile_id="" relation="done-by">
+	<elementFirstIds comment="migrate">
+		<elementFirst id="w11698"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Menhaden">
+		<elementSecond id="w11697"/>
+	</elementSecondIds>
+</triple>
+<triple id="396" profile_id="" relation="source-of">
+	<elementFirstIds comment="carries">
+		<elementFirst id="w4435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from throughout the watershed">
+		<elementSecond id="w4438"/>
+		<elementSecond id="w4439"/>
+		<elementSecond id="w4440"/>
+		<elementSecond id="w4441"/>
+	</elementSecondIds>
+</triple>
+<triple id="396" profile_id="" relation="patient">
+	<elementFirstIds comment="carries">
+		<elementFirst id="w4435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="polluted runoff">
+		<elementSecond id="w4436"/>
+		<elementSecond id="w4437"/>
+	</elementSecondIds>
+</triple>
+<triple id="396" profile_id="" relation="done-by">
+	<elementFirstIds comment="carries">
+		<elementFirst id="w4435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w4433"/>
+	</elementSecondIds>
+</triple>
+<triple id="386" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="tremendous pressure">
+		<elementFirst id="w4385"/>
+		<elementFirst id="w4386"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fisheries">
+		<elementSecond id="w4382"/>
+	</elementSecondIds>
+</triple>
+<triple id="386" profile_id="" relation="patient">
+	<elementFirstIds comment="tremendous pressure">
+		<elementFirst id="w4385"/>
+		<elementFirst id="w4386"/>
+	</elementFirstIds>
+	<elementSecondIds comment="blue crabs and oysters">
+		<elementSecond id="w4397"/>
+		<elementSecond id="w4398"/>
+		<elementSecond id="w4399"/>
+		<elementSecond id="w4400"/>
+	</elementSecondIds>
+</triple>
+<triple id="386" profile_id="" relation="patient">
+	<elementFirstIds comment="tremendous pressure">
+		<elementFirst id="w4385"/>
+		<elementFirst id="w4386"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the population of key Chesapeake species">
+		<elementSecond id="w4388"/>
+		<elementSecond id="w4389"/>
+		<elementSecond id="w4390"/>
+		<elementSecond id="w4391"/>
+		<elementSecond id="w4392"/>
+		<elementSecond id="w4393"/>
+	</elementSecondIds>
+</triple>
+<triple id="934" profile_id="" relation="patient">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="large stretches of habitat">
+		<elementSecond id="w10954"/>
+		<elementSecond id="w10955"/>
+		<elementSecond id="w10956"/>
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="391" profile_id="" relation="patient">
+	<elementFirstIds comment="flow">
+		<elementFirst id="w4417"/>
+	</elementFirstIds>
+	<elementSecondIds comment="billions of gallons of fresh water">
+		<elementSecond id="w4411"/>
+		<elementSecond id="w4412"/>
+		<elementSecond id="w4413"/>
+		<elementSecond id="w4414"/>
+		<elementSecond id="w4415"/>
+		<elementSecond id="w4416"/>
+	</elementSecondIds>
+</triple>
+<triple id="391" profile_id="" relation="path-of">
+	<elementFirstIds comment="flow">
+		<elementFirst id="w4417"/>
+	</elementFirstIds>
+	<elementSecondIds comment="through thousands of streams and rivers">
+		<elementSecond id="w4418"/>
+		<elementSecond id="w4419"/>
+		<elementSecond id="w4420"/>
+		<elementSecond id="w4421"/>
+		<elementSecond id="w4422"/>
+		<elementSecond id="w4423"/>
+	</elementSecondIds>
+</triple>
+<triple id="931" profile_id="" relation="patient">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10959"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dams">
+		<elementSecond id="w10960"/>
+	</elementSecondIds>
+</triple>
+<triple id="930" profile_id="" relation="result-of">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10964"/>
+	</elementSecondIds>
+</triple>
+<triple id="444" profile_id="" relation="patient">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4782"/>
+	</elementFirstIds>
+	<elementSecondIds comment="13.8 million pounds of phosphorus">
+		<elementSecond id="w4777"/>
+		<elementSecond id="w4778"/>
+		<elementSecond id="w4779"/>
+		<elementSecond id="w4780"/>
+		<elementSecond id="w4781"/>
+	</elementSecondIds>
+</triple>
+<triple id="444" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4782"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay">
+		<elementSecond id="w4783"/>
+		<elementSecond id="w4784"/>
+	</elementSecondIds>
+</triple>
+<triple id="444" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4782"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w4785"/>
+		<elementSecond id="w4786"/>
+	</elementSecondIds>
+</triple>
+<triple id="919" profile_id="" relation="destination-of">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10895"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to spawning grounds">
+		<elementSecond id="w10897"/>
+		<elementSecond id="w10898"/>
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="919" profile_id="" relation="result-of">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10895"/>
+	</elementFirstIds>
+	<elementSecondIds comment="movement">
+		<elementSecond id="w10893"/>
+	</elementSecondIds>
+</triple>
+<triple id="919" profile_id="" relation="done-by">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10895"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10895"/>
+		<elementSecond id="w10896"/>
+	</elementSecondIds>
+</triple>
+<triple id="434" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w4538"/>
+	</elementFirstIds>
+	<elementSecondIds comment="precipitation">
+		<elementSecond id="w4532"/>
+	</elementSecondIds>
+</triple>
+<triple id="434" profile_id="" relation="generic-location">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w4538"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay">
+		<elementSecond id="w4540"/>
+		<elementSecond id="w4541"/>
+		<elementSecond id="w4542"/>
+	</elementSecondIds>
+</triple>
+<triple id="915" profile_id="" relation="result-of">
+	<elementFirstIds comment="currently block">
+		<elementFirst id="w10890"/>
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="movement">
+		<elementSecond id="w10893"/>
+	</elementSecondIds>
+</triple>
+<triple id="915" profile_id="" relation="done-by">
+	<elementFirstIds comment="currently block">
+		<elementFirst id="w10890"/>
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Dams , culverts and other barriers">
+		<elementSecond id="w10884"/>
+		<elementSecond id="w10885"/>
+		<elementSecond id="w10886"/>
+		<elementSecond id="w10887"/>
+		<elementSecond id="w10888"/>
+		<elementSecond id="w10889"/>
+	</elementSecondIds>
+</triple>
+<triple id="439" profile_id="" relation="patient">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4742"/>
+	</elementFirstIds>
+	<elementSecondIds comment="291 million pounds of nitrogen">
+		<elementSecond id="w4737"/>
+		<elementSecond id="w4738"/>
+		<elementSecond id="w4739"/>
+		<elementSecond id="w4740"/>
+		<elementSecond id="w4741"/>
+	</elementSecondIds>
+</triple>
+<triple id="439" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4742"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay during">
+		<elementSecond id="w4743"/>
+		<elementSecond id="w4744"/>
+		<elementSecond id="w4745"/>
+	</elementSecondIds>
+</triple>
+<triple id="439" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4742"/>
+	</elementFirstIds>
+	<elementSecondIds comment="2008">
+		<elementSecond id="w4746"/>
+	</elementSecondIds>
+</triple>
+<triple id="424" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="mixes in">
+		<elementFirst id="w4511"/>
+		<elementFirst id="w4512"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fast-moving and turbulent river flow">
+		<elementSecond id="w4506"/>
+		<elementSecond id="w4507"/>
+		<elementSecond id="w4508"/>
+		<elementSecond id="w4509"/>
+		<elementSecond id="w4510"/>
+	</elementSecondIds>
+</triple>
+<triple id="424" profile_id="" relation="source-of">
+	<elementFirstIds comment="mixes in">
+		<elementFirst id="w4511"/>
+		<elementFirst id="w4512"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from the air">
+		<elementSecond id="w4514"/>
+		<elementSecond id="w4515"/>
+		<elementSecond id="w4516"/>
+	</elementSecondIds>
+</triple>
+<triple id="424" profile_id="" relation="patient">
+	<elementFirstIds comment="mixes in">
+		<elementFirst id="w4511"/>
+		<elementFirst id="w4512"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oxygen">
+		<elementSecond id="w4513"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10432"/>
+	</elementFirstIds>
+	<elementSecondIds comment="spawn increase">
+		<elementSecond id="w10438"/>
+		<elementSecond id="w10441"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="destination-of">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10432"/>
+	</elementFirstIds>
+	<elementSecondIds comment="upstream">
+		<elementSecond id="w10436"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="done-by">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10432"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="473" profile_id="" relation="TIME">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w5080"/>
+	</elementFirstIds>
+	<elementSecondIds comment="through 2030">
+		<elementSecond id="w5075"/>
+		<elementSecond id="w5076"/>
+	</elementSecondIds>
+</triple>
+<triple id="473" profile_id="" relation="patient">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w5080"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w5079"/>
+	</elementSecondIds>
+</triple>
+<triple id="469" profile_id="" relation="TIME">
+	<elementFirstIds comment="doubled">
+		<elementFirst id="w5072"/>
+	</elementFirstIds>
+	<elementSecondIds comment="since 1950">
+		<elementSecond id="w5065"/>
+		<elementSecond id="w5066"/>
+	</elementSecondIds>
+</triple>
+<triple id="469" profile_id="" relation="patient">
+	<elementFirstIds comment="doubled">
+		<elementFirst id="w5072"/>
+	</elementFirstIds>
+	<elementSecondIds comment="number of residents">
+		<elementSecond id="w5068"/>
+		<elementSecond id="w5069"/>
+		<elementSecond id="w5070"/>
+	</elementSecondIds>
+</triple>
+<triple id="1014" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w3851"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w3850"/>
+	</elementSecondIds>
+</triple>
+<triple id="1002" profile_id="" relation="has-state">
+	<elementFirstIds comment="health">
+		<elementFirst id="w3667"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Bay">
+		<elementSecond id="w3665"/>
+	</elementSecondIds>
+</triple>
+<triple id="460" profile_id="" relation="patient">
+	<elementFirstIds comment="rise">
+		<elementFirst id="w5058"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population of the watershed">
+		<elementSecond id="w5060"/>
+		<elementSecond id="w5061"/>
+		<elementSecond id="w5062"/>
+		<elementSecond id="w5063"/>
+	</elementSecondIds>
+</triple>
+<triple id="1005" profile_id="" relation="patient">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3695"/>
+	</elementFirstIds>
+	<elementSecondIds comment="air">
+		<elementSecond id="w3694"/>
+	</elementSecondIds>
+</triple>
+<triple id="456" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="negative impact">
+		<elementFirst id="w5044"/>
+		<elementFirst id="w5045"/>
+	</elementFirstIds>
+	<elementSecondIds comment="areas developed for farming or cities">
+		<elementSecond id="w5035"/>
+		<elementSecond id="w5036"/>
+		<elementSecond id="w5037"/>
+		<elementSecond id="w5038"/>
+		<elementSecond id="w5039"/>
+		<elementSecond id="w5040"/>
+	</elementSecondIds>
+</triple>
+<triple id="453" profile_id="" relation="patient">
+	<elementFirstIds comment="positive effect">
+		<elementFirst id="w5028"/>
+		<elementFirst id="w5029"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water quality">
+		<elementSecond id="w5031"/>
+		<elementSecond id="w5032"/>
+	</elementSecondIds>
+</triple>
+<triple id="453" profile_id="" relation="done-by">
+	<elementFirstIds comment="positive effect">
+		<elementFirst id="w5028"/>
+		<elementFirst id="w5029"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Natural areas like forests and wetlands">
+		<elementSecond id="w5020"/>
+		<elementSecond id="w5021"/>
+		<elementSecond id="w5022"/>
+		<elementSecond id="w5023"/>
+		<elementSecond id="w5024"/>
+		<elementSecond id="w5025"/>
+	</elementSecondIds>
+</triple>
+<triple id="997" profile_id="" relation="patient">
+	<elementFirstIds comment="Protecting">
+		<elementFirst id="w3382"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Watersheds">
+		<elementSecond id="w3383"/>
+	</elementSecondIds>
+</triple>
+<triple id="999" profile_id="" relation="has-state">
+	<elementFirstIds comment="health">
+		<elementFirst id="w3667"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay">
+		<elementSecond id="w3663"/>
+		<elementSecond id="w3664"/>
+		<elementSecond id="w3665"/>
+	</elementSecondIds>
+</triple>
+<triple id="449" profile_id="" relation="patient">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4819"/>
+	</elementFirstIds>
+	<elementSecondIds comment="3.3 million tons of sediment">
+		<elementSecond id="w4814"/>
+		<elementSecond id="w4815"/>
+		<elementSecond id="w4816"/>
+		<elementSecond id="w4817"/>
+		<elementSecond id="w4818"/>
+	</elementSecondIds>
+</triple>
+<triple id="449" profile_id="" relation="destination-of">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4819"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Bay">
+		<elementSecond id="w4820"/>
+		<elementSecond id="w4821"/>
+	</elementSecondIds>
+</triple>
+<triple id="449" profile_id="" relation="TIME">
+	<elementFirstIds comment="reached">
+		<elementFirst id="w4819"/>
+	</elementFirstIds>
+	<elementSecondIds comment="during 2008">
+		<elementSecond id="w4822"/>
+		<elementSecond id="w4823"/>
+	</elementSecondIds>
+</triple>
+<triple id="506" profile_id="" relation="done-by">
+	<elementFirstIds comment="runs off">
+		<elementFirst id="w5187"/>
+		<elementFirst id="w5188"/>
+	</elementFirstIds>
+	<elementSecondIds comment="rainfall">
+		<elementSecond id="w5186"/>
+	</elementSecondIds>
+</triple>
+<triple id="503" profile_id="" relation="patient">
+	<elementFirstIds comment="not allow filter">
+		<elementFirst id="w5175"/>
+		<elementFirst id="w5176"/>
+		<elementFirst id="w5179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5177"/>
+	</elementSecondIds>
+</triple>
+<triple id="503" profile_id="" relation="destination-of">
+	<elementFirstIds comment="not allow filter">
+		<elementFirst id="w5175"/>
+		<elementFirst id="w5176"/>
+		<elementFirst id="w5179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the ground">
+		<elementSecond id="w5180"/>
+		<elementSecond id="w5181"/>
+		<elementSecond id="w5182"/>
+	</elementSecondIds>
+</triple>
+<triple id="503" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="not allow filter">
+		<elementFirst id="w5175"/>
+		<elementFirst id="w5176"/>
+		<elementFirst id="w5179"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Impervious surfaces such as roads and rooftops">
+		<elementSecond id="w5167"/>
+		<elementSecond id="w5168"/>
+		<elementSecond id="w5169"/>
+		<elementSecond id="w5170"/>
+		<elementSecond id="w5171"/>
+		<elementSecond id="w5172"/>
+		<elementSecond id="w5173"/>
+	</elementSecondIds>
+</triple>
+<triple id="498" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="impacts the health">
+		<elementFirst id="w5156"/>
+		<elementFirst id="w5157"/>
+		<elementFirst id="w5158"/>
+	</elementFirstIds>
+	<elementSecondIds comment="land conversion">
+		<elementSecond id="w5153"/>
+		<elementSecond id="w5154"/>
+	</elementSecondIds>
+</triple>
+<triple id="498" profile_id="" relation="patient">
+	<elementFirstIds comment="impacts the health">
+		<elementFirst id="w5156"/>
+		<elementFirst id="w5157"/>
+		<elementFirst id="w5158"/>
+	</elementFirstIds>
+	<elementSecondIds comment="streams , rivers and the Bay">
+		<elementSecond id="w5160"/>
+		<elementSecond id="w5161"/>
+		<elementSecond id="w5162"/>
+		<elementSecond id="w5163"/>
+		<elementSecond id="w5164"/>
+		<elementSecond id="w5165"/>
+	</elementSecondIds>
+</triple>
+<triple id="494" profile_id="" relation="patient">
+	<elementFirstIds comment="transformed">
+		<elementFirst id="w5142"/>
+	</elementFirstIds>
+	<elementSecondIds comment="forests , farms and other valuable lands">
+		<elementSecond id="w5133"/>
+		<elementSecond id="w5134"/>
+		<elementSecond id="w5135"/>
+		<elementSecond id="w5136"/>
+		<elementSecond id="w5137"/>
+		<elementSecond id="w5138"/>
+		<elementSecond id="w5139"/>
+	</elementSecondIds>
+</triple>
+<triple id="494" profile_id="" relation="product-of">
+	<elementFirstIds comment="transformed">
+		<elementFirst id="w5142"/>
+	</elementFirstIds>
+	<elementSecondIds comment="subdivisions , shopping centers and parking lots">
+		<elementSecond id="w5144"/>
+		<elementSecond id="w5145"/>
+		<elementSecond id="w5146"/>
+		<elementSecond id="w5147"/>
+		<elementSecond id="w5148"/>
+		<elementSecond id="w5149"/>
+		<elementSecond id="w5150"/>
+	</elementSecondIds>
+</triple>
+<triple id="485" profile_id="" relation="destination-of">
+	<elementFirstIds comment="moving">
+		<elementFirst id="w5119"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into sprawling suburbs">
+		<elementSecond id="w5120"/>
+		<elementSecond id="w5121"/>
+		<elementSecond id="w5122"/>
+	</elementSecondIds>
+</triple>
+<triple id="485" profile_id="" relation="done-by">
+	<elementFirstIds comment="moving">
+		<elementFirst id="w5119"/>
+	</elementFirstIds>
+	<elementSecondIds comment="People">
+		<elementSecond id="w5117"/>
+	</elementSecondIds>
+</triple>
+<triple id="480" profile_id="" relation="TIME">
+	<elementFirstIds comment="development">
+		<elementFirst id="w5090"/>
+	</elementFirstIds>
+	<elementSecondIds comment="through 2030">
+		<elementSecond id="w5075"/>
+		<elementSecond id="w5076"/>
+	</elementSecondIds>
+</triple>
+<triple id="546" profile_id="" relation="source-of">
+	<elementFirstIds comment="retain">
+		<elementFirst id="w5316"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sources such as automobiles and power plants">
+		<elementSecond id="w5325"/>
+		<elementSecond id="w5326"/>
+		<elementSecond id="w5327"/>
+		<elementSecond id="w5328"/>
+		<elementSecond id="w5329"/>
+		<elementSecond id="w5330"/>
+		<elementSecond id="w5331"/>
+	</elementSecondIds>
+</triple>
+<triple id="546" profile_id="" relation="done-by">
+	<elementFirstIds comment="retain">
+		<elementFirst id="w5316"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forests">
+		<elementSecond id="w5310"/>
+	</elementSecondIds>
+</triple>
+<triple id="546" profile_id="" relation="patient">
+	<elementFirstIds comment="retain">
+		<elementFirst id="w5316"/>
+	</elementFirstIds>
+	<elementSecondIds comment="up to 85 percent of the nitrogen">
+		<elementSecond id="w5317"/>
+		<elementSecond id="w5318"/>
+		<elementSecond id="w5319"/>
+		<elementSecond id="w5320"/>
+		<elementSecond id="w5321"/>
+		<elementSecond id="w5322"/>
+		<elementSecond id="w5323"/>
+	</elementSecondIds>
+</triple>
+<triple id="1098" profile_id="" relation="done-by">
+	<elementFirstIds comment="harmful">
+		<elementFirst id="w6331"/>
+	</elementFirstIds>
+	<elementSecondIds comment="chemicals">
+		<elementSecond id="w6316"/>
+	</elementSecondIds>
+</triple>
+<triple id="1098" profile_id="" relation="patient">
+	<elementFirstIds comment="harmful">
+		<elementFirst id="w6331"/>
+	</elementFirstIds>
+	<elementSecondIds comment="humans">
+		<elementSecond id="w6333"/>
+	</elementSecondIds>
+</triple>
+<triple id="1092" profile_id="" relation="patient">
+	<elementFirstIds comment="polychlorinated">
+		<elementFirst id="w6286"/>
+	</elementFirstIds>
+	<elementSecondIds comment="biphenyls">
+		<elementSecond id="w6287"/>
+	</elementSecondIds>
+</triple>
+<triple id="559" profile_id="" relation="done-by">
+	<elementFirstIds comment="control">
+		<elementFirst id="w5338"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forested areas">
+		<elementSecond id="w5333"/>
+		<elementSecond id="w5334"/>
+	</elementSecondIds>
+</triple>
+<triple id="559" profile_id="" relation="result-of">
+	<elementFirstIds comment="control">
+		<elementFirst id="w5338"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flooding">
+		<elementSecond id="w5339"/>
+	</elementSecondIds>
+</triple>
+<triple id="1106" profile_id="" relation="patient">
+	<elementFirstIds comment="improve">
+		<elementFirst id="w6704"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat health">
+		<elementSecond id="w6694"/>
+		<elementSecond id="w6700"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="patient">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w1626"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Chesapeake Bay and its tributaries">
+		<elementSecond id="w1615"/>
+		<elementSecond id="w1616"/>
+		<elementSecond id="w1617"/>
+		<elementSecond id="w1618"/>
+		<elementSecond id="w1619"/>
+		<elementSecond id="w1620"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="done-by">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w1626"/>
+	</elementFirstIds>
+	<elementSecondIds comment="phosphorus">
+		<elementSecond id="w1631"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="done-by">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w1626"/>
+	</elementFirstIds>
+	<elementSecondIds comment="excess nitrogen">
+		<elementSecond id="w1628"/>
+		<elementSecond id="w1629"/>
+	</elementSecondIds>
+</triple>
+<triple id="33" profile_id="" relation="done-by">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w1626"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sediment">
+		<elementSecond id="w1633"/>
+	</elementSecondIds>
+</triple>
+<triple id="46" profile_id="" relation="has-state">
+	<elementFirstIds comment="poor">
+		<elementFirst id="w1690"/>
+	</elementFirstIds>
+	<elementSecondIds comment="poor water quality">
+		<elementSecond id="w1690"/>
+		<elementSecond id="w1691"/>
+		<elementSecond id="w1692"/>
+	</elementSecondIds>
+</triple>
+<triple id="46" profile_id="" relation="has-state">
+	<elementFirstIds comment="poor">
+		<elementFirst id="w1690"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Bay">
+		<elementSecond id="w1685"/>
+		<elementSecond id="w1686"/>
+	</elementSecondIds>
+</triple>
+<triple id="1121" profile_id="" relation="patient">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10442"/>
+	</elementSecondIds>
+</triple>
+<triple id="1121" profile_id="" relation="elementSecond">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="local fish populations">
+		<elementSecond id="w10444"/>
+		<elementSecond id="w10445"/>
+		<elementSecond id="w10446"/>
+	</elementSecondIds>
+</triple>
+<triple id="45" profile_id="" relation="has-state">
+	<elementFirstIds comment="degraded habitats">
+		<elementFirst id="w1694"/>
+		<elementFirst id="w1695"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Bay">
+		<elementSecond id="w1685"/>
+		<elementSecond id="w1686"/>
+	</elementSecondIds>
+</triple>
+<triple id="63" profile_id="" relation="patient">
+	<elementFirstIds comment="offsetting">
+		<elementFirst id="w1807"/>
+	</elementFirstIds>
+	<elementSecondIds comment="cleanup efforts">
+		<elementSecond id="w1808"/>
+		<elementSecond id="w1809"/>
+	</elementSecondIds>
+</triple>
+<triple id="63" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="offsetting">
+		<elementFirst id="w1807"/>
+	</elementFirstIds>
+	<elementSecondIds comment="human activity">
+		<elementSecond id="w1801"/>
+		<elementSecond id="w1802"/>
+	</elementSecondIds>
+</triple>
+<triple id="536" profile_id="" relation="done-by">
+	<elementFirstIds comment="filter">
+		<elementFirst id="w5245"/>
+	</elementFirstIds>
+	<elementSecondIds comment="They">
+		<elementSecond id="w5242"/>
+	</elementSecondIds>
+</triple>
+<triple id="536" profile_id="" relation="patient">
+	<elementFirstIds comment="filter">
+		<elementFirst id="w5245"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5248"/>
+	</elementSecondIds>
+</triple>
+<triple id="1137" profile_id="" relation="patient">
+	<elementFirstIds comment="previously">
+		<elementFirst id="w10975"/>
+	</elementFirstIds>
+	<elementSecondIds comment="streams">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="1137" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="previously">
+		<elementFirst id="w10975"/>
+	</elementFirstIds>
+	<elementSecondIds comment="acid mine drainage">
+		<elementSecond id="w10978"/>
+		<elementSecond id="w10979"/>
+		<elementSecond id="w10980"/>
+	</elementSecondIds>
+</triple>
+<triple id="1034" profile_id="" relation="patient">
+	<elementFirstIds comment="change">
+		<elementFirst id="w4069"/>
+	</elementFirstIds>
+	<elementSecondIds comment="climate">
+		<elementSecond id="w4068"/>
+	</elementSecondIds>
+</triple>
+<triple id="1034" profile_id="" relation="generic-location">
+	<elementFirstIds comment="change">
+		<elementFirst id="w4069"/>
+	</elementFirstIds>
+	<elementSecondIds comment="global">
+		<elementSecond id="w4067"/>
+	</elementSecondIds>
+</triple>
+<triple id="76" profile_id="" relation="done-by">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w1854"/>
+	</elementFirstIds>
+	<elementSecondIds comment="people">
+		<elementSecond id="w1846"/>
+	</elementSecondIds>
+</triple>
+<triple id="76" profile_id="" relation="patient">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w1854"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w1855"/>
+	</elementSecondIds>
+</triple>
+<triple id="1024" profile_id="" relation="patient">
+	<elementFirstIds comment="treatment">
+		<elementFirst id="w3964"/>
+	</elementFirstIds>
+	<elementSecondIds comment="wastewater">
+		<elementSecond id="w3963"/>
+	</elementSecondIds>
+</triple>
+<triple id="616" profile_id="" relation="patient">
+	<elementFirstIds comment="grow">
+		<elementFirst id="w5443"/>
+	</elementFirstIds>
+	<elementSecondIds comment="grasses">
+		<elementSecond id="w5441"/>
+	</elementSecondIds>
+</triple>
+<triple id="1027" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w4019"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w4018"/>
+	</elementSecondIds>
+</triple>
+<triple id="1030" profile_id="" relation="patient">
+	<elementFirstIds comment="treatment">
+		<elementFirst id="w4026"/>
+	</elementFirstIds>
+	<elementSecondIds comment="wastewater">
+		<elementSecond id="w4025"/>
+	</elementSecondIds>
+</triple>
+<triple id="626" profile_id="" relation="patient">
+	<elementFirstIds comment="filter">
+		<elementFirst id="w5456"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the water">
+		<elementSecond id="w5457"/>
+		<elementSecond id="w5458"/>
+	</elementSecondIds>
+</triple>
+<triple id="626" profile_id="" relation="done-by">
+	<elementFirstIds comment="filter">
+		<elementFirst id="w5456"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Oysters">
+		<elementSecond id="w5452"/>
+	</elementSecondIds>
+</triple>
+<triple id="1050" profile_id="" relation="has-state">
+	<elementFirstIds comment="fewer">
+		<elementFirst id="w4118"/>
+	</elementFirstIds>
+	<elementSecondIds comment="wintering waterfowl">
+		<elementSecond id="w4119"/>
+		<elementSecond id="w4120"/>
+	</elementSecondIds>
+</triple>
+<triple id="1053" profile_id="" relation="patient">
+	<elementFirstIds comment="change">
+		<elementFirst id="w4124"/>
+	</elementFirstIds>
+	<elementSecondIds comment="types of plants and animals">
+		<elementSecond id="w4127"/>
+		<elementSecond id="w4128"/>
+		<elementSecond id="w4129"/>
+		<elementSecond id="w4130"/>
+		<elementSecond id="w4131"/>
+	</elementSecondIds>
+</triple>
+<triple id="1047" profile_id="" relation="patient">
+	<elementFirstIds comment="flow">
+		<elementFirst id="w4114"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w4116"/>
+	</elementSecondIds>
+</triple>
+<triple id="1059" profile_id="" relation="patient">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w4292"/>
+	</elementFirstIds>
+	<elementSecondIds comment="air">
+		<elementSecond id="w4291"/>
+	</elementSecondIds>
+</triple>
+<triple id="108" profile_id="" relation="patient">
+	<elementFirstIds comment="impact the health">
+		<elementFirst id="w2280"/>
+		<elementFirst id="w2281"/>
+		<elementFirst id="w2282"/>
+	</elementFirstIds>
+	<elementSecondIds comment="local creeks , streams and rivers , and ultimately the Bay">
+		<elementSecond id="w2284"/>
+		<elementSecond id="w2285"/>
+		<elementSecond id="w2286"/>
+		<elementSecond id="w2287"/>
+		<elementSecond id="w2288"/>
+		<elementSecond id="w2289"/>
+		<elementSecond id="w2290"/>
+		<elementSecond id="w2291"/>
+		<elementSecond id="w2292"/>
+		<elementSecond id="w2293"/>
+		<elementSecond id="w2294"/>
+	</elementSecondIds>
+</triple>
+<triple id="108" profile_id="" relation="done-by">
+	<elementFirstIds comment="impact the health">
+		<elementFirst id="w2280"/>
+		<elementFirst id="w2281"/>
+		<elementFirst id="w2282"/>
+	</elementFirstIds>
+	<elementSecondIds comment="residents">
+		<elementSecond id="w2274"/>
+	</elementSecondIds>
+</triple>
+<triple id="1056" profile_id="" relation="done-by">
+	<elementFirstIds comment="invasive">
+		<elementFirst id="w4185"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w4186"/>
+	</elementSecondIds>
+</triple>
+<triple id="587" profile_id="" relation="patient">
+	<elementFirstIds comment="reduces">
+		<elementFirst id="w5397"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water quality">
+		<elementSecond id="w5402"/>
+		<elementSecond id="w5403"/>
+	</elementSecondIds>
+</triple>
+<triple id="587" profile_id="" relation="patient">
+	<elementFirstIds comment="reduces">
+		<elementFirst id="w5397"/>
+	</elementFirstIds>
+	<elementSecondIds comment="wildlife habitat">
+		<elementSecond id="w5406"/>
+		<elementSecond id="w5407"/>
+	</elementSecondIds>
+</triple>
+<triple id="587" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="reduces">
+		<elementFirst id="w5397"/>
+	</elementFirstIds>
+	<elementSecondIds comment="development">
+		<elementSecond id="w5385"/>
+	</elementSecondIds>
+</triple>
+<triple id="127" profile_id="" relation="patient">
+	<elementFirstIds comment="desired health">
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay">
+		<elementSecond id="w2518"/>
+		<elementSecond id="w2519"/>
+		<elementSecond id="w2520"/>
+	</elementSecondIds>
+</triple>
+<triple id="1074" profile_id="" relation="patient">
+	<elementFirstIds comment="sprawling">
+		<elementFirst id="w5121"/>
+	</elementFirstIds>
+	<elementSecondIds comment="suburbs">
+		<elementSecond id="w5122"/>
+	</elementSecondIds>
+</triple>
+<triple id="1078" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w5222"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w5221"/>
+	</elementSecondIds>
+</triple>
+<triple id="607" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="greatest impact">
+		<elementFirst id="w5010"/>
+		<elementFirst id="w5011"/>
+	</elementFirstIds>
+	<elementSecondIds comment="use">
+		<elementSecond id="w5005"/>
+	</elementSecondIds>
+</triple>
+<triple id="607" profile_id="" relation="patient">
+	<elementFirstIds comment="greatest impact">
+		<elementFirst id="w5010"/>
+		<elementFirst id="w5011"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay and local waterways">
+		<elementSecond id="w5013"/>
+		<elementSecond id="w5014"/>
+		<elementSecond id="w5015"/>
+		<elementSecond id="w5016"/>
+		<elementSecond id="w5017"/>
+		<elementSecond id="w5018"/>
+	</elementSecondIds>
+</triple>
+<triple id="683" profile_id="" relation="has-state">
+	<elementFirstIds comment="have enough oxygen">
+		<elementFirst id="w5551"/>
+		<elementFirst id="w5552"/>
+		<elementFirst id="w5553"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The water">
+		<elementSecond id="w5544"/>
+		<elementSecond id="w5545"/>
+	</elementSecondIds>
+</triple>
+<triple id="677" profile_id="" relation="patient">
+	<elementFirstIds comment="support">
+		<elementFirst id="w5532"/>
+	</elementFirstIds>
+	<elementSecondIds comment="aquatic life , such as fish , crabs and oysters">
+		<elementSecond id="w5533"/>
+		<elementSecond id="w5534"/>
+		<elementSecond id="w5535"/>
+		<elementSecond id="w5536"/>
+		<elementSecond id="w5537"/>
+		<elementSecond id="w5538"/>
+		<elementSecond id="w5539"/>
+		<elementSecond id="w5540"/>
+		<elementSecond id="w5541"/>
+		<elementSecond id="w5542"/>
+	</elementSecondIds>
+</triple>
+<triple id="677" profile_id="" relation="done-by">
+	<elementFirstIds comment="support">
+		<elementFirst id="w5532"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5524"/>
+	</elementSecondIds>
+</triple>
+<triple id="695" profile_id="" relation="done-by">
+	<elementFirstIds comment="quality remains extremely poor">
+		<elementFirst id="w5578"/>
+		<elementFirst id="w5582"/>
+		<elementFirst id="w5583"/>
+		<elementFirst id="w5584"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from nitrogen , phosphorus , sediment and chemicals">
+		<elementSecond id="w5588"/>
+		<elementSecond id="w5589"/>
+		<elementSecond id="w5590"/>
+		<elementSecond id="w5591"/>
+		<elementSecond id="w5592"/>
+		<elementSecond id="w5593"/>
+		<elementSecond id="w5594"/>
+		<elementSecond id="w5595"/>
+	</elementSecondIds>
+</triple>
+<triple id="695" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="quality remains extremely poor">
+		<elementFirst id="w5578"/>
+		<elementFirst id="w5582"/>
+		<elementFirst id="w5583"/>
+		<elementFirst id="w5584"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w5587"/>
+	</elementSecondIds>
+</triple>
+<triple id="148" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w2614"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Pollution">
+		<elementSecond id="w2607"/>
+	</elementSecondIds>
+</triple>
+<triple id="148" profile_id="" relation="patient">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w2614"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w2613"/>
+	</elementSecondIds>
+</triple>
+<triple id="175" profile_id="" relation="done-by">
+	<elementFirstIds comment="support">
+		<elementFirst id="w2667"/>
+	</elementFirstIds>
+	<elementSecondIds comment="vital habitats and lower food web">
+		<elementSecond id="w2660"/>
+		<elementSecond id="w2661"/>
+		<elementSecond id="w2662"/>
+		<elementSecond id="w2663"/>
+		<elementSecond id="w2664"/>
+		<elementSecond id="w2665"/>
+	</elementSecondIds>
+</triple>
+<triple id="175" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="support">
+		<elementFirst id="w2667"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Chesapeake Bay">
+		<elementSecond id="w2669"/>
+		<elementSecond id="w2670"/>
+		<elementSecond id="w2671"/>
+		<elementSecond id="w2672"/>
+	</elementSecondIds>
+</triple>
+<triple id="175" profile_id="" relation="patient">
+	<elementFirstIds comment="support">
+		<elementFirst id="w2667"/>
+	</elementFirstIds>
+	<elementSecondIds comment="life">
+		<elementSecond id="w2668"/>
+	</elementSecondIds>
+</triple>
+<triple id="651" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="decompose">
+		<elementFirst id="w5485"/>
+	</elementFirstIds>
+	<elementSecondIds comment="blooms">
+		<elementSecond id="w5484"/>
+	</elementSecondIds>
+</triple>
+<triple id="645" profile_id="" relation="has-state">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w5481"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5482"/>
+	</elementSecondIds>
+</triple>
+<triple id="645" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="murky">
+		<elementFirst id="w5481"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Pollution">
+		<elementSecond id="w5476"/>
+	</elementSecondIds>
+</triple>
+<triple id="743" profile_id="" relation="patient">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w6141"/>
+	</elementFirstIds>
+	<elementSecondIds comment="algae">
+		<elementSecond id="w6140"/>
+	</elementSecondIds>
+</triple>
+<triple id="743" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="blooms">
+		<elementFirst id="w6141"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w6137"/>
+	</elementSecondIds>
+</triple>
+<triple id="709" profile_id="" relation="patient">
+	<elementFirstIds comment="grow">
+		<elementFirst id="w5989"/>
+	</elementFirstIds>
+	<elementSecondIds comment="light-blocking algae">
+		<elementSecond id="w5986"/>
+		<elementSecond id="w5987"/>
+	</elementSecondIds>
+</triple>
+<triple id="709" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="grow">
+		<elementFirst id="w5989"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flow of pollution">
+		<elementSecond id="w5979"/>
+		<elementSecond id="w5980"/>
+		<elementSecond id="w5981"/>
+	</elementSecondIds>
+</triple>
+<triple id="728" profile_id="" relation="done-by">
+	<elementFirstIds comment="growing">
+		<elementFirst id="w6042"/>
+	</elementFirstIds>
+	<elementSecondIds comment="underwater bay grasses">
+		<elementSecond id="w6045"/>
+		<elementSecond id="w6046"/>
+		<elementSecond id="w6047"/>
+	</elementSecondIds>
+</triple>
+<triple id="282" profile_id="" relation="done-by">
+	<elementFirstIds comment="carrying">
+		<elementFirst id="w3754"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creeks , streams and rivers">
+		<elementSecond id="w3748"/>
+		<elementSecond id="w3749"/>
+		<elementSecond id="w3750"/>
+		<elementSecond id="w3751"/>
+		<elementSecond id="w3752"/>
+	</elementSecondIds>
+</triple>
+<triple id="282" profile_id="" relation="LOCATION">
+	<elementFirstIds comment="carrying">
+		<elementFirst id="w3754"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the Chesapeake Bay">
+		<elementSecond id="w3761"/>
+		<elementSecond id="w3762"/>
+		<elementSecond id="w3763"/>
+		<elementSecond id="w3764"/>
+	</elementSecondIds>
+</triple>
+<triple id="282" profile_id="" relation="patient">
+	<elementFirstIds comment="carrying">
+		<elementFirst id="w3754"/>
+	</elementFirstIds>
+	<elementSecondIds comment="excess nitrogen , phosphorus and chemicals">
+		<elementSecond id="w3755"/>
+		<elementSecond id="w3756"/>
+		<elementSecond id="w3757"/>
+		<elementSecond id="w3758"/>
+		<elementSecond id="w3759"/>
+		<elementSecond id="w3760"/>
+	</elementSecondIds>
+</triple>
+<triple id="827" profile_id="" relation="state-of">
+	<elementFirstIds comment="protecting">
+		<elementFirst id="w3391"/>
+	</elementFirstIds>
+	<elementSecondIds comment="74 percent">
+		<elementSecond id="w3385"/>
+		<elementSecond id="w3386"/>
+	</elementSecondIds>
+</triple>
+<triple id="801" profile_id="" relation="patient">
+	<elementFirstIds comment="desired health">
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay">
+		<elementSecond id="w2518"/>
+		<elementSecond id="w2519"/>
+		<elementSecond id="w2520"/>
+	</elementSecondIds>
+</triple>
+<triple id="801" profile_id="" relation="state-of">
+	<elementFirstIds comment="desired health">
+		<elementFirst id="w2528"/>
+		<elementFirst id="w2529"/>
+	</elementFirstIds>
+	<elementSecondIds comment="38 percent">
+		<elementSecond id="w2524"/>
+		<elementSecond id="w2525"/>
+	</elementSecondIds>
+</triple>
+<triple id="270" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3680"/>
+	</elementFirstIds>
+	<elementSecondIds comment="agriculture , urban and suburban lands , wastewater , and air pollution">
+		<elementSecond id="w3684"/>
+		<elementSecond id="w3685"/>
+		<elementSecond id="w3686"/>
+		<elementSecond id="w3687"/>
+		<elementSecond id="w3688"/>
+		<elementSecond id="w3689"/>
+		<elementSecond id="w3690"/>
+		<elementSecond id="w3691"/>
+		<elementSecond id="w3692"/>
+		<elementSecond id="w3693"/>
+		<elementSecond id="w3694"/>
+		<elementSecond id="w3695"/>
+	</elementSecondIds>
+</triple>
+<triple id="809" profile_id="" relation="patient">
+	<elementFirstIds comment="lowered">
+		<elementFirst id="w2771"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the population of spawning-age blue crabs">
+		<elementSecond id="w2763"/>
+		<elementSecond id="w2764"/>
+		<elementSecond id="w2765"/>
+		<elementSecond id="w2766"/>
+		<elementSecond id="w2767"/>
+		<elementSecond id="w2768"/>
+	</elementSecondIds>
+</triple>
+<triple id="809" profile_id="" relation="state-of">
+	<elementFirstIds comment="lowered">
+		<elementFirst id="w2771"/>
+	</elementFirstIds>
+	<elementSecondIds comment="by 11 percent">
+		<elementSecond id="w2777"/>
+		<elementSecond id="w2778"/>
+		<elementSecond id="w2779"/>
+	</elementSecondIds>
+</triple>
+<triple id="785" profile_id="" relation="patient">
+	<elementFirstIds comment="polychlorinated">
+		<elementFirst id="w6286"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Chemical contaminants such as polychlorinated biphenyls PCBs">
+		<elementSecond id="w6282"/>
+		<elementSecond id="w6283"/>
+		<elementSecond id="w6284"/>
+		<elementSecond id="w6285"/>
+		<elementSecond id="w6286"/>
+		<elementSecond id="w6287"/>
+		<elementSecond id="w6289"/>
+	</elementSecondIds>
+</triple>
+<triple id="319" profile_id="" relation="patient">
+	<elementFirstIds comment="ends up">
+		<elementFirst id="w3917"/>
+		<elementFirst id="w3918"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w3914"/>
+	</elementSecondIds>
+</triple>
+<triple id="319" profile_id="" relation="destination-of">
+	<elementFirstIds comment="ends up">
+		<elementFirst id="w3917"/>
+		<elementFirst id="w3918"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the water">
+		<elementSecond id="w3919"/>
+		<elementSecond id="w3920"/>
+		<elementSecond id="w3921"/>
+	</elementSecondIds>
+</triple>
+<triple id="781" profile_id="" relation="patient">
+	<elementFirstIds comment="adverse effects">
+		<elementFirst id="w6273"/>
+		<elementFirst id="w6274"/>
+	</elementFirstIds>
+	<elementSecondIds comment="ecosystem and human health">
+		<elementSecond id="w6277"/>
+		<elementSecond id="w6278"/>
+		<elementSecond id="w6279"/>
+		<elementSecond id="w6280"/>
+	</elementSecondIds>
+</triple>
+<triple id="781" profile_id="" relation="done-by">
+	<elementFirstIds comment="adverse effects">
+		<elementFirst id="w6273"/>
+		<elementFirst id="w6274"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Toxic chemicals">
+		<elementSecond id="w6254"/>
+		<elementSecond id="w6255"/>
+	</elementSecondIds>
+</triple>
+<triple id="303" profile_id="" relation="source-of">
+	<elementFirstIds comment="growth runoff">
+		<elementFirst id="w3830"/>
+		<elementFirst id="w3835"/>
+	</elementFirstIds>
+	<elementSecondIds comment="continued population growth and related construction , runoff from urban and suburban lands">
+		<elementSecond id="w3828"/>
+		<elementSecond id="w3829"/>
+		<elementSecond id="w3830"/>
+		<elementSecond id="w3831"/>
+		<elementSecond id="w3832"/>
+		<elementSecond id="w3833"/>
+		<elementSecond id="w3834"/>
+		<elementSecond id="w3835"/>
+		<elementSecond id="w3836"/>
+		<elementSecond id="w3837"/>
+		<elementSecond id="w3838"/>
+		<elementSecond id="w3839"/>
+		<elementSecond id="w3840"/>
+	</elementSecondIds>
+</triple>
+<triple id="893" profile_id="" relation="result-of">
+	<elementFirstIds comment="overfishing , pollution and dams and other blockages">
+		<elementFirst id="w8550"/>
+		<elementFirst id="w8551"/>
+		<elementFirst id="w8552"/>
+		<elementFirst id="w8553"/>
+		<elementFirst id="w8554"/>
+		<elementFirst id="w8555"/>
+		<elementFirst id="w8556"/>
+		<elementFirst id="w8557"/>
+	</elementFirstIds>
+	<elementSecondIds comment="prelementFirst spawning">
+		<elementSecond id="w8559"/>
+		<elementSecond id="w8563"/>
+	</elementSecondIds>
+</triple>
+<triple id="327" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="decreasing">
+		<elementFirst id="w3930"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Developed areas">
+		<elementSecond id="w3923"/>
+		<elementSecond id="w3924"/>
+	</elementSecondIds>
+</triple>
+<triple id="327" profile_id="" relation="result-of">
+	<elementFirstIds comment="decreasing">
+		<elementFirst id="w3930"/>
+	</elementFirstIds>
+	<elementSecondIds comment="their filtering capacity">
+		<elementSecond id="w3931"/>
+		<elementSecond id="w3932"/>
+		<elementSecond id="w3933"/>
+	</elementSecondIds>
+</triple>
+<triple id="370" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="poor water quality">
+		<elementFirst id="w4295"/>
+		<elementFirst id="w4296"/>
+		<elementFirst id="w4297"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Nitrogen and chemical contaminants - such as mercury and PCBs">
+		<elementSecond id="w4279"/>
+		<elementSecond id="w4280"/>
+		<elementSecond id="w4281"/>
+		<elementSecond id="w4282"/>
+		<elementSecond id="w4283"/>
+		<elementSecond id="w4284"/>
+		<elementSecond id="w4285"/>
+		<elementSecond id="w4286"/>
+		<elementSecond id="w4287"/>
+		<elementSecond id="w4288"/>
+	</elementSecondIds>
+</triple>
+<triple id="354" profile_id="" relation="done-by">
+	<elementFirstIds comment="invasive">
+		<elementFirst id="w4185"/>
+	</elementFirstIds>
+	<elementSecondIds comment="more than 200 invasive species">
+		<elementSecond id="w4182"/>
+		<elementSecond id="w4183"/>
+		<elementSecond id="w4184"/>
+		<elementSecond id="w4185"/>
+		<elementSecond id="w4186"/>
+	</elementSecondIds>
+</triple>
+<triple id="951" profile_id="" relation="has-state">
+	<elementFirstIds comment="poor">
+		<elementFirst id="w1690"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water quality">
+		<elementSecond id="w1691"/>
+		<elementSecond id="w1692"/>
+	</elementSecondIds>
+</triple>
+<triple id="404" profile_id="" relation="generic-location">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w4461"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the estuary">
+		<elementSecond id="w4463"/>
+		<elementSecond id="w4464"/>
+		<elementSecond id="w4465"/>
+	</elementSecondIds>
+</triple>
+<triple id="404" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w4461"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flowing">
+		<elementSecond id="w4447"/>
+	</elementSecondIds>
+</triple>
+<triple id="396" profile_id="" relation="patient">
+	<elementFirstIds comment="polluted">
+		<elementFirst id="w4436"/>
+	</elementFirstIds>
+	<elementSecondIds comment="polluted runoff">
+		<elementSecond id="w4436"/>
+		<elementSecond id="w4437"/>
+	</elementSecondIds>
+</triple>
+<triple id="929" profile_id="" relation="done-by">
+	<elementFirstIds comment="passage">
+		<elementFirst id="w10964"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="919" profile_id="" relation="destination-of">
+	<elementFirstIds comment="movement">
+		<elementFirst id="w10893"/>
+	</elementFirstIds>
+	<elementSecondIds comment="to spawning grounds">
+		<elementSecond id="w10897"/>
+		<elementSecond id="w10898"/>
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="919" profile_id="" relation="done-by">
+	<elementFirstIds comment="movement">
+		<elementFirst id="w10893"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10895"/>
+		<elementSecond id="w10896"/>
+	</elementSecondIds>
+</triple>
+<triple id="911" profile_id="" relation="destination-of">
+	<elementFirstIds comment="swim">
+		<elementFirst id="w10435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="upstream">
+		<elementSecond id="w10436"/>
+	</elementSecondIds>
+</triple>
+<triple id="911" profile_id="" relation="done-by">
+	<elementFirstIds comment="swim">
+		<elementFirst id="w10435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="430" profile_id="" relation="done-by">
+	<elementFirstIds comment="beneficial">
+		<elementFirst id="w4520"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oxygen">
+		<elementSecond id="w4513"/>
+	</elementSecondIds>
+</triple>
+<triple id="430" profile_id="" relation="has-state">
+	<elementFirstIds comment="beneficial">
+		<elementFirst id="w4520"/>
+	</elementFirstIds>
+	<elementSecondIds comment="aquatic life">
+		<elementSecond id="w4522"/>
+		<elementSecond id="w4523"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="destination-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="upstream">
+		<elementSecond id="w10436"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="done-by">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="418" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="saltiness">
+		<elementFirst id="w4495"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flowing">
+		<elementSecond id="w4488"/>
+	</elementSecondIds>
+</triple>
+<triple id="418" profile_id="" relation="has-state">
+	<elementFirstIds comment="saltiness">
+		<elementFirst id="w4495"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Bay waters">
+		<elementSecond id="w4500"/>
+		<elementSecond id="w4501"/>
+	</elementSecondIds>
+</triple>
+<triple id="1020" profile_id="" relation="destination-of">
+	<elementFirstIds comment="filtering">
+		<elementFirst id="w3891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into the ground">
+		<elementSecond id="w3892"/>
+		<elementSecond id="w3893"/>
+		<elementSecond id="w3894"/>
+	</elementSecondIds>
+</triple>
+<triple id="1020" profile_id="" relation="patient">
+	<elementFirstIds comment="filtering">
+		<elementFirst id="w3891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w3884"/>
+	</elementSecondIds>
+</triple>
+<triple id="1011" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w3830"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w3829"/>
+	</elementSecondIds>
+</triple>
+<triple id="465" profile_id="" relation="patient">
+	<elementFirstIds comment="decline">
+		<elementFirst id="w5048"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the Chesapeake Bay">
+		<elementSecond id="w5050"/>
+		<elementSecond id="w5051"/>
+		<elementSecond id="w5052"/>
+	</elementSecondIds>
+</triple>
+<triple id="465" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="decline">
+		<elementFirst id="w5048"/>
+	</elementFirstIds>
+	<elementSecondIds comment="rise">
+		<elementSecond id="w5058"/>
+	</elementSecondIds>
+</triple>
+<triple id="994" profile_id="" relation="patient">
+	<elementFirstIds comment="reduction efforts">
+		<elementFirst id="w3109"/>
+		<elementFirst id="w3110"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w3108"/>
+	</elementSecondIds>
+</triple>
+<triple id="999" profile_id="" relation="generic-location">
+	<elementFirstIds comment="tremendous decline">
+		<elementFirst id="w3661"/>
+		<elementFirst id="w3662"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in the Bay">
+		<elementSecond id="w3663"/>
+		<elementSecond id="w3664"/>
+		<elementSecond id="w3665"/>
+	</elementSecondIds>
+</triple>
+<triple id="999" profile_id="" relation="result-of">
+	<elementFirstIds comment="tremendous decline">
+		<elementFirst id="w3661"/>
+		<elementFirst id="w3662"/>
+	</elementFirstIds>
+	<elementSecondIds comment="health">
+		<elementSecond id="w3667"/>
+	</elementSecondIds>
+</triple>
+<triple id="986" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w1650"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban">
+		<elementSecond id="w1647"/>
+	</elementSecondIds>
+</triple>
+<triple id="986" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w1650"/>
+	</elementFirstIds>
+	<elementSecondIds comment="suburban">
+		<elementSecond id="w1649"/>
+	</elementSecondIds>
+</triple>
+<triple id="511" profile_id="" relation="done-by">
+	<elementFirstIds comment="picking up">
+		<elementFirst id="w5190"/>
+		<elementFirst id="w5191"/>
+	</elementFirstIds>
+	<elementSecondIds comment="rainfall">
+		<elementSecond id="w5186"/>
+	</elementSecondIds>
+</triple>
+<triple id="511" profile_id="" relation="patient">
+	<elementFirstIds comment="picking up">
+		<elementFirst id="w5190"/>
+		<elementFirst id="w5191"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w5192"/>
+	</elementSecondIds>
+</triple>
+<triple id="991" profile_id="" relation="patient">
+	<elementFirstIds comment="pollution">
+		<elementFirst id="w3094"/>
+	</elementFirstIds>
+	<elementSecondIds comment="air">
+		<elementSecond id="w3093"/>
+	</elementSecondIds>
+</triple>
+<triple id="988" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w3090"/>
+	</elementFirstIds>
+	<elementSecondIds comment="suburban">
+		<elementSecond id="w3089"/>
+	</elementSecondIds>
+</triple>
+<triple id="988" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w3090"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban">
+		<elementSecond id="w3087"/>
+	</elementSecondIds>
+</triple>
+<triple id="978" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w3835"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from urban and suburban lands">
+		<elementSecond id="w3836"/>
+		<elementSecond id="w3837"/>
+		<elementSecond id="w3838"/>
+		<elementSecond id="w3839"/>
+		<elementSecond id="w3840"/>
+	</elementSecondIds>
+</triple>
+<triple id="981" profile_id="" relation="patient">
+	<elementFirstIds comment="polluted">
+		<elementFirst id="w4436"/>
+	</elementFirstIds>
+	<elementSecondIds comment="runoff">
+		<elementSecond id="w4437"/>
+	</elementSecondIds>
+</triple>
+<triple id="969" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w2995"/>
+	</elementFirstIds>
+	<elementSecondIds comment="suburban">
+		<elementSecond id="w2994"/>
+	</elementSecondIds>
+</triple>
+<triple id="489" profile_id="" relation="generic-location">
+	<elementFirstIds comment="living">
+		<elementFirst id="w5124"/>
+	</elementFirstIds>
+	<elementSecondIds comment="in bigger houses on larger lots">
+		<elementSecond id="w5125"/>
+		<elementSecond id="w5126"/>
+		<elementSecond id="w5127"/>
+		<elementSecond id="w5128"/>
+		<elementSecond id="w5129"/>
+		<elementSecond id="w5130"/>
+	</elementSecondIds>
+</triple>
+<triple id="489" profile_id="" relation="done-by">
+	<elementFirstIds comment="living">
+		<elementFirst id="w5124"/>
+	</elementFirstIds>
+	<elementSecondIds comment="People">
+		<elementSecond id="w5117"/>
+	</elementSecondIds>
+</triple>
+<triple id="485" profile_id="" relation="patient">
+	<elementFirstIds comment="sprawling">
+		<elementFirst id="w5121"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into sprawling suburbs">
+		<elementSecond id="w5120"/>
+		<elementSecond id="w5121"/>
+		<elementSecond id="w5122"/>
+	</elementSecondIds>
+</triple>
+<triple id="485" profile_id="" relation="done-by">
+	<elementFirstIds comment="sprawling">
+		<elementFirst id="w5121"/>
+	</elementFirstIds>
+	<elementSecondIds comment="People">
+		<elementSecond id="w5117"/>
+	</elementSecondIds>
+</triple>
+<triple id="960" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w1784"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w1783"/>
+	</elementSecondIds>
+</triple>
+<triple id="481" profile_id="" relation="patient">
+	<elementFirstIds comment="loss">
+		<elementFirst id="w5082"/>
+	</elementFirstIds>
+	<elementSecondIds comment="natural areas">
+		<elementSecond id="w5084"/>
+		<elementSecond id="w5085"/>
+	</elementSecondIds>
+</triple>
+<triple id="481" profile_id="" relation="TIME">
+	<elementFirstIds comment="loss">
+		<elementFirst id="w5082"/>
+	</elementFirstIds>
+	<elementSecondIds comment="through 2030">
+		<elementSecond id="w5075"/>
+		<elementSecond id="w5076"/>
+	</elementSecondIds>
+</triple>
+<triple id="966" profile_id="" relation="done-by">
+	<elementFirstIds comment="growth">
+		<elementFirst id="w2983"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Population">
+		<elementSecond id="w2982"/>
+	</elementSecondIds>
+</triple>
+<triple id="558" profile_id="" relation="patient">
+	<elementFirstIds comment="provide">
+		<elementFirst id="w5341"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w5342"/>
+	</elementSecondIds>
+</triple>
+<triple id="558" profile_id="" relation="purpose-of">
+	<elementFirstIds comment="provide">
+		<elementFirst id="w5341"/>
+	</elementFirstIds>
+	<elementSecondIds comment="for wildlife">
+		<elementSecond id="w5343"/>
+		<elementSecond id="w5344"/>
+	</elementSecondIds>
+</triple>
+<triple id="558" profile_id="" relation="done-by">
+	<elementFirstIds comment="provide">
+		<elementFirst id="w5341"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Forested areas">
+		<elementSecond id="w5333"/>
+		<elementSecond id="w5334"/>
+	</elementSecondIds>
+</triple>
+<triple id="1109" profile_id="" relation="done-by">
+	<elementFirstIds comment="blockages">
+		<elementFirst id="w8557"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dams">
+		<elementSecond id="w8554"/>
+	</elementSecondIds>
+</triple>
+<triple id="518" profile_id="" relation="done-by">
+	<elementFirstIds comment="quickly carrying">
+		<elementFirst id="w5194"/>
+		<elementFirst id="w5195"/>
+	</elementFirstIds>
+	<elementSecondIds comment="rainfall">
+		<elementSecond id="w5186"/>
+	</elementSecondIds>
+</triple>
+<triple id="518" profile_id="" relation="patient">
+	<elementFirstIds comment="quickly carrying">
+		<elementFirst id="w5194"/>
+		<elementFirst id="w5195"/>
+	</elementFirstIds>
+	<elementSecondIds comment="pollution">
+		<elementSecond id="w5192"/>
+	</elementSecondIds>
+</triple>
+<triple id="518" profile_id="" relation="destination-of">
+	<elementFirstIds comment="quickly carrying">
+		<elementFirst id="w5194"/>
+		<elementFirst id="w5195"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into waterways">
+		<elementSecond id="w5197"/>
+		<elementSecond id="w5198"/>
+	</elementSecondIds>
+</triple>
+<triple id="518" profile_id="" relation="patient">
+	<elementFirstIds comment="quickly carrying">
+		<elementFirst id="w5194"/>
+		<elementFirst id="w5195"/>
+	</elementFirstIds>
+	<elementSecondIds comment="it">
+		<elementSecond id="w5196"/>
+	</elementSecondIds>
+</triple>
+<triple id="49" profile_id="" relation="has-state">
+	<elementFirstIds comment="low populations of many species of fish and shellfish">
+		<elementFirst id="w1697"/>
+		<elementFirst id="w1698"/>
+		<elementFirst id="w1699"/>
+		<elementFirst id="w1700"/>
+		<elementFirst id="w1701"/>
+		<elementFirst id="w1702"/>
+		<elementFirst id="w1703"/>
+		<elementFirst id="w1704"/>
+		<elementFirst id="w1705"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The Bay">
+		<elementSecond id="w1685"/>
+		<elementSecond id="w1686"/>
+	</elementSecondIds>
+</triple>
+<triple id="1037" profile_id="" relation="patient">
+	<elementFirstIds comment="change">
+		<elementFirst id="w4086"/>
+	</elementFirstIds>
+	<elementSecondIds comment="climate">
+		<elementSecond id="w4085"/>
+	</elementSecondIds>
+</triple>
+<triple id="1085" profile_id="" relation="done-by">
+	<elementFirstIds comment="retain">
+		<elementFirst id="w5247"/>
+	</elementFirstIds>
+	<elementSecondIds comment="They">
+		<elementSecond id="w5242"/>
+	</elementSecondIds>
+</triple>
+<triple id="1085" profile_id="" relation="patient">
+	<elementFirstIds comment="retain">
+		<elementFirst id="w5247"/>
+	</elementFirstIds>
+	<elementSecondIds comment="water">
+		<elementSecond id="w5248"/>
+	</elementSecondIds>
+</triple>
+<triple id="687" profile_id="" relation="has-state">
+	<elementFirstIds comment="contain the proper amount of algae and be free from chemical contamination">
+		<elementFirst id="w5555"/>
+		<elementFirst id="w5556"/>
+		<elementFirst id="w5557"/>
+		<elementFirst id="w5558"/>
+		<elementFirst id="w5559"/>
+		<elementFirst id="w5560"/>
+		<elementFirst id="w5561"/>
+		<elementFirst id="w5562"/>
+		<elementFirst id="w5563"/>
+		<elementFirst id="w5564"/>
+		<elementFirst id="w5565"/>
+		<elementFirst id="w5566"/>
+	</elementFirstIds>
+	<elementSecondIds comment="The water">
+		<elementSecond id="w5544"/>
+		<elementSecond id="w5545"/>
+	</elementSecondIds>
+</triple>
+<triple id="152" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="blocked">
+		<elementFirst id="w2617"/>
+	</elementFirstIds>
+	<elementSecondIds comment="murky water and algae blooms">
+		<elementSecond id="w2610"/>
+		<elementSecond id="w2611"/>
+		<elementSecond id="w2612"/>
+		<elementSecond id="w2613"/>
+		<elementSecond id="w2614"/>
+	</elementSecondIds>
+</triple>
+<triple id="152" profile_id="" relation="patient">
+	<elementFirstIds comment="blocked">
+		<elementFirst id="w2617"/>
+	</elementFirstIds>
+	<elementSecondIds comment="sunlight">
+		<elementSecond id="w2618"/>
+	</elementSecondIds>
+</triple>
+<triple id="655" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="lowering">
+		<elementFirst id="w5487"/>
+	</elementFirstIds>
+	<elementSecondIds comment="blooms">
+		<elementSecond id="w5484"/>
+	</elementSecondIds>
+</triple>
+<triple id="655" profile_id="" relation="patient">
+	<elementFirstIds comment="lowering">
+		<elementFirst id="w5487"/>
+	</elementFirstIds>
+	<elementSecondIds comment="oxygen levels">
+		<elementSecond id="w5488"/>
+		<elementSecond id="w5489"/>
+	</elementSecondIds>
+</triple>
+<triple id="169" profile_id="" relation="has-state">
+	<elementFirstIds comment="vital">
+		<elementFirst id="w2660"/>
+	</elementFirstIds>
+	<elementSecondIds comment="vital habitats and lower food web">
+		<elementSecond id="w2660"/>
+		<elementSecond id="w2661"/>
+		<elementSecond id="w2662"/>
+		<elementSecond id="w2663"/>
+		<elementSecond id="w2664"/>
+		<elementSecond id="w2665"/>
+	</elementSecondIds>
+</triple>
+<triple id="175" profile_id="" relation="has-state">
+	<elementFirstIds comment="vital">
+		<elementFirst id="w2660"/>
+	</elementFirstIds>
+	<elementSecondIds comment="vital habitats and lower food web">
+		<elementSecond id="w2660"/>
+		<elementSecond id="w2661"/>
+		<elementSecond id="w2662"/>
+		<elementSecond id="w2663"/>
+		<elementSecond id="w2664"/>
+		<elementSecond id="w2665"/>
+	</elementSecondIds>
+</triple>
+<triple id="715" profile_id="" relation="patient">
+	<elementFirstIds comment="clouds">
+		<elementFirst id="w5991"/>
+	</elementFirstIds>
+	<elementSecondIds comment="the water">
+		<elementSecond id="w5992"/>
+		<elementSecond id="w5993"/>
+	</elementSecondIds>
+</triple>
+<triple id="715" profile_id="" relation="instrument">
+	<elementFirstIds comment="clouds">
+		<elementFirst id="w5991"/>
+	</elementFirstIds>
+	<elementSecondIds comment="with particles of dirt">
+		<elementSecond id="w5994"/>
+		<elementSecond id="w5995"/>
+		<elementSecond id="w5996"/>
+		<elementSecond id="w5997"/>
+	</elementSecondIds>
+</triple>
+<triple id="715" profile_id="" relation="simple-cause-of">
+	<elementFirstIds comment="clouds">
+		<elementFirst id="w5991"/>
+	</elementFirstIds>
+	<elementSecondIds comment="flow of pollution">
+		<elementSecond id="w5979"/>
+		<elementSecond id="w5980"/>
+		<elementSecond id="w5981"/>
+	</elementSecondIds>
+</triple>
+<triple id="295" profile_id="" relation="destination-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w3791"/>
+	</elementFirstIds>
+	<elementSecondIds comment="into waterways">
+		<elementSecond id="w3792"/>
+		<elementSecond id="w3793"/>
+	</elementSecondIds>
+</triple>
+<triple id="295" profile_id="" relation="done-by">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w3791"/>
+	</elementFirstIds>
+	<elementSecondIds comment="nutrients and bacteria">
+		<elementSecond id="w3779"/>
+		<elementSecond id="w3780"/>
+		<elementSecond id="w3781"/>
+	</elementSecondIds>
+</triple>
+<triple id="396" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w4437"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from throughout the watershed">
+		<elementSecond id="w4438"/>
+		<elementSecond id="w4439"/>
+		<elementSecond id="w4440"/>
+		<elementSecond id="w4441"/>
+	</elementSecondIds>
+</triple>
+<triple id="929" profile_id="" relation="done-by">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10966"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="928" profile_id="" relation="done-by">
+	<elementFirstIds comment="migratory">
+		<elementFirst id="w10966"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="910" profile_id="" relation="done-by">
+	<elementFirstIds comment="spawn">
+		<elementFirst id="w10438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="done-by">
+	<elementFirstIds comment="spawn">
+		<elementFirst id="w10438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="984" profile_id="" relation="source-of">
+	<elementFirstIds comment="runoff">
+		<elementFirst id="w4437"/>
+	</elementFirstIds>
+	<elementSecondIds comment="from throughout the watershed">
+		<elementSecond id="w4438"/>
+		<elementSecond id="w4439"/>
+		<elementSecond id="w4440"/>
+		<elementSecond id="w4441"/>
+	</elementSecondIds>
+</triple>
+<triple id="963" profile_id="" relation="has-state">
+	<elementFirstIds comment="vital">
+		<elementFirst id="w2660"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitats">
+		<elementSecond id="w2661"/>
+	</elementSecondIds>
+</triple>
+<triple id="480" profile_id="" relation="TIME">
+	<elementFirstIds comment="increases">
+		<elementFirst id="w5087"/>
+	</elementFirstIds>
+	<elementSecondIds comment="through 2030">
+		<elementSecond id="w5075"/>
+		<elementSecond id="w5076"/>
+	</elementSecondIds>
+</triple>
+<triple id="480" profile_id="" relation="result-of">
+	<elementFirstIds comment="increases">
+		<elementFirst id="w5087"/>
+	</elementFirstIds>
+	<elementSecondIds comment="urban development">
+		<elementSecond id="w5089"/>
+		<elementSecond id="w5090"/>
+	</elementSecondIds>
+</triple>
+<triple id="1121" profile_id="" relation="patient">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10442"/>
+	</elementSecondIds>
+</triple>
+<triple id="900" profile_id="" relation="done-by">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+</triples>

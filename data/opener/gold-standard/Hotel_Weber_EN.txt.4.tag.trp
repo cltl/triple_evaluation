@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="34" relation="OPINION">
+	<elementFirstIds comment="DUMMY"/>
+	<elementSecondIds label="opinionHolder" comment="I">
+		<elementSecond id="w_34"/>
+	</elementSecondIds>
+</triple>
+<triple id="34" relation="OPINION">
+	<elementFirstIds comment="DUMMY"/>
+	<elementSecondIds label="strongNegativeExpression" comment="left immediately">
+		<elementSecond id="w_35"/>
+		<elementSecond id="w_36"/>
+	</elementSecondIds>
+</triple>
+<triple id="17" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="not a hotel">
+		<elementFirst id="w_11"/>
+		<elementFirst id="w_12"/>
+		<elementFirst id="w_13"/>
+	</elementFirstIds>
+	<elementSecondIds label="strongNegativeExpression" comment="nasty">
+		<elementSecond id="w_18"/>
+	</elementSecondIds>
+</triple>
+<triple id="17" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="not a hotel">
+		<elementFirst id="w_11"/>
+		<elementFirst id="w_12"/>
+		<elementFirst id="w_13"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="it">
+		<elementSecond id="w_9"/>
+	</elementSecondIds>
+</triple>
+<triple id="17" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="dark">
+		<elementFirst id="w_16"/>
+	</elementFirstIds>
+	<elementSecondIds label="strongNegativeExpression" comment="nasty">
+		<elementSecond id="w_18"/>
+	</elementSecondIds>
+</triple>
+<triple id="17" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="dark">
+		<elementFirst id="w_16"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="it">
+		<elementSecond id="w_9"/>
+	</elementSecondIds>
+</triple>
+<triple id="48" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment=".everything dark">
+		<elementFirst id="w_47"/>
+		<elementFirst id="w_48"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="23" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="sharp">
+		<elementFirst id="w_20"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="steps">
+		<elementSecond id="w_23"/>
+	</elementSecondIds>
+</triple>
+<triple id="6" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="very disappointed">
+		<elementFirst id="w_7"/>
+		<elementFirst id="w_8"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="the place">
+		<elementSecond id="w_4"/>
+		<elementSecond id="w_5"/>
+	</elementSecondIds>
+</triple>
+<triple id="6" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="very disappointed">
+		<elementFirst id="w_7"/>
+		<elementFirst id="w_8"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="I">
+		<elementSecond id="w_1"/>
+	</elementSecondIds>
+</triple>
+<triple id="52" relation="OPINION">
+	<elementFirstIds comment="DUMMY"/>
+	<elementSecondIds label="strongNegativeExpression" comment="depressing place">
+		<elementSecond id="w_49"/>
+		<elementSecond id="w_50"/>
+	</elementSecondIds>
+</triple>
+<triple id="43" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="Not clean">
+		<elementFirst id="w_45"/>
+		<elementFirst id="w_46"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="40" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="Do not go">
+		<elementFirst id="w_38"/>
+		<elementFirst id="w_39"/>
+		<elementFirst id="w_40"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="this place">
+		<elementSecond id="w_42"/>
+		<elementSecond id="w_43"/>
+	</elementSecondIds>
+</triple>
+<triple id="27" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="no AC">
+		<elementFirst id="w_27"/>
+		<elementFirst id="w_28"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="30" relation="OPINION">
+	<elementFirstIds comment="DUMMY"/>
+	<elementSecondIds label="strongNegativeExpression" comment="very hot">
+		<elementSecond id="w_31"/>
+		<elementSecond id="w_32"/>
+	</elementSecondIds>
+</triple>
+<triple id="23" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="comfortable">
+		<elementFirst id="w_22"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="steps">
+		<elementSecond id="w_23"/>
+	</elementSecondIds>
+</triple>
+</triples>

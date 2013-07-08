@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="e92" profile_id="generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-N-Naccomplishment" relation="patient">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e92" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-N-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e92" profile_id="generic_kybot_Vaccomplishment-Naccomplishment" relation="patient">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e92" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10948"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e93" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment" relation="patient">
+	<elementFirstIds comment="allow">
+		<elementFirst id="w10431"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10432"/>
+		<elementSecond id="w10433"/>
+	</elementSecondIds>
+</triple>
+<triple id="e90" profile_id="generic_kybot_Nphysical-object-OR-matter_for_Nphysical-object-OR-matter" relation="purpose-of">
+	<elementFirstIds comment="habitat">
+		<elementFirst id="w10442"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10445"/>
+	</elementSecondIds>
+</triple>
+<triple id="e90" profile_id="generic_kybot_Nphysical-object-OR-matter_for_Nphysical-object-OR-matter" relation="purpose-of">
+	<elementFirstIds comment="habitat">
+		<elementFirst id="w10442"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w10446"/>
+	</elementSecondIds>
+</triple>
+<triple id="e91" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter" relation="generic-location">
+	<elementFirstIds comment="species">
+		<elementFirst id="w10907"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10909"/>
+	</elementSecondIds>
+</triple>
+<triple id="e91" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter" relation="generic-location">
+	<elementFirstIds comment="species">
+		<elementFirst id="w10907"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creek">
+		<elementSecond id="w10911"/>
+	</elementSecondIds>
+</triple>
+<triple id="e91" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter" relation="generic-location">
+	<elementFirstIds comment="species">
+		<elementFirst id="w10907"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10913"/>
+	</elementSecondIds>
+</triple>
+<triple id="e89" profile_id="generic_kybot_Nphysical-object-OR-matter_be_Vaccomplishment_main_clause" relation="patient">
+	<elementFirstIds comment="be">
+		<elementFirst id="w10428"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e88" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vstative_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vstative_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e88" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vstative_Nphysical-object-OR-matter_rel_clause" relation="patient">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stretch">
+		<elementSecond id="w10955"/>
+	</elementSecondIds>
+</triple>
+<triple id="e87" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="ground">
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="e86" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vstative_main_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="barrier">
+		<elementSecond id="w10889"/>
+	</elementSecondIds>
+</triple>
+<triple id="e85" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e85" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object" relation="patient">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10442"/>
+	</elementSecondIds>
+</triple>
+<triple id="e85" profile_id="generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter" relation="purpose-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10445"/>
+	</elementSecondIds>
+</triple>
+<triple id="e85" profile_id="generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter" relation="purpose-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w10446"/>
+	</elementSecondIds>
+</triple>
+<triple id="e85" profile_id="generic_kybot-accomplishment-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="increase">
+		<elementFirst id="w10441"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e84" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="spawn">
+		<elementFirst id="w10438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e84" profile_id="generic_kybot-accomplishment-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="spawn">
+		<elementFirst id="w10438"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e83" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="swim">
+		<elementFirst id="w10435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e83" profile_id="generic_kybot-accomplishment-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="swim">
+		<elementFirst id="w10435"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e80" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause" relation="patient">
+	<elementFirstIds comment="begin">
+		<elementFirst id="w8539"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="e80" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="begin">
+		<elementFirst id="w8539"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migration">
+		<elementSecond id="w8538"/>
+	</elementSecondIds>
+</triple>
+<triple id="e81" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause" relation="patient">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10969"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="e81" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10969"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="e81" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical" relation="generic-location">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10969"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e82" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10432"/>
+		<elementFirst id="w10433"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e82" profile_id="generic_kybot-accomplishment-allow-accomplishment,generic_kybot-accomplishment-toORin_order_to-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10432"/>
+		<elementFirst id="w10433"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e77" profile_id="generic_kybot_N_of_N" relation="part-of">
+	<elementFirstIds comment="habitat">
+		<elementFirst id="w10903"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10906"/>
+	</elementSecondIds>
+</triple>
+<triple id="e77" profile_id="generic_kybot_N_of_N" relation="part-of">
+	<elementFirstIds comment="habitat">
+		<elementFirst id="w10903"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="e78" profile_id="generic_kybot_N_of_N" relation="part-of">
+	<elementFirstIds comment="stretch">
+		<elementFirst id="w10955"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e73" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment" relation="patient">
+	<elementFirstIds comment="drainage">
+		<elementFirst id="w10980"/>
+	</elementFirstIds>
+	<elementSecondIds comment="mine">
+		<elementSecond id="w10979"/>
+	</elementSecondIds>
+</triple>
+<triple id="e72" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment" relation="patient">
+	<elementFirstIds comment="population">
+		<elementFirst id="w10446"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10445"/>
+	</elementSecondIds>
+</triple>
+<triple id="e72" profile_id="generic_kybot_Norganism_Naccomplishment,generic_kybot_Nphysical-object_Naccomplishment" relation="patient">
+	<elementFirstIds comment="population">
+		<elementFirst id="w10446"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w10445"/>
+	</elementSecondIds>
+</triple>
+<triple id="e72" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="population">
+		<elementFirst id="w10446"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e72" profile_id="generic_kybot-accomplishment-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="population">
+		<elementFirst id="w10446"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e75" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause" relation="done-by">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e75" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause" relation="patient">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dam">
+		<elementSecond id="w10960"/>
+	</elementSecondIds>
+</triple>
+<triple id="e75" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dam">
+		<elementSecond id="w10960"/>
+	</elementSecondIds>
+</triple>
+<triple id="e75" profile_id="generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Vaccomplishment-Naccomplishment" relation="patient">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10964"/>
+	</elementSecondIds>
+</triple>
+<triple id="e75" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="enhance">
+		<elementFirst id="w10962"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10964"/>
+	</elementSecondIds>
+</triple>
+<triple id="e74" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause" relation="done-by">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10959"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e74" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause" relation="patient">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10959"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e74" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10959"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e74" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="remove">
+		<elementFirst id="w10959"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dam">
+		<elementSecond id="w10960"/>
+	</elementSecondIds>
+</triple>
+<triple id="e17" profile_id="complex_term" relation="use-of">
+	<elementFirstIds comment="Kyoto#act__deed__human_action__human_activity-eng-3.0-00030358-n">
+		<elementFirst id="w10970"/>
+	</elementFirstIds>
+	<elementSecondIds comment="impediment">
+		<elementSecond id="w10970"/>
+	</elementSecondIds>
+</triple>
+<triple id="e25" profile_id="complex_term" relation="patient">
+	<elementFirstIds comment="stream">
+		<elementFirst id="w10424"/>
+	</elementFirstIds>
+	<elementSecondIds comment="Kyoto#rate-eng-3.0-15286249-n">
+		<elementSecond id="w10424"/>
+	</elementSecondIds>
+</triple>
+<triple id="e94" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment" relation="patient">
+	<elementFirstIds comment="spawn">
+		<elementFirst id="w10898"/>
+	</elementFirstIds>
+	<elementSecondIds comment="ground">
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="e96" profile_id="generic_kybot_motion_fromORoff_Nphysical-object-OR-matter-AND-geographical,generic_kybot_Vaccomplishment_fromOROff_Nphysical-object-OR-matter" relation="source-of">
+	<elementFirstIds comment="flourish">
+		<elementFirst id="w8523"/>
+	</elementFirstIds>
+	<elementSecondIds comment="run">
+		<elementSecond id="w8528"/>
+	</elementSecondIds>
+</triple>
+<triple id="e96" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter" relation="generic-location">
+	<elementFirstIds comment="flourish">
+		<elementFirst id="w8523"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter" relation="patient">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10909"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter" relation="patient">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creek">
+		<elementSecond id="w10911"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter" relation="patient">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10913"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_inOR_Ngeographical" relation="generic-location">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10909"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_inOR_Ngeographical" relation="generic-location">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creek">
+		<elementSecond id="w10911"/>
+	</elementSecondIds>
+</triple>
+<triple id="e99" profile_id="generic_kybot_motion_inOR_Ngeographical" relation="generic-location">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10895"/>
+		<elementFirst id="w10896"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10913"/>
+	</elementSecondIds>
+</triple>
+<triple id="e98" profile_id="generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical" relation="generic-location">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="e100" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter" relation="patient">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10966"/>
+		<elementFirst id="w10967"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e100" profile_id="generic_kybot_motion_inOR_Ngeographical" relation="generic-location">
+	<elementFirstIds comment="migratory fish">
+		<elementFirst id="w10966"/>
+		<elementFirst id="w10967"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e48" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="local">
+		<elementFirst id="w8521"/>
+	</elementFirstIds>
+	<elementSecondIds comment="economy">
+		<elementSecond id="w8522"/>
+	</elementSecondIds>
+</triple>
+<triple id="e49" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="annual">
+		<elementFirst id="w8526"/>
+	</elementFirstIds>
+	<elementSecondIds comment="run">
+		<elementSecond id="w8528"/>
+	</elementSecondIds>
+</triple>
+<triple id="e56" profile_id="generic_kybot_Nabstract-region-OR-matter_Vchange_main_clause" relation="patient">
+	<elementFirstIds comment="project">
+		<elementFirst id="w10951"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e56" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="project">
+		<elementFirst id="w10951"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e56" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause" relation="done-by">
+	<elementFirstIds comment="project">
+		<elementFirst id="w10951"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e56" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="project">
+		<elementFirst id="w10951"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e57" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object" relation="participant">
+	<elementFirstIds comment="passage">
+		<elementFirst id="w10949"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e54" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="acid">
+		<elementFirst id="w10978"/>
+	</elementFirstIds>
+	<elementSecondIds comment="drainage">
+		<elementSecond id="w10980"/>
+	</elementSecondIds>
+</triple>
+<triple id="e52" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="local">
+		<elementFirst id="w10905"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="e53" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="large">
+		<elementFirst id="w10954"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stretch">
+		<elementSecond id="w10955"/>
+	</elementSecondIds>
+</triple>
+<triple id="e50" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="local">
+		<elementFirst id="w10444"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w10446"/>
+	</elementSecondIds>
+</triple>
+<triple id="e51" profile_id="generic_kybot_G_Nphysical_object_OR_matter" relation="has-state">
+	<elementFirstIds comment="other">
+		<elementFirst id="w10888"/>
+	</elementFirstIds>
+	<elementSecondIds comment="barrier">
+		<elementSecond id="w10889"/>
+	</elementSecondIds>
+</triple>
+<triple id="e58" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object" relation="participant">
+	<elementFirstIds comment="mine">
+		<elementFirst id="w10979"/>
+	</elementFirstIds>
+	<elementSecondIds comment="drainage">
+		<elementSecond id="w10980"/>
+	</elementSecondIds>
+</triple>
+<triple id="e59" profile_id="generic_kybot_Naccomplishment_Nobject_physical,generic_kybot_Naccomplishment_Nphysical-plurality" relation="participant">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10906"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="e59" profile_id="generic_kybot_Naccomplishment_Norganism" relation="patient">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10906"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="e60" profile_id="generic_kybot_Naccomplishment_Nphysical-plurality" relation="participant">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10445"/>
+	</elementFirstIds>
+	<elementSecondIds comment="population">
+		<elementSecond id="w10446"/>
+	</elementSecondIds>
+</triple>
+<triple id="e60" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10445"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10426"/>
+	</elementSecondIds>
+</triple>
+<triple id="e60" profile_id="generic_kybot-accomplishment-allow-accomplishment" relation="simple-cause-of">
+	<elementFirstIds comment="fish">
+		<elementFirst id="w10445"/>
+	</elementFirstIds>
+	<elementSecondIds comment="reopen">
+		<elementSecond id="w10429"/>
+	</elementSecondIds>
+</triple>
+<triple id="e65" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment" relation="patient">
+	<elementFirstIds comment="movement">
+		<elementFirst id="w10893"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10895"/>
+		<elementSecond id="w10896"/>
+	</elementSecondIds>
+</triple>
+<triple id="e65" profile_id="generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object" relation="patient">
+	<elementFirstIds comment="movement">
+		<elementFirst id="w10893"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10895"/>
+		<elementSecond id="w10896"/>
+	</elementSecondIds>
+</triple>
+<triple id="e66" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment" relation="patient">
+	<elementFirstIds comment="passage">
+		<elementFirst id="w10964"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="e66" profile_id="generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object" relation="patient">
+	<elementFirstIds comment="passage">
+		<elementFirst id="w10964"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migratory fish">
+		<elementSecond id="w10966"/>
+		<elementSecond id="w10967"/>
+	</elementSecondIds>
+</triple>
+<triple id="e67" profile_id="generic_kybot_Naccomplishment_of_Nnon-agentive-physical-object,generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object" relation="patient">
+	<elementFirstIds comment="stretch">
+		<elementFirst id="w10955"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10957"/>
+	</elementSecondIds>
+</triple>
+<triple id="e68" profile_id="generic_kybot_Naccomplishment_of_Norganism" relation="patient">
+	<elementFirstIds comment="ground">
+		<elementFirst id="w10899"/>
+	</elementFirstIds>
+	<elementSecondIds comment="species">
+		<elementSecond id="w10907"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause" relation="simple-cause-of">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause" relation="done-by">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause" relation="done-by">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="restoration">
+		<elementSecond id="w10950"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Vaccomplishment-A-Nphysical-object-OR-matter,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stretch">
+		<elementSecond id="w10955"/>
+	</elementSecondIds>
+</triple>
+<triple id="e61" profile_id="generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-A-Naccomplishment" relation="patient">
+	<elementFirstIds comment="open">
+		<elementFirst id="w10953"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stretch">
+		<elementSecond id="w10955"/>
+	</elementSecondIds>
+</triple>
+<triple id="e62" profile_id="generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause" relation="simple-cause-of">
+	<elementFirstIds comment="be">
+		<elementFirst id="w10974"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e62" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause" relation="done-by">
+	<elementFirstIds comment="be">
+		<elementFirst id="w10974"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e63" profile_id="generic_kybot_Naccomplishment_comp_be_Vaccomplishment_rel_clause" relation="result-of">
+	<elementFirstIds comment="impair">
+		<elementFirst id="w10976"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e63" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause" relation="patient">
+	<elementFirstIds comment="impair">
+		<elementFirst id="w10976"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10972"/>
+	</elementSecondIds>
+</triple>
+<triple id="e63" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment_by_Nphysical-object-OR-matter" relation="done-by">
+	<elementFirstIds comment="impair">
+		<elementFirst id="w10976"/>
+	</elementFirstIds>
+	<elementSecondIds comment="mine">
+		<elementSecond id="w10979"/>
+	</elementSecondIds>
+</triple>
+<triple id="e63" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment_by_Nphysical-object-OR-matter" relation="done-by">
+	<elementFirstIds comment="impair">
+		<elementFirst id="w10976"/>
+	</elementFirstIds>
+	<elementSecondIds comment="drainage">
+		<elementSecond id="w10980"/>
+	</elementSecondIds>
+</triple>
+<triple id="e64" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment" relation="patient">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="spring">
+		<elementSecond id="w8531"/>
+	</elementSecondIds>
+</triple>
+<triple id="e64" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment" relation="patient">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="e64" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment" relation="patient">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="migration">
+		<elementSecond id="w8538"/>
+	</elementSecondIds>
+</triple>
+<triple id="e64" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter,generic_kybot_Naccomplishment_in_Nlocation" relation="generic-location">
+	<elementFirstIds comment="run">
+		<elementFirst id="w8528"/>
+	</elementFirstIds>
+	<elementSecondIds comment="fish">
+		<elementSecond id="w8535"/>
+	</elementSecondIds>
+</triple>
+<triple id="e69" profile_id="generic_kybot_Nbiological-object_Naccomplishment" relation="participant">
+	<elementFirstIds comment="restoration">
+		<elementFirst id="w10950"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e69" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment" relation="patient">
+	<elementFirstIds comment="restoration">
+		<elementFirst id="w10950"/>
+	</elementFirstIds>
+	<elementSecondIds comment="passage">
+		<elementSecond id="w10949"/>
+	</elementSecondIds>
+</triple>
+<triple id="e71" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="culvert">
+		<elementSecond id="w10886"/>
+	</elementSecondIds>
+</triple>
+<triple id="e71" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause" relation="patient">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dam">
+		<elementSecond id="w10884"/>
+	</elementSecondIds>
+</triple>
+<triple id="e71" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="dam">
+		<elementSecond id="w10884"/>
+	</elementSecondIds>
+</triple>
+<triple id="e71" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_Nphysical-object-OR-matter_main_clause,generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_main_clause" relation="done-by">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="barrier">
+		<elementSecond id="w10889"/>
+	</elementSecondIds>
+</triple>
+<triple id="e71" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_Nphysical-object-OR-matter_main_clause,generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter" relation="patient">
+	<elementFirstIds comment="block">
+		<elementFirst id="w10891"/>
+	</elementFirstIds>
+	<elementSecondIds comment="movement">
+		<elementSecond id="w10893"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Nmatter_Vaccomplishment_main_clause-done-by" relation="done-by">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="ground">
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause" relation="simple-cause-of">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="ground">
+		<elementSecond id="w10899"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object" relation="patient">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="habitat">
+		<elementSecond id="w10903"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical" relation="generic-location">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="stream">
+		<elementSecond id="w10909"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical" relation="generic-location">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="creek">
+		<elementSecond id="w10911"/>
+	</elementSecondIds>
+</triple>
+<triple id="e70" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical" relation="generic-location">
+	<elementFirstIds comment="reduce">
+		<elementFirst id="w10901"/>
+	</elementFirstIds>
+	<elementSecondIds comment="river">
+		<elementSecond id="w10913"/>
+	</elementSecondIds>
+</triple>
+</triples>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<triples>
+<triple id="54" relation="negative#-1#####">
+	<elementFirstIds label="negativeExpression" comment="a bit loud at night">
+		<elementFirst id="w_87"/>
+		<elementFirst id="w_88"/>
+		<elementFirst id="w_89"/>
+		<elementFirst id="w_90"/>
+		<elementFirst id="w_91"/>
+	</elementFirstIds>
+	<elementSecondIds label="DUMMY"/>
+</triple>
+<triple id="50" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="one of the hippest in town">
+		<elementFirst id="w_75"/>
+		<elementFirst id="w_76"/>
+		<elementFirst id="w_77"/>
+		<elementFirst id="w_78"/>
+		<elementFirst id="w_80"/>
+		<elementFirst id="w_81"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="bars">
+		<elementSecond id="w_79"/>
+	</elementSecondIds>
+</triple>
+<triple id="50" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="right downstairs">
+		<elementFirst id="w_82"/>
+		<elementFirst id="w_83"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="bars">
+		<elementSecond id="w_79"/>
+	</elementSecondIds>
+</triple>
+<triple id="16" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="free">
+		<elementFirst id="w_53"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="wireless">
+		<elementSecond id="w_54"/>
+	</elementSecondIds>
+</triple>
+<triple id="38" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="(very big , high">
+		<elementFirst id="w_63"/>
+		<elementFirst id="w_64"/>
+		<elementFirst id="w_65"/>
+		<elementFirst id="w_66"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="-ceilings">
+		<elementSecond id="w_67"/>
+	</elementSecondIds>
+</triple>
+<triple id="43" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="hard wood">
+		<elementFirst id="w_69"/>
+		<elementFirst id="w_70"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="floors">
+		<elementSecond id="w_71"/>
+	</elementSecondIds>
+</triple>
+<triple id="61" relation="positive#1#####">
+	<elementFirstIds label="positiveExpression" comment="very accommodating to early arrivals">
+		<elementFirst id="w_106"/>
+		<elementFirst id="w_107"/>
+		<elementFirst id="w_108"/>
+		<elementFirst id="w_109"/>
+		<elementFirst id="w_110"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="The staff">
+		<elementSecond id="w_102"/>
+		<elementSecond id="w_103"/>
+	</elementSecondIds>
+</triple>
+<triple id="8" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="by far the best hotel">
+		<elementFirst id="w_12"/>
+		<elementFirst id="w_13"/>
+		<elementFirst id="w_14"/>
+		<elementFirst id="w_15"/>
+		<elementFirst id="w_16"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="this">
+		<elementSecond id="w_10"/>
+	</elementSecondIds>
+</triple>
+<triple id="8" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="by far the best hotel">
+		<elementFirst id="w_12"/>
+		<elementFirst id="w_13"/>
+		<elementFirst id="w_14"/>
+		<elementFirst id="w_15"/>
+		<elementFirst id="w_16"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionHolder" comment="I">
+		<elementSecond id="w_17"/>
+	</elementSecondIds>
+</triple>
+<triple id="24" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="very comfortable">
+		<elementFirst id="w_56"/>
+		<elementFirst id="w_57"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="beds">
+		<elementSecond id="w_58"/>
+	</elementSecondIds>
+</triple>
+<triple id="30" relation="positive#2#####">
+	<elementFirstIds label="strongPositiveExpression" comment="really cool">
+		<elementFirst id="w_60"/>
+		<elementFirst id="w_61"/>
+	</elementFirstIds>
+	<elementSecondIds label="opinionTarget" comment="decor">
+		<elementSecond id="w_62"/>
+	</elementSecondIds>
+</triple>
+</triples>

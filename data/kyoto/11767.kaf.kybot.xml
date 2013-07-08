@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kybotOut>
+  <doc shortname="11767.mw.wsd.ne.kaf.reduced-to-migration.kaf.onto">
+    <event eid="e1" lemma="Kyoto#take__get_hold_of-eng-3.0-01214265-v" target="t6954" profile_id="complex_term"/>
+    <role rid="r1" event="e1" lemma="fish" target="t6954" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e2" lemma="Kyoto#change-eng-3.0-00191142-n" target="t6956" profile_id="complex_term"/>
+    <role rid="r2" event="e2" lemma="migration" target="t6956" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e3" lemma="Kyoto#flood__inundation__deluge__alluvion-eng-3.0-11454591-n" target="t8570mw" profile_id="complex_term"/>
+    <role rid="r3" event="e3" lemma="migratory fish" target="t8570mw" rtype="Causality.owl#has-change-situation" profile_id="complex_term"/>
+    <role rid="r4" event="e3" lemma="migratory fish" target="t8570mw" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e4" lemma="Kyoto#live" target="t8579" profile_id="complex_term"/>
+    <role rid="r5" event="e4" lemma="habitat" target="t8579" rtype="DOLCE-Lite.owl#q-location" profile_id="complex_term"/>
+    <event eid="e5" lemma="Kyoto#take__get_hold_of-eng-3.0-01214265-v" target="t8582" profile_id="complex_term"/>
+    <role rid="r6" event="e5" lemma="fish" target="t8582" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e6" lemma="Kyoto#prevent__keep-eng-3.0-02450505-v" target="t8960" profile_id="complex_term"/>
+    <role rid="r7" event="e6" lemma="dam" target="t8960" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <event eid="e7" lemma="Kyoto#flood__inundation__deluge__alluvion-eng-3.0-11454591-n" target="t8971mw" profile_id="complex_term"/>
+    <role rid="r8" event="e7" lemma="migratory fish" target="t8971mw" rtype="Causality.owl#has-change-situation" profile_id="complex_term"/>
+    <role rid="r9" event="e7" lemma="migratory fish" target="t8971mw" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e8" lemma="Kyoto#arrive__get__come-eng-3.0-02005948-v" target="t8974" profile_id="complex_term"/>
+    <role rid="r10" event="e8" lemma="ground" target="t8974" rtype="Kyoto#generic-location" profile_id="complex_term"/>
+    <role rid="r11" event="e8" lemma="ground" target="t8974" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r12" event="e8" lemma="ground" target="t8974" rtype="Kyoto#product-of" profile_id="complex_term"/>
+    <event eid="e9" lemma="Kyoto#live" target="t8978" profile_id="complex_term"/>
+    <role rid="r13" event="e9" lemma="habitat" target="t8978" rtype="DOLCE-Lite.owl#q-location" profile_id="complex_term"/>
+    <event eid="e10" lemma="Kyoto#take__get_hold_of-eng-3.0-01214265-v" target="t8981" profile_id="complex_term"/>
+    <role rid="r14" event="e10" lemma="fish" target="t8981" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e11" lemma="Kyoto#connect" target="t9019" profile_id="complex_term"/>
+    <role rid="r15" event="e11" lemma="passage" target="t9019" rtype="Kyoto#has-path" profile_id="complex_term"/>
+    <event eid="e12" lemma="Kyoto#change__alter__modify-eng-3.0-00126264-v" target="t9020" profile_id="complex_term"/>
+    <role rid="r16" event="e12" lemma="restoration" target="t9020" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e13" lemma="Kyoto#live" target="t9027" profile_id="complex_term"/>
+    <role rid="r17" event="e13" lemma="habitat" target="t9027" rtype="DOLCE-Lite.owl#q-location" profile_id="complex_term"/>
+    <event eid="e14" lemma="Kyoto#prevent__keep-eng-3.0-02450505-v" target="t9029" profile_id="complex_term"/>
+    <role rid="r18" event="e14" lemma="dam" target="t9029" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <event eid="e15" lemma="Kyoto#connect" target="t9032" profile_id="complex_term"/>
+    <role rid="r19" event="e15" lemma="passage" target="t9032" rtype="Kyoto#has-path" profile_id="complex_term"/>
+    <event eid="e16" lemma="Kyoto#flood__inundation__deluge__alluvion-eng-3.0-11454591-n" target="t9035mw" profile_id="complex_term"/>
+    <role rid="r20" event="e16" lemma="migratory fish" target="t9035mw" rtype="Causality.owl#has-change-situation" profile_id="complex_term"/>
+    <role rid="r21" event="e16" lemma="migratory fish" target="t9035mw" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e17" lemma="Kyoto#act__deed__human_action__human_activity-eng-3.0-00030358-n" target="t9038" profile_id="complex_term"/>
+    <role rid="r22" event="e17" lemma="impediment" target="t9038" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <event eid="e18" lemma="Kyoto#change__alter__modify-eng-3.0-00126264-v" target="t9047" profile_id="complex_term"/>
+    <role rid="r23" event="e18" lemma="mine" target="t9047" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e19" lemma="Kyoto#have__have_got__hold-eng-3.0-02203362-v" target="t9653" profile_id="complex_term"/>
+    <role rid="r24" event="e19" lemma="stock" target="t9653" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <role rid="r25" event="e19" lemma="stock" target="t9653" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <event eid="e20" lemma="flourish" target="t6943" profile_id="complex_term"/>
+    <role rid="r26" event="e20" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t6943" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e21" lemma="run" target="t6948" profile_id="complex_term"/>
+    <role rid="r27" event="e21" lemma="Kyoto#animal__animate_being__beast__brute__creature__fauna-eng-3.0-00015388-n" target="t6948" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r28" event="e21" lemma="Kyoto#athlete__jock-eng-3.0-09820263-n" target="t6948" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r29" event="e21" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t6948" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r30" event="e21" lemma="Kyoto#people-eng-3.0-07942152-n" target="t6948" rtype="Kyoto#generic-location" profile_id="complex_term"/>
+    <role rid="r31" event="e21" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t6948" rtype="Kyoto#generic-location" profile_id="complex_term"/>
+    <event eid="e22" lemma="fish" target="t6954" profile_id="complex_term"/>
+    <role rid="r32" event="e22" lemma="Kyoto#estuary-eng-3.0-09274500-n" target="t6954" rtype="ExtendedDnS.owl#has-in-scope" profile_id="complex_term"/>
+    <event eid="e23" lemma="migration" target="t6956" profile_id="complex_term"/>
+    <role rid="r33" event="e23" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t6956" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e24" lemma="begin" target="t6957" profile_id="complex_term"/>
+    <role rid="r34" event="e24" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t6957" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e25" lemma="stream" target="t8561" profile_id="complex_term"/>
+    <role rid="r35" event="e25" lemma="Kyoto#rate-eng-3.0-15286249-n" target="t8561" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e26" lemma="allow" target="t8568" profile_id="complex_term"/>
+    <role rid="r36" event="e26" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8568" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r37" event="e26" lemma="Kyoto#assets-eng-3.0-13329641-n" target="t8568" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e27" lemma="swim" target="t8572" profile_id="complex_term"/>
+    <role rid="r38" event="e27" lemma="Kyoto#artifact__artefact-eng-3.0-00021939-n" target="t8572" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r39" event="e27" lemma="Kyoto#athlete__jock-eng-3.0-09820263-n" target="t8572" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r40" event="e27" lemma="Kyoto#object__physical_object-eng-3.0-00002684-n" target="t8572" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r41" event="e27" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8572" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <event eid="e28" lemma="spawn" target="t8575" profile_id="complex_term"/>
+    <role rid="r42" event="e28" lemma="Kyoto#fish-eng-3.0-02512053-n" target="t8575" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e29" lemma="fish" target="t8582" profile_id="complex_term"/>
+    <role rid="r43" event="e29" lemma="Kyoto#estuary-eng-3.0-09274500-n" target="t8582" rtype="ExtendedDnS.owl#has-in-scope" profile_id="complex_term"/>
+    <event eid="e30" lemma="block" target="t8966" profile_id="complex_term"/>
+    <role rid="r44" event="e30" lemma="Kyoto#device-eng-3.0-03183080-n" target="t8966" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <role rid="r45" event="e30" lemma="Kyoto#structure__construction-eng-3.0-04341686-n" target="t8966" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r46" event="e30" lemma="Kyoto#device-eng-3.0-03183080-n" target="t8966" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r47" event="e30" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8966" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <role rid="r48" event="e30" lemma="Kyoto#athlete__jock-eng-3.0-09820263-n" target="t8966" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r49" event="e30" lemma="Kyoto#attribute-eng-3.0-00024264-n" target="t8966" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <event eid="e31" lemma="movement" target="t8968" profile_id="complex_term"/>
+    <role rid="r50" event="e31" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8968" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r51" event="e31" lemma="Kyoto#organization__organisation-eng-3.0-08008335-n" target="t8968" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r52" event="e31" lemma="Kyoto#activity-eng-3.0-00407535-n" target="t8968" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <role rid="r53" event="e31" lemma="Kyoto#appoint__charge-eng-3.0-02475922-v" target="t8968" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e32" lemma="spawn" target="t8973" profile_id="complex_term"/>
+    <role rid="r54" event="e32" lemma="Kyoto#fish-eng-3.0-02512053-n" target="t8973" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e33" lemma="reduce" target="t8976" profile_id="complex_term"/>
+    <role rid="r55" event="e33" lemma="Kyoto#object__physical_object-eng-3.0-00002684-n" target="t8976" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r56" event="e33" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8976" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <role rid="r57" event="e33" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t8976" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r58" event="e33" lemma="Kyoto#entity-eng-3.0-00001740-n" target="t8976" rtype="Kyoto#product-of" profile_id="complex_term"/>
+    <role rid="r59" event="e33" lemma="Kyoto#substance-eng-3.0-00020090-n" target="t8976" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r60" event="e33" lemma="Kyoto#foodstuff__food_product-eng-3.0-07566340-n" target="t8976" rtype="Kyoto#product-of" profile_id="complex_term"/>
+    <role rid="r61" event="e33" lemma="Kyoto#mineral-eng-3.0-14662574-n" target="t8976" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r62" event="e33" lemma="Kyoto#substance-eng-3.0-00020090-n" target="t8976" rtype="Kyoto#product-of" profile_id="complex_term"/>
+    <event eid="e34" lemma="fish" target="t8981" profile_id="complex_term"/>
+    <role rid="r63" event="e34" lemma="Kyoto#estuary-eng-3.0-09274500-n" target="t8981" rtype="ExtendedDnS.owl#has-in-scope" profile_id="complex_term"/>
+    <event eid="e35" lemma="stream" target="t8984" profile_id="complex_term"/>
+    <role rid="r64" event="e35" lemma="Kyoto#rate-eng-3.0-15286249-n" target="t8984" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e36" lemma="fish" target="t9018" profile_id="complex_term"/>
+    <role rid="r65" event="e36" lemma="Kyoto#fish-eng-3.0-02512053-n" target="t9018" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r66" event="e36" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9018" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e37" lemma="project" target="t9021" profile_id="complex_term"/>
+    <role rid="r67" event="e37" lemma="Kyoto#athlete__jock-eng-3.0-09820263-n" target="t9021" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r68" event="e37" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9021" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r69" event="e37" lemma="Kyoto#idea__thought-eng-3.0-05833840-n" target="t9021" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <role rid="r70" event="e37" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9021" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <role rid="r71" event="e37" lemma="Kyoto#device-eng-3.0-03183080-n" target="t9021" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e38" lemma="open" target="t9023" profile_id="complex_term"/>
+    <role rid="r72" event="e38" lemma="Kyoto#hand_tool-eng-3.0-03489162-n" target="t9023" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r73" event="e38" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9023" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <role rid="r74" event="e38" lemma="Kyoto#appear-eng-3.0-00422090-v" target="t9023" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e39" lemma="remove" target="t9028" profile_id="complex_term"/>
+    <role rid="r75" event="e39" lemma="Kyoto#entity-eng-3.0-00001740-n" target="t9028" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r76" event="e39" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9028" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r77" event="e39" lemma="Kyoto#criminal__felon__crook__outlaw__malefactor-eng-3.0-09977660-n" target="t9028" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e40" lemma="enhance" target="t9030" profile_id="complex_term"/>
+    <role rid="r78" event="e40" lemma="Kyoto#idea__thought-eng-3.0-05833840-n" target="t9030" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e41" lemma="remove" target="t9037" profile_id="complex_term"/>
+    <role rid="r79" event="e41" lemma="Kyoto#entity-eng-3.0-00001740-n" target="t9037" rtype="Kyoto#use-of" profile_id="complex_term"/>
+    <role rid="r80" event="e41" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9037" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <role rid="r81" event="e41" lemma="Kyoto#criminal__felon__crook__outlaw__malefactor-eng-3.0-09977660-n" target="t9037" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e42" lemma="stream" target="t9040" profile_id="complex_term"/>
+    <role rid="r82" event="e42" lemma="Kyoto#rate-eng-3.0-15286249-n" target="t9040" rtype="Kyoto#patient" profile_id="complex_term"/>
+    <event eid="e43" lemma="drainage" target="t9048" profile_id="complex_term"/>
+    <role rid="r83" event="e43" lemma="Kyoto#tube__tubing-eng-3.0-04493505-n" target="t9048" rtype="Kyoto#instrument" profile_id="complex_term"/>
+    <event eid="e44" lemma="migrate" target="t9643" profile_id="complex_term"/>
+    <role rid="r84" event="e44" lemma="Kyoto#animal__animate_being__beast__brute__creature__fauna-eng-3.0-00015388-n" target="t9643" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e45" lemma="part" target="t9649" profile_id="complex_term"/>
+    <role rid="r85" event="e45" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9649" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e46" lemma="coast" target="t9657" profile_id="complex_term"/>
+    <role rid="r86" event="e46" lemma="Kyoto#person__individual__someone__somebody__mortal__soul-eng-3.0-00007846-n" target="t9657" rtype="Kyoto#done-by" profile_id="complex_term"/>
+    <event eid="e47" lemma="Kyoto#small" target="t8985" profile_id="complex_term"/>
+    <role rid="r87" event="e47" lemma="creek" target="t8985" rtype="has-state" profile_id="complex_term"/>
+    <event eid="e48" target="t6941" lemma="local" pos="G" synset="eng-30-02756346-a" rank="0.344218" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r88" event="e48" target="t6942" lemma="economy" pos="N" rtype="has-state" synset="eng-30-05644727-n" rank="0.248682" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e49" target="t6946" lemma="annual" pos="G" synset="eng-30-00678024-a" rank="0.51996" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r89" event="e49" target="t6948" lemma="run" pos="N" rtype="has-state" synset="eng-30-07460104-n" rank="0.0683908" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e50" target="t8581" lemma="local" pos="G" synset="eng-30-02756346-a" rank="0.343989" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r90" event="e50" target="t8583" lemma="population" pos="N" rtype="has-state" synset="eng-30-06026276-n" rank="0.249648" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e51" target="t8963" lemma="other" pos="G" synset="eng-30-02069355-a" rank="0.292303" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r91" event="e51" target="t8964" lemma="barrier" pos="N" rtype="has-state" synset="eng-30-09214581-n" rank="0.330766" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e52" target="t8980" lemma="local" pos="G" synset="eng-30-02756346-a" rank="0.343795" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r92" event="e52" target="t8982" lemma="species" pos="N" rtype="has-state" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e53" target="t9024" lemma="large" pos="G" synset="eng-30-01382086-a" rank="0.316081" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r93" event="e53" target="t9025" lemma="stretch" pos="N" rtype="has-state" synset="eng-30-04336645-n" rank="0.144096" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e54" target="t9046" lemma="acid" pos="G" synset="eng-30-01802165-a" rank="0.369331" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r94" event="e54" target="t9048" lemma="drainage" pos="N" rtype="has-state" synset="eng-30-00396029-n" rank="1.0" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e55" target="t9652" lemma="large" pos="G" synset="eng-30-01382086-a" rank="0.344094" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <role rid="r95" event="e55" target="t9653" lemma="stock" pos="N" rtype="has-state" synset="eng-30-01887474-n" rank="0.0654483" profile_id="generic_kybot_G_Nphysical_object_OR_matter"/>
+    <event eid="e56" target="t9021" lemma="project" pos="V" synset="eng-30-02713372-v" rank="0.0904772" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause,generic_kybot_Nnon-agentive_Vaccomplishment_main_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause,generic_kybot_Nabstract-region-OR-matter_Vchange_main_clause"/>
+    <role rid="r96" event="e56" target="t9020" lemma="restoration" pos="N" rtype="patient" synset="eng-30-15261868-n" rank="0.137655" profile_id="generic_kybot_Nabstract-region-OR-matter_Vchange_main_clause"/>
+    <role rid="r119" event="e56" target="t9020" lemma="restoration" pos="N" rtype="simple-cause-of" synset="eng-30-04083468-n" rank="0.136549" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause"/>
+    <role rid="r124" event="e56" target="t9019" lemma="passage" pos="N" rtype="done-by" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause"/>
+    <role rid="r152" event="e56" target="t9020" lemma="restoration" pos="N" rtype="simple-cause-of" synset="eng-30-14424517-n" rank="0.139554" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <event eid="e57" target="t9019" lemma="passage" pos="N" synset="eng-30-00201058-n" rank="0.101492" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object"/>
+    <role rid="r97" event="e57" target="t9020" lemma="restoration" pos="N" rtype="participant" synset="eng-30-04083468-n" rank="0.136549" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object"/>
+    <event eid="e58" target="t9047" lemma="mine" pos="N" synset="eng-30-03768346-n" rank="0.520707" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object"/>
+    <role rid="r98" event="e58" target="t9048" lemma="drainage" pos="N" rtype="participant" synset="eng-30-00396029-n" rank="1.0" profile_id="generic_kybot_Naccomplishment_Nnon-agentive-physical-object"/>
+    <event eid="e59" target="t8981" lemma="fish" pos="N" synset="eng-30-02512053-n" rank="0.367651" profile_id="generic_kybot_Naccomplishment_Nobject_physical,generic_kybot_Naccomplishment_Norganism,generic_kybot_Naccomplishment_Nphysical-plurality"/>
+    <role rid="r99" event="e59" target="t8982" lemma="species" pos="N" rtype="participant" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_Naccomplishment_Nobject_physical,generic_kybot_Naccomplishment_Nphysical-plurality"/>
+    <role rid="r100" event="e59" target="t8982" lemma="species" pos="N" rtype="patient" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_Naccomplishment_Norganism"/>
+    <event eid="e60" target="t8582" lemma="fish" pos="N" synset="eng-30-02512053-n" rank="0.366708" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot-accomplishment-allow-accomplishment,generic_kybot_Naccomplishment_Nphysical-plurality"/>
+    <role rid="r101" event="e60" target="t8583" lemma="population" pos="N" rtype="participant" synset="eng-30-06026276-n" rank="0.249648" profile_id="generic_kybot_Naccomplishment_Nphysical-plurality"/>
+    <role rid="r147" event="e60" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r196" event="e60" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment"/>
+    <event eid="e61" target="t9023" lemma="open" pos="V" synset="eng-30-00539936-v" rank="0.101076" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nnon-agentive_Vaccomplishment_main_clause,generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause,generic_kybot_Vaccomplishment-A-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause,generic_kybot_Vaccomplishment-A-Naccomplishment,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r102" event="e61" target="t9020" lemma="restoration" pos="N" rtype="simple-cause-of" synset="eng-30-00268557-n" rank="0.175324" profile_id="generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause"/>
+    <role rid="r120" event="e61" target="t9020" lemma="restoration" pos="N" rtype="simple-cause-of" synset="eng-30-04083468-n" rank="0.136549" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause"/>
+    <role rid="r125" event="e61" target="t9019" lemma="passage" pos="N" rtype="done-by" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause"/>
+    <role rid="r157" event="e61" target="t9020" lemma="restoration" pos="N" rtype="done-by" synset="eng-30-14424517-n" rank="0.139554" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause"/>
+    <role rid="r158" event="e61" target="t9025" lemma="stretch" pos="N" rtype="patient" synset="eng-30-04336645-n" rank="0.144096" profile_id="generic_kybot_Vaccomplishment-A-Nphysical-object-OR-matter,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter"/>
+    <role rid="r169" event="e61" target="t9025" lemma="stretch" pos="N" rtype="patient" synset="eng-30-00341243-n" rank="0.151373" profile_id="generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-A-Naccomplishment"/>
+    <event eid="e62" target="t9042" lemma="be" pos="V" synset="eng-30-02697725-v" rank="0.0701262" profile_id="generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause"/>
+    <role rid="r103" event="e62" target="t9040" lemma="stream" pos="N" rtype="simple-cause-of" synset="eng-30-07406765-n" rank="0.202444" profile_id="generic_kybot_Naccomplishment_comp_Vaccomplishment_rel_clause"/>
+    <role rid="r162" event="e62" target="t9040" lemma="stream" pos="N" rtype="done-by" synset="eng-30-09448361-n" rank="0.245367" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vaccomplishment_rel_clause"/>
+    <event eid="e63" target="t9044" lemma="impair" pos="V" synset="eng-30-00477941-v" rank="0.505954" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment_by_Nphysical-object-OR-matter,generic_kybot_Naccomplishment_comp_be_Vaccomplishment_rel_clause"/>
+    <role rid="r104" event="e63" target="t9040" lemma="stream" pos="N" rtype="result-of" synset="eng-30-07406765-n" rank="0.202444" profile_id="generic_kybot_Naccomplishment_comp_be_Vaccomplishment_rel_clause"/>
+    <role rid="r159" event="e63" target="t9040" lemma="stream" pos="N" rtype="patient" synset="eng-30-09448361-n" rank="0.245367" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause"/>
+    <role rid="r160" event="e63" target="t9047" lemma="mine" pos="N" rtype="done-by" synset="eng-30-03768346-n" rank="0.520707" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment_by_Nphysical-object-OR-matter"/>
+    <role rid="r161" event="e63" target="t9048" lemma="drainage" pos="N" rtype="done-by" synset="eng-30-00396029-n" rank="1.0" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_be_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_be_adverb_Vaccomplishment_by_Nphysical-object-OR-matter_rel_clause,generic_kybot_Vaccomplishment_by_Nphysical-object-OR-matter"/>
+    <event eid="e64" target="t6948" lemma="run" pos="N" synset="eng-30-07460104-n" rank="0.0683908" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment,generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter,generic_kybot_Naccomplishment_in_Nlocation"/>
+    <role rid="r105" event="e64" target="t6951" lemma="spring" pos="N" rtype="patient" rprep="in" synset="eng-30-00120202-n" rank="0.169746" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment"/>
+    <role rid="r106" event="e64" target="t6954" lemma="fish" pos="N" rtype="patient" rprep="in" synset="eng-30-02512053-n" rank="0.225933" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment"/>
+    <role rid="r107" event="e64" target="t6956" lemma="migration" pos="N" rtype="patient" rprep="in" synset="eng-30-01123095-n" rank="0.259593" profile_id="generic_kybot_Naccomplishment_in_Naccomplishment"/>
+    <role rid="r108" event="e64" target="t6954" lemma="fish" pos="N" rtype="generic-location" rprep="in" synset="dw-eng-30-294-n" rank="0.222448" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter,generic_kybot_Naccomplishment_in_Nlocation"/>
+    <event eid="e65" target="t8968" lemma="movement" pos="N" synset="eng-30-07309781-n" rank="0.119059" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment,generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <role rid="r109" event="e65" target="t8971mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-300-n" rank="0.550047" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment"/>
+    <role rid="r112" event="e65" target="t8971mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-343-n" rank="0.449953" profile_id="generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <event eid="e66" target="t9032" lemma="passage" pos="N" synset="eng-30-00201058-n" rank="0.101492" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment,generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <role rid="r110" event="e66" target="t9035mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-300-n" rank="0.549894" profile_id="generic_kybot_Naccomplishment_of_Naccomplishment"/>
+    <role rid="r113" event="e66" target="t9035mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-343-n" rank="0.450106" profile_id="generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <event eid="e67" target="t9025" lemma="stretch" pos="N" synset="eng-30-00341243-n" rank="0.151373" profile_id="generic_kybot_Naccomplishment_of_Nnon-agentive-physical-object,generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <role rid="r111" event="e67" target="t9027" lemma="habitat" pos="N" rtype="patient" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Naccomplishment_of_Nnon-agentive-physical-object,generic_kybot_Naccomplishment_of_Norganism,generic_kybot_Naccomplishment_of_Nphysical-object"/>
+    <event eid="e68" target="t8974" lemma="ground" pos="N" synset="eng-30-09334396-n" rank="0.108777" profile_id="generic_kybot_Naccomplishment_of_Norganism"/>
+    <role rid="r114" event="e68" target="t8982" lemma="species" pos="N" rtype="patient" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_Naccomplishment_of_Norganism"/>
+    <event eid="e69" target="t9020" lemma="restoration" pos="N" synset="eng-30-00268557-n" rank="0.175324" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment,generic_kybot_Nbiological-object_Naccomplishment"/>
+    <role rid="r115" event="e69" target="t9019" lemma="passage" pos="N" rtype="participant" synset="eng-30-05248181-n" rank="0.0988049" profile_id="generic_kybot_Nbiological-object_Naccomplishment"/>
+    <role rid="r122" event="e69" target="t9019" lemma="passage" pos="N" rtype="patient" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment"/>
+    <event eid="e70" target="t8976" lemma="reduce" pos="V" synset="eng-30-00241038-v" rank="0.0622751" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_Nmatter_Vaccomplishment_main_clause-done-by,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Nnon-agentive_Vaccomplishment_main_clause,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object"/>
+    <role rid="r116" event="e70" target="t8974" lemma="ground" pos="N" rtype="done-by" synset="eng-30-09335240-n" rank="0.100852" profile_id="generic_kybot_Nmatter_Vaccomplishment_main_clause-done-by"/>
+    <role rid="r118" event="e70" target="t8974" lemma="ground" pos="N" rtype="simple-cause-of" synset="eng-30-03360845-n" rank="0.0872533" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause"/>
+    <role rid="r178" event="e70" target="t8978" lemma="habitat" pos="N" rtype="patient" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object"/>
+    <role rid="r187" event="e70" target="t8984" lemma="stream" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09448361-n" rank="0.293013" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <role rid="r188" event="e70" target="t8985" lemma="creek" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09229409-n" rank="0.534941" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <role rid="r189" event="e70" target="t8987" lemma="river" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <event eid="e71" target="t8966" lemma="block" pos="V" synset="eng-30-02559752-v" rank="0.062486" profile_id="generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Nnon-agentive_Vaccomplishment_main_clause,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter,generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_Nphysical-object-OR-matter_main_clause,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_main_clause,generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r117" event="e71" target="t8961" lemma="culvert" pos="N" rtype="simple-cause-of" synset="eng-30-03147280-n" rank="1.0" profile_id="generic_kybot_Nnon-agentive_Vaccomplishment_main_clause"/>
+    <role rid="r135" event="e71" target="t8960" lemma="dam" pos="N" rtype="patient" synset="eng-30-01323493-n" rank="0.308816" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r139" event="e71" target="t8960" lemma="dam" pos="N" rtype="simple-cause-of" synset="eng-30-01323493-n" rank="0.308816" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause"/>
+    <role rid="r154" event="e71" target="t8964" lemma="barrier" pos="N" rtype="done-by" synset="eng-30-09214581-n" rank="0.330766" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_Nphysical-object-OR-matter_main_clause,generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_main_clause"/>
+    <role rid="r155" event="e71" target="t8968" lemma="movement" pos="N" rtype="patient" synset="eng-30-07309781-n" rank="0.119059" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vaccomplishment_Nphysical-object-OR-matter_main_clause,generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter"/>
+    <event eid="e72" target="t8583" lemma="population" pos="N" synset="eng-30-01257969-n" rank="0.186274" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot_Norganism_Naccomplishment,generic_kybot-accomplishment-allow-accomplishment,generic_kybot_Nphysical-object_Naccomplishment,generic_kybot_Nnon-agentive-physical-object_Naccomplishment"/>
+    <role rid="r121" event="e72" target="t8582" lemma="fish" pos="N" rtype="patient" synset="dw-eng-30-294-n" rank="0.293012" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment"/>
+    <role rid="r129" event="e72" target="t8582" lemma="fish" pos="N" rtype="patient" synset="eng-30-02512053-n" rank="0.366708" profile_id="generic_kybot_Norganism_Naccomplishment,generic_kybot_Nphysical-object_Naccomplishment"/>
+    <role rid="r148" event="e72" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r197" event="e72" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment"/>
+    <event eid="e73" target="t9048" lemma="drainage" pos="N" synset="eng-30-00396029-n" rank="1.0" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment"/>
+    <role rid="r123" event="e73" target="t9047" lemma="mine" pos="N" rtype="patient" synset="eng-30-03768346-n" rank="0.520707" profile_id="generic_kybot_Nnon-agentive-physical-object_Naccomplishment"/>
+    <event eid="e74" target="t9028" lemma="remove" pos="V" synset="eng-30-00173338-v" rank="0.147826" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r126" event="e74" target="t9027" lemma="habitat" pos="N" rtype="done-by" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause"/>
+    <role rid="r136" event="e74" target="t9027" lemma="habitat" pos="N" rtype="patient" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r140" event="e74" target="t9027" lemma="habitat" pos="N" rtype="simple-cause-of" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause"/>
+    <role rid="r180" event="e74" target="t9029" lemma="dam" pos="N" rtype="patient" synset="eng-30-01323493-n" rank="0.312756" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter"/>
+    <event eid="e75" target="t9030" lemma="enhance" pos="V" synset="eng-30-00229605-v" rank="0.502338" profile_id="generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause,generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter,generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r127" event="e75" target="t9027" lemma="habitat" pos="N" rtype="done-by" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Nnon-agentive-physical-object_Vaccomplishment_main_clause"/>
+    <role rid="r137" event="e75" target="t9029" lemma="dam" pos="N" rtype="patient" synset="eng-30-01323493-n" rank="0.312756" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r141" event="e75" target="t9029" lemma="dam" pos="N" rtype="simple-cause-of" synset="eng-30-01323493-n" rank="0.312756" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause"/>
+    <role rid="r175" event="e75" target="t9032" lemma="passage" pos="N" rtype="patient" synset="eng-30-00201058-n" rank="0.101492" profile_id="generic_kybot_Vaccomplishment-DET-Naccomplishment,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r181" event="e75" target="t9032" lemma="passage" pos="N" rtype="patient" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-DET-Nphysical-object-OR-matter"/>
+    <event eid="e76" target="t9653" lemma="stock" pos="N" synset="eng-30-01887474-n" rank="0.0654483" profile_id="generic_kybot_NpartORquantity_of_Nphysical-object"/>
+    <role rid="r128" event="e76" target="t9649" lemma="part" pos="N" rtype="part-of" synset="eng-30-08630039-n" rank="0.133504" profile_id="generic_kybot_NpartORquantity_of_Nphysical-object"/>
+    <event eid="e77" target="t8978" lemma="habitat" pos="N" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_N_of_N"/>
+    <role rid="r130" event="e77" target="t8981" lemma="fish" pos="N" rtype="part-of" synset="eng-30-02512053-n" rank="0.367651" profile_id="generic_kybot_N_of_N"/>
+    <role rid="r131" event="e77" target="t8982" lemma="species" pos="N" rtype="part-of" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_N_of_N"/>
+    <event eid="e78" target="t9025" lemma="stretch" pos="N" synset="eng-30-04336645-n" rank="0.144096" profile_id="generic_kybot_N_of_N"/>
+    <role rid="r132" event="e78" target="t9027" lemma="habitat" pos="N" rtype="part-of" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_N_of_N"/>
+    <event eid="e79" target="t9649" lemma="part" pos="N" synset="eng-30-03892891-n" rank="0.0820403" profile_id="generic_kybot_N_of_N"/>
+    <role rid="r133" event="e79" target="t9653" lemma="stock" pos="N" rtype="part-of" synset="eng-30-01887474-n" rank="0.0654483" profile_id="generic_kybot_N_of_N"/>
+    <event eid="e80" target="t6957" lemma="begin" pos="V" synset="eng-30-02608347-v" rank="0.128382" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r134" event="e80" target="t6954" lemma="fish" pos="N" rtype="patient" synset="eng-30-02512053-n" rank="0.225933" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r149" event="e80" target="t6956" lemma="migration" pos="N" rtype="simple-cause-of" synset="eng-30-01123095-n" rank="0.259593" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <event eid="e81" target="t9037" lemma="remove" pos="V" synset="eng-30-00173338-v" rank="0.147826" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical,generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause,generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r138" event="e81" target="t9035mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-343-n" rank="0.450106" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_patient_main_clause"/>
+    <role rid="r142" event="e81" target="t9035mw" lemma="migratory fish" pos="N" rtype="simple-cause-of" synset="dw-eng-30-343-n" rank="0.450106" profile_id="generic_kybot_Norganism-OR-matter_Vaccomplishment_simple-cause-of_main_clause"/>
+    <role rid="r190" event="e81" target="t9040" lemma="stream" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09448361-n" rank="0.245367" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <event eid="e82" target="t8570mw" lemma="migratory fish" pos="N" synset="dw-eng-30-300-n" rank="0.55021" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot-accomplishment-allow-accomplishment,generic_kybot-accomplishment-toORin_order_to-allow-accomplishment"/>
+    <role rid="r143" event="e82" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r192" event="e82" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment,generic_kybot-accomplishment-toORin_order_to-allow-accomplishment"/>
+    <event eid="e83" target="t8572" lemma="swim" pos="V" synset="eng-30-01960911-v" rank="0.236198" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot-accomplishment-allow-accomplishment"/>
+    <role rid="r144" event="e83" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r193" event="e83" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment"/>
+    <event eid="e84" target="t8575" lemma="spawn" pos="V" synset="eng-30-00056683-v" rank="0.537635" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot-accomplishment-allow-accomplishment"/>
+    <role rid="r145" event="e84" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r194" event="e84" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment"/>
+    <event eid="e85" target="t8578" lemma="increase" pos="V" synset="eng-30-00153263-v" rank="0.510965" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot-accomplishment-contribute-to-accomplishment,generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object,generic_kybot-accomplishment-allow-accomplishment"/>
+    <role rid="r146" event="e85" target="t8563" lemma="river" pos="N" rtype="simple-cause-of" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot-accomplishment-contribute-to-accomplishment"/>
+    <role rid="r177" event="e85" target="t8579" lemma="habitat" pos="N" rtype="patient" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_decreaseORincreaseOR-in-Nphysical-object"/>
+    <role rid="r183" event="e85" target="t8582" lemma="fish" pos="N" rtype="purpose-of" rprep="for" synset="eng-30-02512053-n" rank="0.366708" profile_id="generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter"/>
+    <role rid="r184" event="e85" target="t8583" lemma="population" pos="N" rtype="purpose-of" rprep="for" synset="eng-30-06026276-n" rank="0.249648" profile_id="generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter"/>
+    <role rid="r195" event="e85" target="t8566" lemma="reopen" pos="V" rtype="simple-cause-of" synset="eng-30-01346693-v" rank="1.0" profile_id="generic_kybot-accomplishment-allow-accomplishment"/>
+    <event eid="e86" target="t8966" lemma="block" pos="V" synset="eng-30-00269423-v" rank="0.0553954" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vstative_main_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <role rid="r150" event="e86" target="t8964" lemma="barrier" pos="N" rtype="simple-cause-of" synset="eng-30-09214581-n" rank="0.330766" profile_id="generic_kybot_Nphysical-object-OR-matter_adverb_Vstative_main_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <event eid="e87" target="t8976" lemma="reduce" pos="V" synset="eng-30-02424128-v" rank="0.05092" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <role rid="r151" event="e87" target="t8974" lemma="ground" pos="N" rtype="simple-cause-of" synset="eng-30-09334396-n" rank="0.108777" profile_id="generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <event eid="e88" target="t9023" lemma="open" pos="V" synset="eng-30-02744651-v" rank="0.0907556" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vstative_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vstative_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <role rid="r153" event="e88" target="t9020" lemma="restoration" pos="N" rtype="simple-cause-of" synset="eng-30-14424517-n" rank="0.139554" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vstative_rel_clause,generic_kybot_Nphysical-object-OR-matter_comp_Vstative_Nphysical-object-OR-matter_rel_clause,generic_kybot_Nphysical-object-OR-matter_Vstative_main_clause"/>
+    <role rid="r163" event="e88" target="t9025" lemma="stretch" pos="N" rtype="patient" synset="eng-30-04336645-n" rank="0.144096" profile_id="generic_kybot_Nphysical-object-OR-matter_comp_Vstative_Nphysical-object-OR-matter_rel_clause"/>
+    <event eid="e89" target="t8565" lemma="be" pos="V" synset="eng-30-02697725-v" rank="0.0511851" profile_id="generic_kybot_Nphysical-object-OR-matter_be_Vaccomplishment_main_clause"/>
+    <role rid="r156" event="e89" target="t8563" lemma="river" pos="N" rtype="patient" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot_Nphysical-object-OR-matter_be_Vaccomplishment_main_clause"/>
+    <event eid="e90" target="t8579" lemma="habitat" pos="N" synset="eng-30-08580583-n" rank="1.0" profile_id="generic_kybot_Nphysical-object-OR-matter_for_Nphysical-object-OR-matter"/>
+    <role rid="r164" event="e90" target="t8582" lemma="fish" pos="N" rtype="purpose-of" rprep="for" synset="eng-30-02512053-n" rank="0.366708" profile_id="generic_kybot_Nphysical-object-OR-matter_for_Nphysical-object-OR-matter"/>
+    <role rid="r165" event="e90" target="t8583" lemma="population" pos="N" rtype="purpose-of" rprep="for" synset="eng-30-06026276-n" rank="0.249648" profile_id="generic_kybot_Nphysical-object-OR-matter_for_Nphysical-object-OR-matter"/>
+    <event eid="e91" target="t8982" lemma="species" pos="N" synset="eng-30-08110373-n" rank="0.529061" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter"/>
+    <role rid="r166" event="e91" target="t8984" lemma="stream" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09448361-n" rank="0.293013" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter"/>
+    <role rid="r167" event="e91" target="t8985" lemma="creek" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09229409-n" rank="0.534941" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter"/>
+    <role rid="r168" event="e91" target="t8987" lemma="river" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot_Nphysical-object-OR-matter_inOR_Nphysical-object-OR-matter"/>
+    <event eid="e92" target="t9018" lemma="fish" pos="V" synset="eng-30-01140794-v" rank="0.534691" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-N-Naccomplishment,generic_kybot_Vaccomplishment-N-Nphysical-object-OR-matter"/>
+    <role rid="r170" event="e92" target="t9020" lemma="restoration" pos="N" rtype="patient" synset="eng-30-00268557-n" rank="0.175324" profile_id="generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-N-Naccomplishment"/>
+    <role rid="r171" event="e92" target="t9020" lemma="restoration" pos="N" rtype="patient" synset="eng-30-14424517-n" rank="0.139554" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-N-Nphysical-object-OR-matter"/>
+    <role rid="r174" event="e92" target="t9019" lemma="passage" pos="N" rtype="patient" synset="eng-30-00201058-n" rank="0.101492" profile_id="generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r179" event="e92" target="t9019" lemma="passage" pos="N" rtype="patient" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter"/>
+    <event eid="e93" target="t8568" lemma="allow" pos="V" synset="eng-30-02721438-v" rank="0.113166" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r172" event="e93" target="t8570mw" lemma="migratory fish" pos="N" rtype="patient" synset="dw-eng-30-300-n" rank="0.55021" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <event eid="e94" target="t8973" lemma="spawn" pos="V" synset="eng-30-00056683-v" rank="0.532754" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r173" event="e94" target="t8974" lemma="ground" pos="N" rtype="patient" synset="eng-30-09334396-n" rank="0.108777" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <event eid="e95" target="t9648" lemma="be" pos="V" synset="eng-30-02697725-v" rank="0.0709414" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r176" event="e95" target="t9649" lemma="part" pos="N" rtype="patient" synset="eng-30-05929008-n" rank="0.0910061" profile_id="generic_kybot_Vaccomplishment-Naccomplishment"/>
+    <role rid="r182" event="e95" target="t9649" lemma="part" pos="N" rtype="patient" synset="eng-30-00787465-n" rank="0.0879451" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter"/>
+    <event eid="e96" target="t6943" lemma="flourish" pos="V" synset="eng-30-01446901-v" rank="0.34532" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter,generic_kybot_motion_fromORoff_Nphysical-object-OR-matter-AND-geographical,generic_kybot_Vaccomplishment_fromOROff_Nphysical-object-OR-matter"/>
+    <role rid="r185" event="e96" target="t6948" lemma="run" pos="N" rtype="source-of" rprep="from" synset="eng-30-07460104-n" rank="0.0683908" profile_id="generic_kybot_motion_fromORoff_Nphysical-object-OR-matter-AND-geographical,generic_kybot_Vaccomplishment_fromOROff_Nphysical-object-OR-matter"/>
+    <role rid="r186" event="e96" target="t6954" lemma="fish" pos="N" rtype="generic-location" rprep="in" synset="eng-30-02512053-n" rank="0.225933" profile_id="generic_kybot_Vaccomplishment_inOR_Nphysical-object-OR-matter"/>
+    <event eid="e97" target="t9643" lemma="migrate" pos="V" synset="eng-30-01857093-v" rank="0.504819" profile_id="generic_kybot_Vaccomplishment_toOR_Nphysical-object-OR-matter"/>
+    <role rid="r191" event="e97" target="t9646mw" lemma="chesapeake bay" pos="N" rtype="destination-of" rprep="into" synset="eng-30-09243405-n" rank="1.0" profile_id="generic_kybot_Vaccomplishment_toOR_Nphysical-object-OR-matter"/>
+    <event eid="e98" target="t6948" lemma="run" pos="N" synset="eng-30-08460585-n" rank="0.0756557" profile_id="generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <role rid="r198" event="e98" target="t6954" lemma="fish" pos="N" rtype="generic-location" rprep="in" synset="dw-eng-30-294-n" rank="0.222448" profile_id="generic_kybot_change_inOR_Nphysical-object-OR-matter-AND-geographical"/>
+    <event eid="e99" target="t8971mw" lemma="migratory fish" pos="N" synset="dw-eng-30-300-n" rank="0.550047" profile_id="generic_kybot_motion_inOR_Ngeographical,generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r199" event="e99" target="t8984" lemma="stream" pos="N" rtype="patient" rprep="in" synset="eng-30-09448361-n" rank="0.293013" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r200" event="e99" target="t8985" lemma="creek" pos="N" rtype="patient" rprep="in" synset="eng-30-09229409-n" rank="0.534941" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r201" event="e99" target="t8987" lemma="river" pos="N" rtype="patient" rprep="in" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r203" event="e99" target="t8984" lemma="stream" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09448361-n" rank="0.293013" profile_id="generic_kybot_motion_inOR_Ngeographical"/>
+    <role rid="r204" event="e99" target="t8985" lemma="creek" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09229409-n" rank="0.534941" profile_id="generic_kybot_motion_inOR_Ngeographical"/>
+    <role rid="r205" event="e99" target="t8987" lemma="river" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09411430-n" rank="1.0" profile_id="generic_kybot_motion_inOR_Ngeographical"/>
+    <event eid="e100" target="t9035mw" lemma="migratory fish" pos="N" synset="dw-eng-30-300-n" rank="0.549894" profile_id="generic_kybot_motion_inOR_Ngeographical,generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r202" event="e100" target="t9040" lemma="stream" pos="N" rtype="patient" rprep="in" synset="eng-30-09448361-n" rank="0.245367" profile_id="generic_kybot_motion_in_Nphysical_object-OR-matter"/>
+    <role rid="r206" event="e100" target="t9040" lemma="stream" pos="N" rtype="generic-location" rprep="in" synset="eng-30-09448361-n" rank="0.245367" profile_id="generic_kybot_motion_inOR_Ngeographical"/>
+  </doc>
+</kybotOut>

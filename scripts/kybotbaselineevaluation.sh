@@ -1,0 +1,2 @@
+# evaluate the system triples against gold-standard triples, optionally restrict the range of tokens and optionally skip time and location triples related to events.
+java -Xmx812m -cp ../lib/TripleEvaluation-1.0-jar-with-dependencies.jar vu.tripleevaluation.evaluation.EvaluateTriples --gold-standard-triples ../data/11767.tag.trp --system-triples ../data/11767.kaf.chunk-baseline.trp --token-range ../data/11767.tag.trp.first-element-token-scope --skip-time-and-location

@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="en">
+  <linguisticProcessors layer="text">
+    <lp timestamp="2013-03-04T14:53:50CET" version="2.0.1" name="SentenceTokenizer"/>
+  </linguisticProcessors>
+  <linguisticProcessors layer="terms">
+    <lp timestamp="2013-03-04T14:53:50CET" version="2.0.1" name="SentenceTokenizer"/>
+    <lp timestamp="2013-03-04T14:53:50CET" version="1.0" name="SimplePolarityTagger-en"/>
+  </linguisticProcessors>
+  <linguisticProcessor layer="entities">
+    <lp timestamp="2013-03-04T14:53:51CET" version="1.0" name="Lite NER_lookup"/>
+  </linguisticProcessor>
+  <linguisticProcessor layer="properties">
+    <lp timestamp="2013-03-04T14:53:51CET" version="1.0" name="Lite PropRecognizer_lookup"/>
+  </linguisticProcessor>
+  <linguisticProcessor layer="opinions">
+    <lp timestamp="2013-03-04T14:53:51CET" version="1.0" name="SimpleOpinionDetector"/>
+  </linguisticProcessor>
+  <text>
+    <wf wid="w_1" para="1" sent="1">No</wf>
+    <wf wid="w_2" para="1" sent="1">Aircondition</wf>
+    <wf wid="w_3" para="1" sent="1">and</wf>
+    <wf wid="w_4" para="1" sent="1">it</wf>
+    <wf wid="w_5" para="1" sent="1">was</wf>
+    <wf wid="w_6" para="1" sent="1">damn</wf>
+    <wf wid="w_7" para="1" sent="1">hot</wf>
+    <wf wid="w_8" para="1" sent="1">under</wf>
+    <wf wid="w_9" para="1" sent="1">the</wf>
+    <wf wid="w_10" para="1" sent="1">roof</wf>
+    <wf wid="w_11" para="1" sent="1">!The</wf>
+    <wf wid="w_12" para="1" sent="1">person</wf>
+    <wf wid="w_13" para="1" sent="1">in</wf>
+    <wf wid="w_14" para="1" sent="1">change</wf>
+    <wf wid="w_15" para="1" sent="1">were</wf>
+    <wf wid="w_16" para="1" sent="1">very</wf>
+    <wf wid="w_17" para="1" sent="1">friendly</wf>
+    <wf wid="w_18" para="1" sent="1">!The</wf>
+    <wf wid="w_19" para="1" sent="1">rooms</wf>
+    <wf wid="w_20" para="1" sent="1">were</wf>
+    <wf wid="w_21" para="1" sent="1">a</wf>
+    <wf wid="w_22" para="1" sent="1">little</wf>
+    <wf wid="w_23" para="1" sent="1">too</wf>
+    <wf wid="w_24" para="1" sent="1">dirty</wf>
+    <wf wid="w_25" para="1" sent="1">:</wf>
+    <wf wid="w_26" para="1" sent="1">hair</wf>
+    <wf wid="w_27" para="1" sent="1">in</wf>
+    <wf wid="w_28" para="1" sent="1">the</wf>
+    <wf wid="w_29" para="1" sent="1">towels</wf>
+    <wf wid="w_30" para="1" sent="1">,</wf>
+    <wf wid="w_31" para="1" sent="1">..</wf>
+    <wf wid="w_32" para="1" sent="2">.The</wf>
+    <wf wid="w_33" para="1" sent="2">bathrooms</wf>
+    <wf wid="w_34" para="1" sent="2">were</wf>
+    <wf wid="w_35" para="1" sent="2">very</wf>
+    <wf wid="w_36" para="1" sent="2">old</wf>
+    <wf wid="w_37" para="1" sent="2">standard</wf>
+    <wf wid="w_38" para="1" sent="2">,</wf>
+    <wf wid="w_39" para="1" sent="2">trouble</wf>
+    <wf wid="w_40" para="1" sent="2">with</wf>
+    <wf wid="w_41" para="1" sent="2">the</wf>
+    <wf wid="w_42" para="1" sent="2">water</wf>
+    <wf wid="w_43" para="1" sent="2">in</wf>
+    <wf wid="w_44" para="1" sent="2">the</wf>
+    <wf wid="w_45" para="1" sent="2">"shower</wf>
+    <wf wid="w_46" para="1" sent="2">"</wf>
+    <wf wid="w_47" para="1" sent="3">.No</wf>
+    <wf wid="w_48" para="1" sent="3">possibility</wf>
+    <wf wid="w_49" para="1" sent="3">to</wf>
+    <wf wid="w_50" para="1" sent="3">close</wf>
+    <wf wid="w_51" para="1" sent="3">the</wf>
+    <wf wid="w_52" para="1" sent="3">shower</wf>
+    <wf wid="w_53" para="1" sent="3">cabin</wf>
+    <wf wid="w_54" para="1" sent="3">,</wf>
+    <wf wid="w_55" para="1" sent="3">so</wf>
+    <wf wid="w_56" para="1" sent="3">the</wf>
+    <wf wid="w_57" para="1" sent="3">bathroom</wf>
+    <wf wid="w_58" para="1" sent="3">got</wf>
+    <wf wid="w_59" para="1" sent="3">very</wf>
+    <wf wid="w_60" para="1" sent="3">wet</wf>
+    <wf wid="w_61" para="1" sent="3">!No</wf>
+    <wf wid="w_62" para="1" sent="3">parking</wf>
+    <wf wid="w_63" para="1" sent="3">lot</wf>
+    <wf wid="w_64" para="1" sent="3">!</wf>
+    <wf wid="w_65" para="1" sent="4">You</wf>
+    <wf wid="w_66" para="1" sent="4">have</wf>
+    <wf wid="w_67" para="1" sent="4">to</wf>
+    <wf wid="w_68" para="1" sent="4">look</wf>
+    <wf wid="w_69" para="1" sent="4">for</wf>
+    <wf wid="w_70" para="1" sent="4">a</wf>
+    <wf wid="w_71" para="1" sent="4">parking</wf>
+    <wf wid="w_72" para="1" sent="4">space</wf>
+    <wf wid="w_73" para="1" sent="4">at</wf>
+    <wf wid="w_74" para="1" sent="4">the</wf>
+    <wf wid="w_75" para="1" sent="4">grachts</wf>
+    <wf wid="w_76" para="1" sent="4">!The</wf>
+    <wf wid="w_77" para="1" sent="4">TV</wf>
+    <wf wid="w_78" para="1" sent="4">doesn</wf>
+    <wf wid="w_79" para="1" sent="4">'t</wf>
+    <wf wid="w_80" para="1" sent="4">work</wf>
+    <wf wid="w_81" para="1" sent="4">very</wf>
+    <wf wid="w_82" para="1" sent="4">well</wf>
+    <wf wid="w_83" para="1" sent="4">and</wf>
+    <wf wid="w_84" para="1" sent="4">there</wf>
+    <wf wid="w_85" para="1" sent="4">was</wf>
+    <wf wid="w_86" para="1" sent="4">no</wf>
+    <wf wid="w_87" para="1" sent="4">remote</wf>
+    <wf wid="w_88" para="1" sent="4">control</wf>
+    <wf wid="w_89" para="1" sent="4">for</wf>
+    <wf wid="w_90" para="1" sent="4">it</wf>
+    <wf wid="w_91" para="1" sent="4">!Free</wf>
+    <wf wid="w_92" para="1" sent="4">Wi</wf>
+    <wf wid="w_93" para="1" sent="4">-Fi</wf>
+    <wf wid="w_94" para="1" sent="4">is</wf>
+    <wf wid="w_95" para="1" sent="4">offered</wf>
+    <wf wid="w_96" para="1" sent="4">and</wf>
+    <wf wid="w_97" para="1" sent="4">available</wf>
+    <wf wid="w_98" para="1" sent="4">in</wf>
+    <wf wid="w_99" para="1" sent="4">the</wf>
+    <wf wid="w_100" para="1" sent="4">rooms</wf>
+    <wf wid="w_101" para="1" sent="4">!Anyway</wf>
+    <wf wid="w_102" para="1" sent="4">if</wf>
+    <wf wid="w_103" para="1" sent="4">you</wf>
+    <wf wid="w_104" para="1" sent="4">look</wf>
+    <wf wid="w_105" para="1" sent="4">for</wf>
+    <wf wid="w_106" para="1" sent="4">a</wf>
+    <wf wid="w_107" para="1" sent="4">hotel</wf>
+    <wf wid="w_108" para="1" sent="4">with</wf>
+    <wf wid="w_109" para="1" sent="4">a</wf>
+    <wf wid="w_110" para="1" sent="4">good</wf>
+    <wf wid="w_111" para="1" sent="4">location</wf>
+    <wf wid="w_112" para="1" sent="4">close</wf>
+    <wf wid="w_113" para="1" sent="4">to</wf>
+    <wf wid="w_114" para="1" sent="4">the</wf>
+    <wf wid="w_115" para="1" sent="4">center</wf>
+    <wf wid="w_116" para="1" sent="4">of</wf>
+    <wf wid="w_117" para="1" sent="4">Amsterdam</wf>
+    <wf wid="w_118" para="1" sent="4">,</wf>
+    <wf wid="w_119" para="1" sent="4">just</wf>
+    <wf wid="w_120" para="1" sent="4">for</wf>
+    <wf wid="w_121" para="1" sent="4">sleeping</wf>
+    <wf wid="w_122" para="1" sent="4">,</wf>
+    <wf wid="w_123" para="1" sent="4">it</wf>
+    <wf wid="w_124" para="1" sent="4">is</wf>
+    <wf wid="w_125" para="1" sent="4">ok</wf>
+    <wf wid="w_126" para="1" sent="4">!</wf>
+  </text>
+  <terms>
+    <term tid="t_1" lemma="no" type="open">
+      <span>
+        <target id="w_1"/>
+      </span>
+      <sentiment sentiment_modifier="shifter" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_2" lemma="aircondition" type="open">
+      <span>
+        <target id="w_2"/>
+      </span>
+    </term>
+    <term tid="t_3" lemma="and" type="open">
+      <span>
+        <target id="w_3"/>
+      </span>
+    </term>
+    <term tid="t_4" lemma="it" type="open">
+      <span>
+        <target id="w_4"/>
+      </span>
+    </term>
+    <term tid="t_5" lemma="was" type="open">
+      <span>
+        <target id="w_5"/>
+      </span>
+    </term>
+    <term tid="t_6" lemma="damn" type="open" pos="N">
+      <span>
+        <target id="w_6"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_7" lemma="hot" type="open" pos="G">
+      <span>
+        <target id="w_7"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_8" lemma="under" type="open">
+      <span>
+        <target id="w_8"/>
+      </span>
+    </term>
+    <term tid="t_9" lemma="the" type="open">
+      <span>
+        <target id="w_9"/>
+      </span>
+    </term>
+    <term tid="t_10" lemma="roof" type="open">
+      <span>
+        <target id="w_10"/>
+      </span>
+    </term>
+    <term tid="t_11" lemma="!the" type="open">
+      <span>
+        <target id="w_11"/>
+      </span>
+    </term>
+    <term tid="t_12" lemma="person" type="open">
+      <span>
+        <target id="w_12"/>
+      </span>
+    </term>
+    <term tid="t_13" lemma="in" type="open">
+      <span>
+        <target id="w_13"/>
+      </span>
+    </term>
+    <term tid="t_14" lemma="change" type="open" pos="N">
+      <span>
+        <target id="w_14"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_15" lemma="were" type="open">
+      <span>
+        <target id="w_15"/>
+      </span>
+    </term>
+    <term tid="t_16" lemma="very" type="open">
+      <span>
+        <target id="w_16"/>
+      </span>
+      <sentiment sentiment_modifier="intensifier" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_17" lemma="friendly" type="open" pos="N">
+      <span>
+        <target id="w_17"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_18" lemma="!the" type="open">
+      <span>
+        <target id="w_18"/>
+      </span>
+    </term>
+    <term tid="t_19" lemma="rooms" type="open">
+      <span>
+        <target id="w_19"/>
+      </span>
+    </term>
+    <term tid="t_20" lemma="were" type="open">
+      <span>
+        <target id="w_20"/>
+      </span>
+    </term>
+    <term tid="t_21" lemma="a" type="open">
+      <span>
+        <target id="w_21"/>
+      </span>
+    </term>
+    <term tid="t_22" lemma="little" type="open" pos="N">
+      <span>
+        <target id="w_22"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_23" lemma="too" type="open" pos="N">
+      <span>
+        <target id="w_23"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_24" lemma="dirty" type="open" pos="N">
+      <span>
+        <target id="w_24"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_25" lemma=":" type="open">
+      <span>
+        <target id="w_25"/>
+      </span>
+    </term>
+    <term tid="t_26" lemma="hair" type="open">
+      <span>
+        <target id="w_26"/>
+      </span>
+    </term>
+    <term tid="t_27" lemma="in" type="open">
+      <span>
+        <target id="w_27"/>
+      </span>
+    </term>
+    <term tid="t_28" lemma="the" type="open">
+      <span>
+        <target id="w_28"/>
+      </span>
+    </term>
+    <term tid="t_29" lemma="towels" type="open">
+      <span>
+        <target id="w_29"/>
+      </span>
+    </term>
+    <term tid="t_30" lemma="," type="open">
+      <span>
+        <target id="w_30"/>
+      </span>
+    </term>
+    <term tid="t_31" lemma=".." type="open">
+      <span>
+        <target id="w_31"/>
+      </span>
+    </term>
+    <term tid="t_32" lemma=".the" type="open">
+      <span>
+        <target id="w_32"/>
+      </span>
+    </term>
+    <term tid="t_33" lemma="bathrooms" type="open">
+      <span>
+        <target id="w_33"/>
+      </span>
+    </term>
+    <term tid="t_34" lemma="were" type="open">
+      <span>
+        <target id="w_34"/>
+      </span>
+    </term>
+    <term tid="t_35" lemma="very" type="open">
+      <span>
+        <target id="w_35"/>
+      </span>
+      <sentiment sentiment_modifier="intensifier" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_36" lemma="old" type="open">
+      <span>
+        <target id="w_36"/>
+      </span>
+    </term>
+    <term tid="t_37" lemma="standard" type="open">
+      <span>
+        <target id="w_37"/>
+      </span>
+    </term>
+    <term tid="t_38" lemma="," type="open">
+      <span>
+        <target id="w_38"/>
+      </span>
+    </term>
+    <term tid="t_39" lemma="trouble" type="open" pos="N">
+      <span>
+        <target id="w_39"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_40" lemma="with" type="open">
+      <span>
+        <target id="w_40"/>
+      </span>
+    </term>
+    <term tid="t_41" lemma="the" type="open">
+      <span>
+        <target id="w_41"/>
+      </span>
+    </term>
+    <term tid="t_42" lemma="water" type="open">
+      <span>
+        <target id="w_42"/>
+      </span>
+    </term>
+    <term tid="t_43" lemma="in" type="open">
+      <span>
+        <target id="w_43"/>
+      </span>
+    </term>
+    <term tid="t_44" lemma="the" type="open">
+      <span>
+        <target id="w_44"/>
+      </span>
+    </term>
+    <term tid="t_45" lemma="&quot;shower" type="open">
+      <span>
+        <target id="w_45"/>
+      </span>
+    </term>
+    <term tid="t_46" lemma="&quot;" type="open">
+      <span>
+        <target id="w_46"/>
+      </span>
+    </term>
+    <term tid="t_47" lemma=".no" type="open">
+      <span>
+        <target id="w_47"/>
+      </span>
+    </term>
+    <term tid="t_48" lemma="possibility" type="open">
+      <span>
+        <target id="w_48"/>
+      </span>
+    </term>
+    <term tid="t_49" lemma="to" type="open">
+      <span>
+        <target id="w_49"/>
+      </span>
+    </term>
+    <term tid="t_50" lemma="close" type="open" pos="N">
+      <span>
+        <target id="w_50"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_51" lemma="the" type="open">
+      <span>
+        <target id="w_51"/>
+      </span>
+    </term>
+    <term tid="t_52" lemma="shower" type="open">
+      <span>
+        <target id="w_52"/>
+      </span>
+    </term>
+    <term tid="t_53" lemma="cabin" type="open">
+      <span>
+        <target id="w_53"/>
+      </span>
+    </term>
+    <term tid="t_54" lemma="," type="open">
+      <span>
+        <target id="w_54"/>
+      </span>
+    </term>
+    <term tid="t_55" lemma="so" type="open">
+      <span>
+        <target id="w_55"/>
+      </span>
+    </term>
+    <term tid="t_56" lemma="the" type="open">
+      <span>
+        <target id="w_56"/>
+      </span>
+    </term>
+    <term tid="t_57" lemma="bathroom" type="open">
+      <span>
+        <target id="w_57"/>
+      </span>
+    </term>
+    <term tid="t_58" lemma="got" type="open">
+      <span>
+        <target id="w_58"/>
+      </span>
+    </term>
+    <term tid="t_59" lemma="very" type="open">
+      <span>
+        <target id="w_59"/>
+      </span>
+      <sentiment sentiment_modifier="intensifier" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_60" lemma="wet" type="open">
+      <span>
+        <target id="w_60"/>
+      </span>
+    </term>
+    <term tid="t_61" lemma="!no" type="open">
+      <span>
+        <target id="w_61"/>
+      </span>
+    </term>
+    <term tid="t_62" lemma="parking" type="open">
+      <span>
+        <target id="w_62"/>
+      </span>
+    </term>
+    <term tid="t_63" lemma="lot" type="open">
+      <span>
+        <target id="w_63"/>
+      </span>
+      <sentiment sentiment_modifier="intensifier" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_64" lemma="!" type="open">
+      <span>
+        <target id="w_64"/>
+      </span>
+    </term>
+    <term tid="t_65" lemma="you" type="open">
+      <span>
+        <target id="w_65"/>
+      </span>
+    </term>
+    <term tid="t_66" lemma="have" type="open">
+      <span>
+        <target id="w_66"/>
+      </span>
+    </term>
+    <term tid="t_67" lemma="to" type="open">
+      <span>
+        <target id="w_67"/>
+      </span>
+    </term>
+    <term tid="t_68" lemma="look" type="open">
+      <span>
+        <target id="w_68"/>
+      </span>
+    </term>
+    <term tid="t_69" lemma="for" type="open">
+      <span>
+        <target id="w_69"/>
+      </span>
+    </term>
+    <term tid="t_70" lemma="a" type="open">
+      <span>
+        <target id="w_70"/>
+      </span>
+    </term>
+    <term tid="t_71" lemma="parking" type="open">
+      <span>
+        <target id="w_71"/>
+      </span>
+    </term>
+    <term tid="t_72" lemma="space" type="open">
+      <span>
+        <target id="w_72"/>
+      </span>
+    </term>
+    <term tid="t_73" lemma="at" type="open">
+      <span>
+        <target id="w_73"/>
+      </span>
+    </term>
+    <term tid="t_74" lemma="the" type="open">
+      <span>
+        <target id="w_74"/>
+      </span>
+    </term>
+    <term tid="t_75" lemma="grachts" type="open">
+      <span>
+        <target id="w_75"/>
+      </span>
+    </term>
+    <term tid="t_76" lemma="!the" type="open">
+      <span>
+        <target id="w_76"/>
+      </span>
+    </term>
+    <term tid="t_77" lemma="tv" type="open">
+      <span>
+        <target id="w_77"/>
+      </span>
+    </term>
+    <term tid="t_78" lemma="doesn" type="open">
+      <span>
+        <target id="w_78"/>
+      </span>
+    </term>
+    <term tid="t_79" lemma="'t" type="open">
+      <span>
+        <target id="w_79"/>
+      </span>
+    </term>
+    <term tid="t_80" lemma="work" type="open">
+      <span>
+        <target id="w_80"/>
+      </span>
+    </term>
+    <term tid="t_81" lemma="very" type="open">
+      <span>
+        <target id="w_81"/>
+      </span>
+      <sentiment sentiment_modifier="intensifier" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_82" lemma="well" type="open" pos="N">
+      <span>
+        <target id="w_82"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_83" lemma="and" type="open">
+      <span>
+        <target id="w_83"/>
+      </span>
+    </term>
+    <term tid="t_84" lemma="there" type="open">
+      <span>
+        <target id="w_84"/>
+      </span>
+    </term>
+    <term tid="t_85" lemma="was" type="open">
+      <span>
+        <target id="w_85"/>
+      </span>
+    </term>
+    <term tid="t_86" lemma="no" type="open">
+      <span>
+        <target id="w_86"/>
+      </span>
+      <sentiment sentiment_modifier="shifter" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_87" lemma="remote" type="open">
+      <span>
+        <target id="w_87"/>
+      </span>
+    </term>
+    <term tid="t_88" lemma="control" type="open">
+      <span>
+        <target id="w_88"/>
+      </span>
+    </term>
+    <term tid="t_89" lemma="for" type="open">
+      <span>
+        <target id="w_89"/>
+      </span>
+    </term>
+    <term tid="t_90" lemma="it" type="open">
+      <span>
+        <target id="w_90"/>
+      </span>
+    </term>
+    <term tid="t_91" lemma="!free" type="open">
+      <span>
+        <target id="w_91"/>
+      </span>
+    </term>
+    <term tid="t_92" lemma="wi" type="open">
+      <span>
+        <target id="w_92"/>
+      </span>
+    </term>
+    <term tid="t_93" lemma="-fi" type="open">
+      <span>
+        <target id="w_93"/>
+      </span>
+    </term>
+    <term tid="t_94" lemma="is" type="open">
+      <span>
+        <target id="w_94"/>
+      </span>
+    </term>
+    <term tid="t_95" lemma="offered" type="open">
+      <span>
+        <target id="w_95"/>
+      </span>
+    </term>
+    <term tid="t_96" lemma="and" type="open">
+      <span>
+        <target id="w_96"/>
+      </span>
+    </term>
+    <term tid="t_97" lemma="available" type="open">
+      <span>
+        <target id="w_97"/>
+      </span>
+    </term>
+    <term tid="t_98" lemma="in" type="open">
+      <span>
+        <target id="w_98"/>
+      </span>
+    </term>
+    <term tid="t_99" lemma="the" type="open">
+      <span>
+        <target id="w_99"/>
+      </span>
+    </term>
+    <term tid="t_100" lemma="rooms" type="open">
+      <span>
+        <target id="w_100"/>
+      </span>
+    </term>
+    <term tid="t_101" lemma="!anyway" type="open">
+      <span>
+        <target id="w_101"/>
+      </span>
+    </term>
+    <term tid="t_102" lemma="if" type="open">
+      <span>
+        <target id="w_102"/>
+      </span>
+    </term>
+    <term tid="t_103" lemma="you" type="open">
+      <span>
+        <target id="w_103"/>
+      </span>
+    </term>
+    <term tid="t_104" lemma="look" type="open">
+      <span>
+        <target id="w_104"/>
+      </span>
+    </term>
+    <term tid="t_105" lemma="for" type="open">
+      <span>
+        <target id="w_105"/>
+      </span>
+    </term>
+    <term tid="t_106" lemma="a" type="open">
+      <span>
+        <target id="w_106"/>
+      </span>
+    </term>
+    <term tid="t_107" lemma="hotel" type="open">
+      <span>
+        <target id="w_107"/>
+      </span>
+    </term>
+    <term tid="t_108" lemma="with" type="open">
+      <span>
+        <target id="w_108"/>
+      </span>
+    </term>
+    <term tid="t_109" lemma="a" type="open">
+      <span>
+        <target id="w_109"/>
+      </span>
+    </term>
+    <term tid="t_110" lemma="good" type="open" pos="N">
+      <span>
+        <target id="w_110"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_111" lemma="location" type="open">
+      <span>
+        <target id="w_111"/>
+      </span>
+    </term>
+    <term tid="t_112" lemma="close" type="open" pos="N">
+      <span>
+        <target id="w_112"/>
+      </span>
+      <sentiment polarity="negative" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_113" lemma="to" type="open">
+      <span>
+        <target id="w_113"/>
+      </span>
+    </term>
+    <term tid="t_114" lemma="the" type="open">
+      <span>
+        <target id="w_114"/>
+      </span>
+    </term>
+    <term tid="t_115" lemma="center" type="open">
+      <span>
+        <target id="w_115"/>
+      </span>
+    </term>
+    <term tid="t_116" lemma="of" type="open">
+      <span>
+        <target id="w_116"/>
+      </span>
+    </term>
+    <term tid="t_117" lemma="amsterdam" type="open">
+      <span>
+        <target id="w_117"/>
+      </span>
+    </term>
+    <term tid="t_118" lemma="," type="open">
+      <span>
+        <target id="w_118"/>
+      </span>
+    </term>
+    <term tid="t_119" lemma="just" type="open">
+      <span>
+        <target id="w_119"/>
+      </span>
+    </term>
+    <term tid="t_120" lemma="for" type="open">
+      <span>
+        <target id="w_120"/>
+      </span>
+    </term>
+    <term tid="t_121" lemma="sleeping" type="open">
+      <span>
+        <target id="w_121"/>
+      </span>
+    </term>
+    <term tid="t_122" lemma="," type="open">
+      <span>
+        <target id="w_122"/>
+      </span>
+    </term>
+    <term tid="t_123" lemma="it" type="open">
+      <span>
+        <target id="w_123"/>
+      </span>
+    </term>
+    <term tid="t_124" lemma="is" type="open">
+      <span>
+        <target id="w_124"/>
+      </span>
+    </term>
+    <term tid="t_125" lemma="ok" type="open" pos="N">
+      <span>
+        <target id="w_125"/>
+      </span>
+      <sentiment polarity="positive" resource="VUA_olery_lexicon_en_lmf"/>
+    </term>
+    <term tid="t_126" lemma="!" type="open">
+      <span>
+        <target id="w_126"/>
+      </span>
+    </term>
+  </terms>
+  <opinions sum_positive="7" num_positive="5" num_negative="4" sum_negative="-6">
+    <opinion oid="o_1">
+      <opinion_target>
+        <span>
+          <target id="t_15"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="positive" strength="1">
+        <span>
+          <target id="t_14"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_2">
+      <opinion_target>
+        <span>
+          <target id="t_18"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="positive" strength="2">
+        <span>
+          <target id="t_17"/>
+          <target id="t_16"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_3">
+      <opinion_target>
+        <span>
+          <target id="t_26"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="negative" strength="-3">
+        <span>
+          <target id="t_22"/>
+          <target id="t_23"/>
+          <target id="t_24"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_4">
+      <opinion_target>
+        <span>
+          <target id="t_40"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="negative" strength="-1">
+        <span>
+          <target id="t_39"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_5">
+      <opinion_target>
+        <span>
+          <target id="t_51"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="negative" strength="-1">
+        <span>
+          <target id="t_50"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_6">
+      <opinion_target>
+        <span>
+          <target id="t_83"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="positive" strength="2">
+        <span>
+          <target id="t_82"/>
+          <target id="t_81"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_7">
+      <opinion_target overlap_props="p_4">
+        <span>
+          <target id="t_111"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="positive" strength="1">
+        <span>
+          <target id="t_110"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_8">
+      <opinion_target>
+        <span>
+          <target id="t_114"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="negative" strength="-1">
+        <span>
+          <target id="t_112"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o_9">
+      <opinion_target>
+        <span>
+          <target id="t_121"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="positive" strength="1">
+        <span>
+          <target id="t_125"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
+  <properties>
+    <property type="bathroom" pid="p_1">
+      <span>
+        <target id="t_52"/>
+      </span>
+      <span>
+        <target id="t_57"/>
+      </span>
+    </property>
+    <property type="cleanliness" pid="p_2">
+      <span>
+        <target id="t_24"/>
+      </span>
+    </property>
+    <property type="facilities" pid="p_3">
+      <span>
+        <target id="t_77"/>
+      </span>
+    </property>
+    <property type="location" pid="p_4">
+      <span>
+        <target id="t_50"/>
+      </span>
+      <span>
+        <target id="t_111"/>
+      </span>
+      <span>
+        <target id="t_112"/>
+      </span>
+      <span>
+        <target id="t_115"/>
+      </span>
+    </property>
+    <property type="parking" pid="p_5">
+      <span>
+        <target id="t_62"/>
+      </span>
+      <span>
+        <target id="t_71"/>
+      </span>
+    </property>
+    <property type="staff" pid="p_6">
+      <span>
+        <target id="t_17"/>
+      </span>
+    </property>
+  </properties>
+  <entities>
+    <entity type="ORG" eid="e_1">
+      <span>
+        <target id="t_4"/>
+      </span>
+      <span>
+        <target id="t_90"/>
+      </span>
+      <span>
+        <target id="t_123"/>
+      </span>
+    </entity>
+    <entity type="LOC" eid="e_2">
+      <span>
+        <target id="t_117"/>
+      </span>
+    </entity>
+    <entity type="MISC" eid="e_3">
+      <span>
+        <target id="t_21"/>
+      </span>
+      <span>
+        <target id="t_70"/>
+      </span>
+      <span>
+        <target id="t_106"/>
+      </span>
+      <span>
+        <target id="t_109"/>
+      </span>
+    </entity>
+  </entities>
+</KAF>

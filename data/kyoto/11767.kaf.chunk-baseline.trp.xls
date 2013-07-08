@@ -1,0 +1,59 @@
+tokenRangeFile:	../data/11767.tag.trp.first-element-token-scope
+tokenRange:	407
+
+Results per relation
+Relation	Total gold	Proportion Gold	Total system	Proportion system	PartialIdExactRelation	Recall	Precision
+destination-of	36	7%	0	0%	0	0	0
+use-of	5	1%	0	0%	0	0	0
+generic-location	14	2%	0	0%	0	0	0
+source-of	13	2%	0	0%	0	0	0
+instrument	2	0%	0	0%	0	0	0
+elementSecond	2	0%	0	0%	0	0	0
+product-of	3	0%	0	0%	0	0	0
+part-of	1	0%	0	0%	0	0	0
+purpose-of	9	1%	0	0%	0	0	0
+patient	165	35%	26962	100%	131	79	0
+path-of	1	0%	0	0%	0	0	0
+result-of	14	2%	0	0%	0	0	0
+has-state	47	10%	0	0%	0	0	0
+state-of	22	4%	0	0%	0	0	0
+done-by	83	17%	0	0%	0	0	0
+simple-cause-of	53	11%	0	0%	0	0	0
+Total	470		26962		131	27	0
+
+Precision and recall figures
+Gold standard	11767.tag.trp
+	Nr. of Triples	470
+	Average nr. of first element ids	1
+	Average nr. of second element ids	2
+
+System file	11767.kaf.chunk-baseline.trp
+	Nr. of Triples in total	26962
+	Nr. of Triples in range	26962
+	Nr. of Triples out of range	0
+	Average nr. of first element ids	1
+	Average nr. of second element ids	1
+	Number of unique Triples in scope	26962
+
+	Number of first elements represented in gold standard Triples	263
+	Number of first elements represented in system Triples	1752
+	Number of correct first elements represented in system Triples	1752
+	Recall of first elements	6.661596958174905
+	Precision of first elements	1.0
+
+	Number of second elements represented in gold standard Triples	362
+	Number of second elements represented in system Triples	1752
+	Number of correct second elements represented in system Triples	1752
+	Recall of second elements	4.8397790055248615
+	Precision of second elements	1.0
+
+Partial identifiers and same relation
+	Nr. correct	131
+	Precision	0.004858690008159632
+	Recall	0.27872340425531916
+
+	Nr of Triples	Triples inscope	Correct	WSD threshold	Precision	Recall
+11767.kaf.chunk-baseline.trp	26962	26962	131		0.004858690008159632	0.27872340425531916
+
+	Nr First Elements	Correct	Recall	Precision
+11767.kaf.chunk-baseline.trp	1752	1752	6.661596958174905	1.0
