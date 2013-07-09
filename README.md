@@ -67,6 +67,7 @@ The Kybot Evaluation has a number of main functions:
 3. evaluation module that compares triple files: FILE-BY-FILE, FOLDER-BY-FOLDER
 
 1. Conversion functions to create triple files
+---------------------------------------------
 
 1.1  Conversion of Kybot output to the triple format
 
@@ -87,6 +88,7 @@ scripts/convertkybotoutputtotriplets.sh
 
 It takes the KYOTO Kybot output in: the file data/11767.kaf.kybot.xml, which looks like:
 
+````shell
 <?xml version="1.0" encoding="UTF-8"?>
 <kybotOut>
   <doc shortname="11767.mw.wsd.ne.kaf.reduced-to-migration.kaf.onto">
@@ -97,9 +99,11 @@ It takes the KYOTO Kybot output in: the file data/11767.kaf.kybot.xml, which loo
     <role rid="r179" event="e92" target="t9019" lemma="passage" pos="N" rtype="patient" synset="eng-30-03895293-n" rank="0.118576" profile_id="generic_kybot_Vaccomplishment-Nphysical-object-OR-matter"/>
 
 etc....
+````
 
 and converts it to: data/11767.kaf.kybot.xml.0.trp and data/11767.kaf.kybot.xml.60.trp. The result looks as follows:
 
+````shell
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <triples>
 <triple id="e92" profile_id="generic_kybot_Vaccomplishment-Naccomplishment,generic_kybot_Vaccomplishment-N-Naccomplishment" relation="patient">
@@ -134,11 +138,13 @@ and converts it to: data/11767.kaf.kybot.xml.0.trp and data/11767.kaf.kybot.xml.
 		<elementSecond id="w10949"/>
 	</elementSecondIds>
 </triple>
+````
 
 1.2 Conversion of KAF Kybot tuples to triples
 
 Tuples consist of any number of elements with any name. To convert them to tuples, one of the element needs to be the parent and all the other elements will become children. When converted to a triples, a separate triple is generated for each pair of parent and child element. The tuple identifier is used as the triple identifier to trace back triples to the tuple from which they are derived. Below is a fragment of a tuple file:
 
+````shell
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <kafkybot-results>
   <tuples source="bus-accident.ont.dep.kaf">
@@ -157,7 +163,7 @@ Tuples consist of any number of elements with any name. To convert them to tuple
       <event concept="eng-30-00358431-v" confidence="0.662059" lemma="die" mention="t3" pos="VBD" tokens="w3"/>
       <participant concept="eng-30-08160276-n" confidence="0.0567295" lemma="people" mention="t2" pos="NNS" reference="ExtendedDnS.owl#social-object" role="agent" tokens="w2"/>
     </tuple>
- 
+```` 
     
 Main class:
 - vu.tripleevaluation.conversion.ConvertTuplesToTriples
@@ -170,14 +176,17 @@ This function takes 2 obligatory arguments:
 
 Example:
 
+````shell
 java -Xmx812m -cp ../lib/TripleEvaluation-1.0-jar-with-dependencies.jar vu.tripleevaluation.conversion.ConvertTuplesToTriples --tuple-file "../data/kyoto/bus-accident.ont.dep.kaf.sem.tpl" --first-element "event"
+````
 
 Output:
 - a file with the triples
 
 The above text is converted to the following triples:
 
-?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+````shell
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <triples>
 <triple id="bus-accident.ont.dep.kaf#1" profile_id="agent-1-sem" profile_confidence="30" relation="agent">
 	<elementFirstIds label="event" comment="respond">
@@ -219,7 +228,7 @@ The above text is converted to the following triples:
 		<elementSecond id="w21"/>
 	</elementSecondIds>
 </triple>
-
+````
 
 This program is shown by the script:
 
@@ -263,6 +272,7 @@ The program directly generates a triple file from KAF.
 The use of this function is shown in scripts/kybotbaselineevaluation.sh
 
 2. Translation of triple relations
+----------------------------------
 
 In some cases, relations in triples need to be adapted, e.g. because they are too fine-grained. 
 
@@ -278,6 +288,7 @@ Output:
 
 
 3. Evaluation of triple files
+-----------------------------
 
 3.1 Evaluating two triple files
 
@@ -304,6 +315,7 @@ The tokenrange indicates which tokens are considered. This is used when only a s
 
 If the class vu.tripleevaluation.evaluation.EvaluateTriplesDebug is used  instead, it generates details on the type of analysis, such as the precision for each profile, per relation and different types of matches: exact and partial identifiers, exact relation and ignoring the relations. It also generates a log file listing all missed triples (to improve recall), all correct matches and a confusion matrix for the profiles. There is also a log file. This log file contains a list of all the triples that were missed by the system, and errors generated in non-missed relations, e.g.
 
+````shell
 * Not covered Triples:458
 Sorted Triples:458
 ... followed by the sorted list of triples that were not detected
@@ -366,7 +378,8 @@ generic_kybot_Vaccomplishment-Nphysical-object-OR-matter,generic_kybot_Vaccompli
 	result-of	1
 generic_kybot_Vaccomplishment_for_Nphysical-object-OR-matter:purpose-of
 	elementSecond	2
-	
+````	
+
 To run the program in debug mode use:
 - vu.tripleevaluation.evaluation.EvaluateTriplesDebug
 
@@ -396,6 +409,7 @@ This function is shown in the script /scripts/openerevaluation.sh
 The script shows how system generated opinions in hotel reviews are compared with manually annotated reviews. They share the beginning of the file names but differ in the suffixing (name ending). The option --ignore-file-suffix is used to indicate what part of the file name should not be matched for files to be compared.
 
 LICENSE
+------
  TripleEvaluation is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. TripleEvaluation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  See the GNU General Public License for more details.
  You should have received a copy of the GNU General Public License along with TripleEvaluation.
