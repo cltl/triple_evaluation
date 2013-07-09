@@ -69,7 +69,7 @@ The Kybot Evaluation has a number of main functions:
 1. Conversion functions to create triple files
 ---------------------------------------------
 
-**1.1  Conversion of Kybot output to the triple format**
+*1.1  Conversion of Kybot output to the triple format*
 
 Main class:
 - vu.tripleevaluation.conversion.KybotOutputToTriples
