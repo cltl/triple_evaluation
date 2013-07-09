@@ -1,9 +1,12 @@
 TripleEvaluation module
 ======================
 
-Version 0.1
-Date: 30 May 2013
-Copy right: Piek Vossen, piek.vossen@vu.nl
+ - Version 0.1
+ - Date: 30 May 2013
+ - Copy right: Piek Vossen, piek.vossen@vu.nl
+
+Introduction
+------------
 
 This program evaluates text mining output from text on the basis of a triple representation.
  
@@ -14,6 +17,7 @@ A triple consists of:
 
 Here is an example of a triple in XML format:
 
+````shell
 <triple id="16" relation="ROLE-DONE-BY">
 	<elementFirstIds>
 		<elementFirst id="w12250"/>
@@ -23,6 +27,7 @@ Here is an example of a triple in XML format:
 		<elementSecond id="w12240"/>
 	</elementSecondIds>
 </triple>
+````
 
 The identifiers refer to the token layer of the text, which is the most basic unit of 
 analysis providing as little bias as possible.
