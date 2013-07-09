@@ -69,7 +69,7 @@ The Kybot Evaluation has a number of main functions:
 1. Conversion functions to create triple files
 ---------------------------------------------
 
-*1.1  Conversion of Kybot output to the triple format*
+**1.1  Conversion of Kybot output to the triple format**
 
 Main class:
 - vu.tripleevaluation.conversion.KybotOutputToTriples
@@ -140,7 +140,7 @@ and converts it to: data/11767.kaf.kybot.xml.0.trp and data/11767.kaf.kybot.xml.
 </triple>
 ````
 
-1.2 Conversion of KAF Kybot tuples to triples
+**1.2 Conversion of KAF Kybot tuples to triples**
 
 Tuples consist of any number of elements with any name. To convert them to tuples, one of the element needs to be the parent and all the other elements will become children. When converted to a triples, a separate triple is generated for each pair of parent and child element. The tuple identifier is used as the triple identifier to trace back triples to the tuple from which they are derived. Below is a fragment of a tuple file:
 
@@ -170,9 +170,11 @@ Main class:
 
 This function takes 2 obligatory arguments:
 
---tuple-file		<path to the file or folder with the tuples>
---first-element		<the name fo the element in the tuple that will become the first element in the triples>
---extension			<in case a folder with tuple files is given , then file extension of the tuple files>
+````shell
+--tuple-file  <path to the file or folder with the tuples>
+--first-element <the name fo the element in the tuple that will become the first element in the triples>
+--extension <in case a folder with tuple files is given , then file extension of the tuple files>
+````
 
 Example:
 
@@ -235,13 +237,13 @@ This program is shown by the script:
 scripts/tuples-to-triples.sh
 
 
-1.3 Conversion of KAF to triples
+**1.3 Conversion of KAF to triples**
 
 Main class:
 - vu.tripleevaluation.conversion.ConvertKafToTriples
 
 The usage of the class is as follows:
-
+````shell
 --kaf-file			<path to a single kaf file>
 --kaf-folder		<path to a folder with kaf files>
 --extension			[OPTIONAL] <file extension of the KAF files to be considered, to be used with the --kaf-folder option>
@@ -251,6 +253,7 @@ The usage of the class is as follows:
 --property			[OPTIONAL] <property layer is converted to triples>
 --term-sentiment	[OPTIONAL] <sentiments at the term layer are converted to triples>
 --srl				[OPTIONAL] <semantic role layer is converted to triples>
+````
 
 Output:
 - a file with the triples
@@ -259,7 +262,7 @@ This program is shown by the script:
 
 scripts/kaf-to-triples.sh
 
-1.4 Baseline triples for KYOTO
+**1.4 Baseline triples for KYOTO**
 
 The package includes a function to extract a baseline from a KAF file. The baseline creates triples between all the heads of constituents (chunks),
 taking one as the event and all the others as the roles. You can call this function using the main class:
@@ -280,23 +283,26 @@ Main class:
 vu.tripleevaluation.conversion.TripleRelationConversion
 
 Usage:
+````shell
 --triples				<path to the triple file
 --relation-mapping		<path to a text file on each line the source relation+tab+targe relation for translation>
 
+
 Output:
 - a triple file with translated relations
-
+````
 
 3. Evaluation of triple files
 -----------------------------
 
-3.1 Evaluating two triple files
+**3.1 Evaluating two triple files**
 
 Main class:
 - vu.tripleevaluation.evaluation.EvaluateTriples
 
 This function takes the following arguments:
 
+````shell
 --gold-standard-triples            file with gold standard triples
 --system-triples                   file with system triples
 --token-range (optional)            file with tokens for the events to be covered
@@ -306,6 +312,7 @@ This function takes the following arguments:
 
 Output:
 - xls file with statistics and recall & precision for the system file. 
+````
 
 The evaluation is shown through script/kybotevaluation.sh
 
@@ -385,7 +392,7 @@ To run the program in debug mode use:
 
 The KYOTO project offers an annotation tool (KafAnnotator) to create a gold-standard of triples from a text that is represented in the Kyoto annotation format (KAF).
 
-3.2. Evaluating two folders with triple files
+**3.2. Evaluating two folders with triple files**
 
 This program will compare a folder with system triple files with a folder with gold-standard triple files. 
 
@@ -393,6 +400,7 @@ Main class
 vu.tripleevaluation.evaluation.EvaluateTripleFolders
 
 Usage:
+````shell
 --gold-standard-triples		<path to the folder with the gold-standard triples
 --system-triples			<path to the folder with the system triples>
 --key						[OPTIONAL]<any string to name the evaluation result file
@@ -403,6 +411,7 @@ Usage:
 
 Output:
 It will create a subfolder in the system triple folder with a date stamp and place and overview XLS file in that folder.
+````
 
 This function is shown in the script /scripts/openerevaluation.sh
 
